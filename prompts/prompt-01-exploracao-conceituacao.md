@@ -61,7 +61,4 @@ Este prompt representa a etapa inicial do ciclo de aprendizagem: **explorar ante
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
-**Autora:** Nágyla Silva
-
 *Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
