@@ -256,7 +256,7 @@ As respostas selecionadas na Seção 7 foram fundamentadas principalmente nas fo
 A análise sobre os pontos de convergência utilizou principalmente:
 
 * **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell.
-* **Economia Comportamental e Vieses (Psicologia da Decisão)** — Annika Steele, Dan Pilat e Dr. Sekoul Krastev.
+* **Financial Literacy: An Essential Tool for Informed Consumer Choice?** — Annamaria Lusardi.
 * **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Olivia S. Mitchell e Annamaria Lusardi.
 * **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual** — relatório de Deep Research utilizado no NotebookLM.
 * **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano** — relatório de Deep Research utilizado no NotebookLM.
@@ -268,9 +268,9 @@ A análise sobre diferenças e divergências utilizou principalmente:
 
 * **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Olivia S. Mitchell e Annamaria Lusardi.
 * **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell.
-* **The Influence of Cognitive Biases on Personal Financial Decisions (RSIS International)** — Dra. Lidia Durom
-* **Nudge Theory (Referências do The Decision Lab, EBSCO e Michigan Journal)** — Annamaria Lusardi.
-* **How Ordinary Consumers Make Complex Economic Decisions (NBER): Os autores são Annamaria Lusardi** — relatório de Deep Research utilizado no NotebookLM.
+* **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness** — Annamaria Lusardi e Olivia S. Mitchell.
+* **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving** — Richard H. Thaler e Shlomo Benartzi.
+* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual** — relatório de Deep Research utilizado no NotebookLM.
 * Materiais relacionados à **Nudge Theory** utilizados no caderno temático.
 
 > **Observação metodológica:** as respostas apresentadas nesta seção representam sínteses produzidas a partir das fontes disponíveis no NotebookLM. Elas não devem ser interpretadas como transcrições literais dos trabalhos originais. Afirmações específicas devem ser conferidas diretamente nas fontes correspondentes quando houver necessidade de validação acadêmica ou documental.
