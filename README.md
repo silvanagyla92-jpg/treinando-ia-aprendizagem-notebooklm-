@@ -183,15 +183,15 @@ Os prompts foram elaborados a partir das perguntas estratégicas da Seção 5 e 
 
 ### 6.2 Resultados observados
 
-Os diferentes prompts permitiram direcionar o NotebookLM para objetivos específicos de aprendizagem.
+Os testes mostraram que a formulação do prompt influenciou diretamente a estrutura, o nível de aprofundamento e o foco das respostas produzidas pelo NotebookLM.
 
-* Prompts de **exploração** favoreceram a identificação e explicação dos conceitos fundamentais.
-* Prompts de **aprofundamento** permitiram concentrar a análise em conceitos específicos, como o Viés do Presente.
-* Prompts de **comparação** facilitaram a identificação de pontos de convergência e diferenças entre as fontes.
-* Prompts de **análise crítica** direcionaram a atenção para a fundamentação das afirmações e para a necessidade de distinguir informação diretamente sustentada pelas fontes de interpretações.
-* Prompts de **síntese** permitiram integrar diferentes conceitos em uma visão mais ampla sobre Gestão Financeira Pessoal.
+- **Exploração/conceituação:** o prompt direcionou a resposta para a identificação e explicação de conceitos relacionados aos vieses cognitivos, emoções e comportamento financeiro.
+- **Aprofundamento:** a instrução mais específica permitiu concentrar a análise no Viés do Presente, no desconto hiperbólico e nas dificuldades relacionadas à poupança de longo prazo.
+- **Comparação entre fontes:** o prompt direcionou a resposta para a identificação de pontos de convergência entre diferentes fontes sobre educação financeira e tomada de decisões econômicas.
+- **Análise crítica:** a resposta foi orientada para diferenciar informações diretamente fundamentadas nas fontes de interpretações, conclusões e afirmações que exigiam cautela ou verificação adicional.
+- **Síntese:** o prompt buscou integrar diferentes conceitos e estabelecer relações entre conhecimento financeiro, organização dos recursos, comportamento e tomada de decisões.
 
-O principal resultado observado foi que a formulação do prompt influencia diretamente o tipo de resposta obtida. Instruções mais específicas, com objetivo e critérios claramente definidos, produziram respostas mais direcionadas ao propósito da investigação.
+De modo geral, os testes indicaram que prompts com **objetivo claramente definido, contexto específico e critérios de resposta** produziram resultados mais direcionados à finalidade de cada etapa da investigação.
 
 ---
 
