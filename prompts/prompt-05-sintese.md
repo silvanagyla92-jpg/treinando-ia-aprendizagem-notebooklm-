@@ -1,4 +1,4 @@
-ade da interação realizada n# Prompt 05 — Síntese
+# Prompt 05 — Síntese
 
 ## Objetivo
 
@@ -90,4 +90,4 @@ A síntese final demonstra como a Inteligência Artificial pode apoiar processos
 **Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
 **Plataforma:** NotebookLM  
 **Desafio:** DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM  
-**Autora:** Nágyla Silvao NotebookLM.
+**Autora:** Nágyla Silva
