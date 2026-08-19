@@ -183,7 +183,7 @@ Os prompts foram elaborados a partir das perguntas estratégicas da Seção 5 e 
 
 ### 6.2 Resultados observados
 
-Os testes mostraram que a formulação do prompt influenciou diretamente a estrutura, o nível de aprofundamento e o foco das respostas produzidas pelo NotebookLM.
+Os testes mostraram que a formulação dos prompts influenciou diretamente a estrutura, o nível de aprofundamento e o foco das respostas produzidas pelo NotebookLM.
 
 - **Exploração/conceituação:** o prompt direcionou a resposta para a identificação e explicação de conceitos relacionados aos vieses cognitivos, emoções e comportamento financeiro.
 - **Aprofundamento:** a instrução mais específica permitiu concentrar a análise no Viés do Presente, no desconto hiperbólico e nas dificuldades relacionadas à poupança de longo prazo.
