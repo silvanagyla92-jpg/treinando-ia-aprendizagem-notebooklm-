@@ -2,90 +2,55 @@
 
 ## Objetivo
 
-Este prompt foi desenvolvido para realizar a etapa final de **integração e síntese dos conhecimentos construídos durante a investigação no NotebookLM**.
-
-A proposta foi reunir os principais conceitos apresentados pelas diferentes fontes, relacionando aspectos de **educação financeira, organização de recursos, comportamento humano, hábitos financeiros e tomada de decisão econômica**.
-
-O objetivo foi ultrapassar uma visão fragmentada dos conteúdos, buscando compreender como diferentes fatores se conectam e influenciam a forma como as pessoas lidam com o dinheiro ao longo do tempo.
-
----
+Integrar os principais conhecimentos construídos nas etapas anteriores, relacionando educação financeira, organização de recursos, comportamento e tomada de decisão sem apagar as diferenças entre fontes e perspectivas.
 
 ## Prompt utilizado no NotebookLM
 
 ```text
-Considere todas as fontes disponíveis e reúna as principais ideias apresentadas por elas sobre como as pessoas lidam com o dinheiro.
+Considere as fontes disponíveis e reúna as principais ideias sustentadas por elas sobre como conhecimento financeiro, organização dos recursos, comportamento e hábitos se relacionam com as escolhas econômicas.
 
-Relacione o que elas dizem sobre aprender e compreender informações financeiras, organizar os próprios recursos, desenvolver hábitos e comportamentos e fazer escolhas diante de diferentes situações.
+Organize a síntese em quatro partes:
+1. conhecimentos e conceitos financeiros;
+2. organização e planejamento;
+3. fatores comportamentais e contextuais;
+4. tomada de decisão e implicações práticas.
 
-Mostre como esses elementos se conectam e se influenciam, evitando analisar cada ideia de forma isolada.
+Para cada parte, diferencie o que está diretamente apoiado pelas fontes de conclusões que resultam da integração entre elas.
 
-Ao final, formule uma única pergunta que busque compreender, de maneira ampla, como esses diferentes elementos se relacionam com as escolhas que as pessoas fazem sobre seu dinheiro.
+Não apresente como consenso uma ideia que esteja presente apenas em uma fonte.
+
+Ao final, apresente uma síntese curta que integre os elementos sem afirmar causalidade além do que as fontes sustentam.
 ```
-
----
 
 ## Pergunta estratégica relacionada
 
 **Como conhecimento financeiro, organização dos recursos, comportamento e hábitos influenciam conjuntamente as escolhas que as pessoas fazem em relação ao dinheiro?**
 
----
-
 ## Finalidade da investigação
 
-Este prompt foi utilizado para:
-
-- integrar os principais conhecimentos obtidos nas etapas anteriores da investigação;
-- relacionar educação financeira, comportamento econômico e tomada de decisão;
-- compreender como diferentes fatores influenciam o comportamento financeiro individual;
-- identificar conexões entre conhecimento, hábitos e resultados financeiros;
-- construir uma visão sistêmica sobre a Gestão Financeira Pessoal;
-- transformar informações distribuídas em diferentes fontes em uma síntese estruturada.
-
-A resposta gerada pelo NotebookLM contribuiu para consolidar os aprendizados obtidos durante o projeto, conectando conceitos teóricos e aplicações práticas.
-
----
+- integrar os conhecimentos obtidos;
+- relacionar conceitos sem apagar suas diferenças;
+- separar evidência de síntese;
+- construir uma visão sistêmica da Gestão Financeira Pessoal;
+- consolidar o ciclo de aprendizagem.
 
 ## Conceitos explorados
 
-Durante a etapa de síntese, foram relacionados os seguintes conceitos:
+- educação financeira;
+- organização financeira;
+- comportamento financeiro;
+- hábitos;
+- tomada de decisão econômica;
+- gestão financeira pessoal;
+- síntese de múltiplas fontes.
 
-- **Educação financeira:** desenvolvimento de conhecimentos e habilidades para compreender e administrar recursos financeiros.
-- **Organização financeira:** planejamento e gerenciamento dos recursos disponíveis para alcançar objetivos.
-- **Comportamento financeiro:** conjunto de atitudes, hábitos e decisões relacionadas ao uso do dinheiro.
-- **Tomada de decisão econômica:** processo pelo qual indivíduos escolhem entre diferentes alternativas financeiras.
-- **Hábitos financeiros:** padrões de comportamento que influenciam resultados ao longo do tempo.
-- **Gestão financeira pessoal:** integração entre conhecimento, planejamento, comportamento e escolhas econômicas.
+## Validação e revisão
 
----
-
-## Observação sobre a resposta da IA
-
-A síntese produzida pelo NotebookLM foi analisada considerando:
-
-- capacidade de integrar diferentes fontes e conceitos;
-- coerência entre as ideias apresentadas;
-- relação entre informações individuais e visão sistêmica;
-- distinção entre conclusões fundamentadas e interpretações derivadas.
-
-A resposta da IA foi utilizada como instrumento de organização do conhecimento, não como substituição da análise crítica realizada durante o projeto.
-
----
-
-## Resultado esperado
-
-Este prompt buscou demonstrar como uma sequência estruturada de interações com Inteligência Artificial pode auxiliar na construção de conhecimento, permitindo transformar diferentes informações em uma visão integrada e contextualizada.
-
-A etapa de síntese representa o fechamento do processo investigativo, reunindo exploração, aprofundamento, comparação e análise crítica em uma compreensão mais ampla sobre Gestão Financeira Pessoal.
-
----
+O arquivo existente apresentava uma estrutura adequada, mas a revisão tornou o pedido de síntese mais controlado: a resposta deve distinguir evidência de integração e evitar atribuir consenso ou causalidade às fontes sem suporte.
 
 ## Relação com o projeto
 
-Este prompt representa a etapa de **consolidação do conhecimento**, encerrando o ciclo de aprendizagem desenvolvido no NotebookLM.
-
-A síntese final demonstra como a Inteligência Artificial pode apoiar processos de estudo e organização de informações quando combinada com curadoria de fontes, formulação adequada de prompts e avaliação crítica dos resultados.
-
----
+Este prompt representa a etapa final: **síntese após exploração, aprofundamento, comparação e análise crítica**.
 
 **Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
 **Plataforma:** NotebookLM  
