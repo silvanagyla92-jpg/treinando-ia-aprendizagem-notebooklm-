@@ -1,29 +1,305 @@
-# Evidências do projeto
+# Evidências do Projeto
 
-Esta pasta reúne os registros que documentam a execução prática do projeto **"Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM"**.
+Esta pasta reúne as evidências relacionadas ao desenvolvimento do projeto **Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM**.
 
-O objetivo é preservar evidências do processo realizado no NotebookLM e permitir a rastreabilidade entre **fontes, perguntas, prompts, respostas e relatórios**.
+O objetivo é documentar, de forma organizada e rastreável, as principais etapas realizadas durante a utilização do NotebookLM, permitindo relacionar evidências visuais e documentais ao processo de aprendizagem desenvolvido.
 
-## Organização
+As evidências complementam a documentação apresentada no `README.md` principal e nos demais diretórios do repositório.
 
-- `notebooklm/fontes/` — registros relacionados às fontes utilizadas no caderno temático.
-- `notebooklm/perguntas/` — perguntas formuladas durante a investigação.
-- `notebooklm/prompts/` — evidências da aplicação dos prompts documentados no projeto.
-- `notebooklm/respostas/` — registros das respostas produzidas pelo NotebookLM.
-- `notebooklm/relatorios/` — relatórios e sínteses gerados durante a investigação.
-- `imagens/` — capturas de tela e demais registros visuais que comprovem etapas do processo.
+---
 
-## Princípio de organização
+## 1. Objetivo das evidências
 
-As evidências devem representar materiais efetivamente produzidos ou utilizados durante o projeto. Não serão incluídos registros fictícios apenas para preencher a estrutura.
+As evidências têm como finalidade demonstrar o **processo realizado durante o projeto**, e não apenas apresentar o resultado final.
 
-Quando uma evidência depender de um arquivo, captura ou documento específico, ele poderá ser adicionado à pasta correspondente, mantendo nome e contexto identificáveis.
+A documentação busca permitir a identificação do percurso:
 
-## Relação com o projeto
+**fontes → perguntas → prompts → respostas → análise → verificação → síntese → resultado**
 
-A pasta complementa os documentos principais do repositório e ajuda a demonstrar não apenas o resultado final, mas também o processo de aprendizagem, investigação e análise crítica realizado com apoio da Inteligência Artificial.
+Dessa forma, o repositório registra tanto os conhecimentos explorados quanto a forma como a Inteligência Artificial foi utilizada como ferramenta de aprendizagem.
+
+---
+
+## 2. Estrutura das evidências
+
+A pasta está organizada de acordo com as principais etapas do processo realizado no NotebookLM:
+
+```text
+evidencias/
+│
+├── README.md
+│
+├── notebooklm/
+│   ├── fontes/
+│   ├── perguntas/
+│   ├── prompts/
+│   ├── respostas/
+│   └── relatorios/
+│
+└── imagens/
+```
+
+### 2.1 `notebooklm/fontes/`
+
+Destinada às evidências relacionadas à **curadoria e organização das fontes** utilizadas no caderno temático.
+
+Durante a pesquisa foram identificadas e exploradas **26 fontes** relacionadas à Gestão Financeira Pessoal, abrangendo temas como:
+
+- educação e alfabetização financeira;
+- comportamento econômico;
+- vieses cognitivos;
+- economia comportamental;
+- organização financeira;
+- investimentos;
+- planejamento;
+- tomada de decisões econômicas.
+
+Entre as fontes principais selecionadas estão trabalhos de **Annamaria Lusardi, Olivia S. Mitchell, Richard H. Thaler e Shlomo Benartzi**.
+
+### 2.2 `notebooklm/perguntas/`
+
+Destinada às evidências das **perguntas estratégicas** utilizadas durante a investigação.
+
+As perguntas foram elaboradas para conduzir a aprendizagem de forma progressiva, explorando aspectos como:
+
+- psicologia e decisões econômicas;
+- preferência pelo presente;
+- educação financeira;
+- comportamento financeiro;
+- comparação entre fontes;
+- fundamentação das respostas;
+- integração dos conceitos.
+
+Essa etapa demonstra que a interação com o NotebookLM foi conduzida por meio de questionamentos estruturados, e não apenas por consultas genéricas.
+
+### 2.3 `notebooklm/prompts/`
+
+Destinada às evidências relacionadas à **engenharia de prompts**.
+
+Os prompts foram organizados em cinco etapas:
+
+1. **Exploração e conceituação**;
+2. **Aprofundamento**;
+3. **Comparação entre fontes**;
+4. **Análise crítica**;
+5. **Síntese**.
+
+Essa sequência representa a evolução da investigação:
+
+**explorar → aprofundar → comparar → verificar → sintetizar**
+
+Durante o processo, os prompts foram refinados para melhorar a clareza das instruções e orientar o NotebookLM de acordo com os objetivos de aprendizagem.
+
+### 2.4 `notebooklm/respostas/`
+
+Destinada às evidências das respostas produzidas pelo NotebookLM e selecionadas para análise.
+
+As respostas documentadas estão relacionadas principalmente a:
+
+- pontos de convergência entre as fontes;
+- diferenças e divergências entre as fontes;
+- relação entre educação financeira e tomada de decisão;
+- influência de fatores comportamentais;
+- integração dos conhecimentos estudados.
+
+A análise das respostas considera que uma resposta produzida por Inteligência Artificial não deve ser tratada automaticamente como informação validada.
+
+Por isso, o projeto procura distinguir:
+
+- **informação diretamente fundamentada nas fontes**;
+- **síntese construída a partir das fontes**;
+- **interpretação ou inferência**;
+- **informação que necessita de verificação adicional**.
+
+### 2.5 `notebooklm/relatorios/`
+
+Destinada às evidências relacionadas aos relatórios utilizados durante a investigação.
+
+Foram produzidos e utilizados dois relatórios de Deep Research como materiais de apoio à organização e integração dos conhecimentos:
+
+- **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano**;
+- **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual**.
+
+Esses materiais são tratados como **relatórios de apoio produzidos durante o processo de investigação**, e não como fontes acadêmicas primárias equivalentes aos artigos e working papers utilizados no projeto.
+
+---
+
+## 3. Evidências visuais
+
+A pasta `imagens/` será utilizada para armazenar capturas de tela e outros registros visuais relacionados à execução do projeto.
+
+As imagens poderão demonstrar, por exemplo:
+
+- configuração e organização do caderno no NotebookLM;
+- fontes adicionadas;
+- perguntas realizadas;
+- prompts utilizados;
+- respostas obtidas;
+- referências apresentadas pelo NotebookLM;
+- relatórios produzidos;
+- etapas de análise e síntese.
+
+### Imagem da execução
+
+**A evidência visual será adicionada pela autora a partir do registro real produzido durante a utilização do NotebookLM.**
+
+Após a inclusão da imagem, recomenda-se registrar:
+
+- **Descrição:** o que está sendo demonstrado;
+- **Etapa:** fonte, pergunta, prompt, resposta, relatório ou síntese;
+- **Objetivo:** por que a evidência é relevante;
+- **Relação com o processo:** em qual etapa do fluxo metodológico ela se encaixa.
+
+Exemplo de registro:
+
+```markdown
+![Evidência do NotebookLM](./imagens/nome-da-imagem.png)
+
+**Descrição:** Captura de tela da interação realizada no NotebookLM.
+
+**Etapa:** Respostas.
+
+**Objetivo:** Demonstrar a utilização das fontes selecionadas para obtenção e análise das respostas.
+
+**Relação com o processo:** Perguntas → Prompts → Respostas.
+```
+
+---
+
+## 4. Rastreabilidade
+
+As evidências foram organizadas para permitir relacionar cada etapa do projeto aos respectivos materiais documentados.
+
+| Etapa | Evidência esperada | Local |
+|---|---|---|
+| Curadoria | Fontes utilizadas | `notebooklm/fontes/` |
+| Investigação | Perguntas estratégicas | `notebooklm/perguntas/` |
+| Engenharia de prompts | Prompts e refinamentos | `notebooklm/prompts/` |
+| Análise | Respostas selecionadas | `notebooklm/respostas/` |
+| Aprofundamento | Relatórios de pesquisa | `notebooklm/relatorios/` |
+| Registro visual | Capturas de tela | `imagens/` |
+
+Essa organização permite acompanhar o desenvolvimento do projeto desde a entrada das informações até a consolidação dos conhecimentos.
+
+---
+
+## 5. Critérios de documentação
+
+As evidências devem representar **etapas efetivamente realizadas durante o projeto**.
+
+Por esse motivo:
+
+- não devem ser utilizadas capturas fictícias;
+- não devem ser apresentadas como evidência informações que não foram observadas;
+- imagens devem, sempre que possível, manter relação clara com a etapa documentada;
+- respostas da IA devem ser analisadas em conjunto com suas fontes;
+- interpretações não devem ser apresentadas como fatos;
+- informações que não puderem ser confirmadas devem ser identificadas como necessitando de verificação.
+
+A documentação busca preservar a **rastreabilidade e a transparência do processo de aprendizagem**.
+
+---
+
+## 6. Relação com a metodologia
+
+As evidências estão diretamente relacionadas à metodologia adotada no projeto:
+
+**curadoria → questionamento → experimentação → análise → verificação → refinamento → síntese**
+
+Cada etapa possui uma função específica:
+
+### Curadoria
+Seleção e organização das fontes utilizadas para alimentar o caderno temático.
+
+### Questionamento
+Formulação de perguntas estratégicas para direcionar a investigação.
+
+### Experimentação
+Criação, teste e refinamento dos prompts utilizados com o NotebookLM.
+
+### Análise
+Avaliação das respostas produzidas pela ferramenta.
+
+### Verificação
+Comparação das afirmações com as fontes disponíveis e identificação de possíveis limitações.
+
+### Refinamento
+Reformulação das perguntas ou prompts quando os resultados não atendiam adequadamente ao objetivo.
+
+### Síntese
+Integração dos conhecimentos considerados relevantes em uma visão estruturada sobre Gestão Financeira Pessoal.
+
+---
+
+## 7. Importância das evidências para o projeto
+
+A documentação das evidências amplia o valor do projeto como experiência de aprendizagem e como material de portfólio.
+
+O objetivo não é demonstrar apenas que uma ferramenta de Inteligência Artificial foi utilizada, mas evidenciar **como ela foi utilizada**.
+
+O conjunto de evidências permite demonstrar competências relacionadas a:
+
+- curadoria de informações;
+- pesquisa e investigação;
+- engenharia de prompts;
+- avaliação crítica de respostas de IA;
+- verificação de informações;
+- organização do conhecimento;
+- documentação e rastreabilidade;
+- utilização responsável de Inteligência Artificial.
+
+---
+
+## 8. Limitações
+
+As evidências apresentadas neste diretório representam apenas as etapas que puderam ser efetivamente registradas.
+
+Uma captura de tela ou resposta do NotebookLM demonstra uma etapa do processo, mas não constitui, isoladamente, prova de que uma afirmação seja verdadeira.
+
+Por isso, o projeto mantém como princípio:
+
+> **Evidência da interação com a IA não é comprovação automática da informação apresentada pela IA.**
+
+A validação do conteúdo deve considerar as fontes utilizadas, a qualidade da evidência e a análise crítica realizada durante o projeto.
+
+---
+
+## 9. Resultado esperado
+
+Ao final da organização das evidências, esta pasta deverá permitir reconstruir visual e documentalmente o percurso realizado no NotebookLM:
+
+```text
+FONTES
+   ↓
+PERGUNTAS
+   ↓
+PROMPTS
+   ↓
+RESPOSTAS
+   ↓
+ANÁLISE
+   ↓
+VERIFICAÇÃO
+   ↓
+SÍNTESE
+   ↓
+RESULTADO
+```
+
+Assim, as evidências funcionam como um registro do **processo de aprendizagem ativa apoiado por Inteligência Artificial**, complementando os conteúdos e análises apresentados nas demais partes do repositório.
+
+---
+
+## 10. Identificação do projeto
 
 **Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
-**Plataforma:** NotebookLM  
-**Desafio:** DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM  
-**Autora:** Nágyla Silva
+**Desafio:** Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM — DIO  
+**Ferramenta principal:** NotebookLM  
+**Tema:** Gestão Financeira Pessoal  
+**Autora:** Nágyla Silva  
+
+**Objetivo central:** utilizar Inteligência Artificial como apoio à aprendizagem ativa, pesquisa, análise, verificação e organização do conhecimento.
+
+---
+
+> **Nota:** As evidências visuais devem ser adicionadas a partir dos registros reais obtidos durante a execução do projeto. Nenhuma captura ou registro deve ser criado artificialmente apenas para preencher esta documentação.
