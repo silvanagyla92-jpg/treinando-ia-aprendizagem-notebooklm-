@@ -1,31 +1,54 @@
 # Evidências — Prompts
 
-Esta pasta reúne os registros que comprovam a **aplicação dos prompts no NotebookLM**.
+Esta pasta reúne os registros relacionados à aplicação dos cinco prompts utilizados na investigação com o NotebookLM.
 
-## Objetivo
+## 1. Prompt 01 — Exploração e conceituação
 
-Relacionar os prompts documentados na pasta `prompts/` com as evidências de sua utilização durante a investigação.
+**Finalidade:** iniciar a exploração de como fatores psicológicos, comportamentais e cognitivos podem influenciar decisões econômicas.
 
-## O que pode ser registrado
+**Pergunta relacionada:** Como os vieses cognitivos e a psicologia afetam nossas decisões econômicas?
 
-- capturas de tela da aplicação dos prompts;
-- registros das instruções enviadas ao NotebookLM;
-- evidências da sequência de interação;
-- observações sobre alterações ou refinamentos realizados durante a investigação;
-- referências cruzadas para os arquivos `prompt-01` a `prompt-05`.
+**Arquivo de referência:** `prompts/prompt-01-exploracao-conceituacao.md`
 
-## Relação com os prompts documentados
+## 2. Prompt 02 — Aprofundamento
 
-Os cinco prompts principais do projeto estão documentados em `prompts/`. Esta pasta não substitui essa documentação: seu papel é preservar **a evidência de execução**.
+**Finalidade:** aprofundar a investigação sobre tomada de decisão intertemporal, Viés do Presente, desconto hiperbólico e planejamento de longo prazo.
 
-A organização recomendada é manter a correspondência entre o prompt e sua evidência, por exemplo:
+**Pergunta relacionada:** De que forma o “Viés do Presente” (ou desconto hiperbólico) explica a dificuldade sistemática dos indivíduos em poupar para objetivos de longo prazo?
 
-`prompt-01-exploracao-conceituacao` → evidência da aplicação do Prompt 01.
+**Arquivo de referência:** `prompts/prompt-02-aprofundamento.md`
 
-## Critério de autenticidade
+## 3. Prompt 03 — Comparação entre fontes
 
-Somente devem ser adicionados registros efetivamente produzidos durante a interação com o NotebookLM. Caso uma interação não tenha sido capturada ou exportada, isso deve ser tratado como ausência de evidência, e não preenchido por material reconstruído.
+**Finalidade:** comparar as fontes para identificar convergências, diferenças de abordagem e complementaridades sobre educação e alfabetização financeira.
+
+**Pergunta relacionada:** Quais são os principais pontos de convergência entre as fontes sobre a importância da educação financeira para a tomada de decisões econômicas?
+
+**Arquivo de referência:** `prompts/prompt-03-comparacao-fontes.md`
+
+## 4. Prompt 04 — Análise crítica
+
+**Finalidade:** revisar as respostas produzidas pelo NotebookLM, distinguindo fatos fundamentados, sínteses, interpretações e informações que exigem verificação adicional.
+
+**Pergunta relacionada:** Quais informações produzidas pela IA estão diretamente fundamentadas nas fontes utilizadas e quais representam interpretações ou necessitam de verificação adicional?
+
+**Arquivo de referência:** `prompts/prompt-04-analise-critica.md`
+
+## 5. Prompt 05 — Síntese
+
+**Finalidade:** integrar os conhecimentos construídos nas etapas anteriores, relacionando conhecimento financeiro, organização, comportamento e tomada de decisão.
+
+**Pergunta relacionada:** Como conhecimento financeiro, organização dos recursos, comportamento e hábitos influenciam conjuntamente as escolhas que as pessoas fazem em relação ao dinheiro?
+
+**Arquivo de referência:** `prompts/prompt-05-sintese.md`
+
+## Sequência metodológica
+
+**Exploração → Aprofundamento → Comparação → Análise crítica → Síntese**
+
+Os cinco prompts já estão documentados individualmente na pasta `prompts/`. Este diretório de evidências estabelece a relação entre cada prompt e sua respectiva etapa da investigação.
 
 **Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
 **Plataforma:** NotebookLM  
+**Desafio:** DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM  
 **Autora:** Nágyla Silva
