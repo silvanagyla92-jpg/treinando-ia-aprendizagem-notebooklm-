@@ -117,7 +117,11 @@ prompts/
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
+**CI&T – Do Prompt ao Agente** 
+
+**DIO — Treinando uma IA de Aprendizagem** 
+
+**NotebookLM**  
 
 **Autora:** Nágyla Silva
 
