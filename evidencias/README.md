@@ -1,14 +1,27 @@
 # Evidências do projeto
 
-Esta pasta reúne os registros e evidências produzidos durante o desenvolvimento do projeto **"Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM"**.
+Esta pasta reúne os registros que documentam a execução prática do projeto **"Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM"**.
 
-A pasta será utilizada para documentar, de forma organizada e rastreável, os elementos que comprovam as etapas de investigação, interação com o NotebookLM, análise das respostas e desenvolvimento do projeto.
+O objetivo é preservar evidências do processo realizado no NotebookLM e permitir a rastreabilidade entre **fontes, perguntas, prompts, respostas e relatórios**.
 
 ## Organização
 
-Os arquivos de evidências poderão incluir registros das interações, capturas de tela, resultados relevantes, documentos de apoio e outros materiais relacionados à execução do projeto.
+- `notebooklm/fontes/` — registros relacionados às fontes utilizadas no caderno temático.
+- `notebooklm/perguntas/` — perguntas formuladas durante a investigação.
+- `notebooklm/prompts/` — evidências da aplicação dos prompts documentados no projeto.
+- `notebooklm/respostas/` — registros das respostas produzidas pelo NotebookLM.
+- `notebooklm/relatorios/` — relatórios e sínteses gerados durante a investigação.
+- `imagens/` — capturas de tela e demais registros visuais que comprovem etapas do processo.
 
-Novos arquivos poderão ser adicionados conforme a documentação do projeto for consolidada.
+## Princípio de organização
+
+As evidências devem representar materiais efetivamente produzidos ou utilizados durante o projeto. Não serão incluídos registros fictícios apenas para preencher a estrutura.
+
+Quando uma evidência depender de um arquivo, captura ou documento específico, ele poderá ser adicionado à pasta correspondente, mantendo nome e contexto identificáveis.
+
+## Relação com o projeto
+
+A pasta complementa os documentos principais do repositório e ajuda a demonstrar não apenas o resultado final, mas também o processo de aprendizagem, investigação e análise crítica realizado com apoio da Inteligência Artificial.
 
 **Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
 **Plataforma:** NotebookLM  
