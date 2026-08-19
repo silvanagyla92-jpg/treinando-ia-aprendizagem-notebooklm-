@@ -207,17 +207,17 @@ Foram consideradas diferentes perspectivas sobre:
 
 As fontes institucionais e educacionais contribuíram para investigar práticas relacionadas a:
 
-- orçamento pessoal;
-- controle de receitas e despesas;
-- planejamento;
-- poupança;
-- reserva de emergência;
-- crédito;
-- investimentos;
-- liquidez;
-- risco;
-- rentabilidade;
-- planejamento de longo prazo.
+- orçamento pessoal
+- controle de receitas e despesas
+- planejamento
+- poupança
+- reserva de emergência
+- crédito
+- investimentos
+- liquidez
+- risco
+- rentabilidade
+- planejamento de longo prazo
 
 ---
 
