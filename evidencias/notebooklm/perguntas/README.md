@@ -1,30 +1,34 @@
 # Evidências — Perguntas
 
-Esta pasta reúne os registros das **perguntas utilizadas durante a investigação no NotebookLM**.
+Esta pasta reúne as perguntas estratégicas utilizadas durante a investigação no NotebookLM.
 
-## Objetivo
+## Pergunta 01 — Exploração e conceituação
 
-Documentar as perguntas estratégicas e perguntas correlatas que orientaram a exploração das fontes e ajudaram a conduzir o processo de aprendizagem.
+**Como os vieses cognitivos e a psicologia afetam nossas decisões econômicas?**
 
-## Organização sugerida
+## Pergunta 02 — Aprofundamento
 
-Os registros podem ser organizados por ordem de utilização, por exemplo:
+**De que forma o “Viés do Presente” (ou desconto hiperbólico) explica a dificuldade sistemática dos indivíduos em poupar para objetivos de longo prazo?**
 
-- `pergunta-01.md`;
-- `pergunta-02.md`;
-- `pergunta-03.md`;
-- e assim sucessivamente.
+## Pergunta 03 — Comparação entre fontes
 
-Também podem ser utilizados arquivos de captura de tela quando a pergunta tiver sido registrada diretamente na interface do NotebookLM.
+**Quais são os principais pontos de convergência entre as fontes sobre a importância da educação financeira para a tomada de decisões econômicas?**
 
-## Relação com os prompts
+## Pergunta 04 — Análise crítica
 
-As perguntas representam o **objeto de investigação**, enquanto os prompts representam a **forma de orientar a IA para produzir uma determinada análise**. Uma pergunta pode, portanto, estar relacionada a um prompt específico e gerar uma ou mais interações.
+**Quais informações produzidas pela IA estão diretamente fundamentadas nas fontes utilizadas e quais representam interpretações ou necessitam de verificação adicional?**
 
-## Critério de autenticidade
+## Pergunta 05 — Síntese
 
-Devem ser registrados somente questionamentos realmente utilizados ou documentados durante o projeto. Não devem ser inventadas perguntas apenas para preencher a estrutura.
+**Como conhecimento financeiro, organização dos recursos, comportamento e hábitos influenciam conjuntamente as escolhas que as pessoas fazem em relação ao dinheiro?**
+
+## Sequência metodológica
+
+**Exploração → Aprofundamento → Comparação → Análise crítica → Síntese**
+
+As perguntas correspondem às etapas documentadas nos cinco prompts principais do projeto e permitem acompanhar a evolução da investigação no NotebookLM.
 
 **Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
 **Plataforma:** NotebookLM  
+**Desafio:** DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM  
 **Autora:** Nágyla Silva
