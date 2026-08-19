@@ -1,64 +1,59 @@
-# Prompt 01 — Exploração e conceituação
+# Prompt 01 — Exploração e Conceituação
 
-## Objetivo
+## 1. Objetivo
 
-Este prompt inaugura a sequência de investigação no NotebookLM. Sua finalidade é explorar como fatores psicológicos, comportamentais e cognitivos podem influenciar decisões econômicas do cotidiano, estabelecendo a base conceitual para os prompts posteriores.
+Investigar como fatores psicológicos e comportamentais influenciam as decisões financeiras, explorando vieses cognitivos, emoções, estresse e mecanismos de arquitetura de escolhas.
 
-A etapa inicial prioriza a identificação e a organização dos conceitos antes do aprofundamento, da comparação entre fontes e da análise crítica.
+## 2. Prompt original utilizado no NotebookLM
 
-## Prompt utilizado no NotebookLM
+> Atuando como um especialista em comportamento econômico, utilize as informações das fontes para explicar por que as pessoas **não agem de forma puramente lógica** ao lidar com o dinheiro. O texto deve detalhar como a mente utiliza **atalhos mentais e cai em armadilhas de pensamento (vieses)** que levam a decisões financeiras irracionais. Explique especificamente como o **medo de perder**, a **vontade de gastar no agora** e a **tendência de se prender a referências iniciais** afetam as escolhas de investimento e consumo. Além disso, discuta como o **estresse e os sentimentos** influenciam essas ações e como **organizar o ambiente de decisão** (*nudges*) pode ajudar as pessoas a fazerem escolhas melhores.
 
-```text
-Analise como as pessoas tomam decisões relacionadas ao dinheiro no dia a dia. Considere que essas escolhas podem ser influenciadas não apenas por informações e cálculos, mas também pela maneira como pensamos, sentimos, percebemos situações, avaliamos riscos e reagimos às circunstâncias.
-
-Explore como esses fatores podem influenciar decisões como gastar, economizar, investir ou escolher entre diferentes alternativas.
-
-Diferencie, sempre que possível, o que está diretamente apoiado pelas fontes de interpretações ou inferências construídas a partir delas.
-
-Ao final, formule uma única pergunta que investigue a relação entre a forma como pensamos e nossas decisões econômicas.
-```
-
-## Pergunta estratégica relacionada
+## 3. Pergunta estratégica relacionada
 
 **Como os vieses cognitivos e a psicologia afetam nossas decisões econômicas?**
 
-## Finalidade da investigação
+## 4. Finalidade da investigação
 
-O prompt foi utilizado para:
+Este prompt foi utilizado para iniciar a exploração conceitual do tema, relacionando conhecimentos de economia comportamental às decisões financeiras individuais.
 
-- iniciar a exploração conceitual do tema;
-- identificar fatores psicológicos e comportamentais relevantes;
-- estabelecer relações entre cognição e decisões financeiras;
-- preparar a investigação para o aprofundamento de conceitos específicos;
-- orientar perguntas posteriores sem antecipar uma conclusão.
+A investigação buscou compreender como fatores cognitivos, emocionais e contextuais podem influenciar escolhas relacionadas ao consumo, à poupança e aos investimentos.
 
-## Conceitos explorados
+## 5. Conceitos explorados
 
-- comportamento financeiro;
-- tomada de decisão econômica;
+- Comportamento econômico;
+- racionalidade limitada;
+- atalhos mentais;
 - vieses cognitivos;
+- Aversão à Perda;
+- Viés do Presente;
+- Ancoragem;
 - emoções;
-- percepção de risco;
-- escolhas intertemporais;
-- influência do contexto sobre decisões.
+- estresse;
+- tomada de decisão;
+- arquitetura de escolhas;
+- *Nudges*.
 
-## Validação e revisão
+## 6. Observação metodológica
 
-**Resultado da verificação no repositório:** o arquivo anterior não continha o Prompt 01 propriamente dito; continha novamente o conteúdo geral de `prompts/README.md`. Por isso, esta versão corrige a função documental do arquivo e registra um prompt específico para a primeira etapa da investigação.
+O prompt utiliza algumas formulações amplas, como **“decisões financeiras irracionais”** e **“medo de perder”**, que devem ser interpretadas de acordo com os conceitos efetivamente apresentados nas fontes.
 
-**Coerência com a sequência:** exploração conceitual → aprofundamento → comparação → análise crítica → síntese.
+A expressão **“medo de perder”** foi utilizada no prompt como formulação acessível para direcionar a investigação sobre mecanismos relacionados à **Aversão à Perda**. Da mesma forma, a **“vontade de gastar no agora”** direciona a investigação para mecanismos relacionados ao **Viés do Presente**, enquanto a **“tendência de se prender a referências iniciais”** está relacionada ao conceito de **Ancoragem**.
 
-**Cuidado metodológico:** o prompt foi formulado para explorar possibilidades sem afirmar previamente que determinado viés explica uma decisão. As conclusões devem ser atribuídas às fontes ou identificadas como inferências.
+Essas correspondências são interpretações metodológicas utilizadas para organizar a análise e não devem ser tratadas como equivalência automática sem considerar o conteúdo das fontes.
 
-## Relação com o projeto
+O prompt original foi preservado conforme utilizado no NotebookLM. Eventuais refinamentos metodológicos posteriores devem ser documentados separadamente e não incorporados ao texto original.
 
-Este prompt representa a etapa inicial do ciclo de aprendizagem: **explorar antes de aprofundar e concluir**.
+## 7. Relação com o projeto
 
-**Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
-**Plataforma:** NotebookLM  
-**Desafio:** DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM  
+Esta etapa corresponde ao primeiro momento da investigação e estabelece a base conceitual para as etapas posteriores.
+
+A exploração dos fatores psicológicos e comportamentais permite compreender que a Gestão Financeira Pessoal não depende exclusivamente de conhecimento técnico, mas também envolve processos de tomada de decisão, comportamento e contexto.
+
+O resultado desta etapa serve como base para o aprofundamento do **Viés do Presente** no Prompt 02 e para as etapas posteriores de comparação, análise crítica e síntese.
+
+## 8. Identificação do projeto
+
+**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
 **Autora:** Nágyla Silva
 
----
-
-*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator no GitHub.*
