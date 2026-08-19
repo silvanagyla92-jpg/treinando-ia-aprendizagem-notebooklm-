@@ -2,74 +2,53 @@
 
 ## Objetivo
 
-Este prompt foi desenvolvido para aprofundar a investigação sobre **tomada de decisão intertemporal**, explorando como fatores psicológicos influenciam escolhas financeiras relacionadas ao presente e ao futuro.
-
-A proposta foi analisar especificamente o **Viés do Presente**, também conhecido como **Desconto Hiperbólico**, relacionando conceitos de economia comportamental, psicologia da decisão e estratégias de arquitetura de escolhas.
-
----
+Aprofundar a investigação sobre tomada de decisão intertemporal, com foco no Viés do Presente e no desconto hiperbólico, relacionando esses conceitos à dificuldade de priorizar objetivos financeiros futuros.
 
 ## Prompt utilizado no NotebookLM
 
 ```text
-Assuma o papel de um especialista em finanças comportamentais e, com base nas fontes, elabore uma explicação técnica sobre a tomada de decisão intertemporal.
+Assuma o papel de um especialista em finanças comportamentais e, com base nas fontes disponíveis, explique tecnicamente a tomada de decisão intertemporal.
 
-Detalhe como o Viés do Presente (ou Desconto Hiperbólico) descreve a tendência humana de supervalorizar recompensas imediatas em detrimento de benefícios futuros significativamente maiores.
+Detalhe como o Viés do Presente e os modelos de desconto temporal ajudam a explicar a preferência por recompensas imediatas em relação a benefícios futuros.
 
-Explique o mecanismo psicológico da incapacidade neurológica de processar o bem-estar do "eu futuro" com a mesma urgência das demandas atuais e como o modelo de desconto quasi-hiperbólico (β-δ) ilustra a desvalorização subjetiva e abrupta da utilidade futura.
+Explique o modelo de desconto quasi-hiperbólico (β-δ) e indique claramente o que representa um modelo teórico e o que pode ser inferido sobre decisões financeiras reais.
 
-Por fim, discuta como esse viés atua como uma barreira sistemática para o acúmulo de patrimônio, resultando em procrastinação na poupança para a aposentadoria, e quais estratégias de arquitetura de escolha podem ser implementadas para mitigar esses efeitos.
+Relacione o conceito à poupança e ao planejamento de longo prazo somente quando houver suporte nas fontes.
+
+Por fim, apresente estratégias de arquitetura de escolhas discutidas nas fontes que possam ser utilizadas para lidar com esse tipo de dificuldade comportamental.
 ```
-
----
 
 ## Pergunta estratégica relacionada
 
-**De que forma o "Viés do Presente" (ou desconto hiperbólico) explica a dificuldade sistemática dos indivíduos em poupar para objetivos de longo prazo?**
-
----
+**De que forma o “Viés do Presente” (ou desconto hiperbólico) explica a dificuldade sistemática dos indivíduos em poupar para objetivos de longo prazo?**
 
 ## Finalidade da investigação
 
-O prompt teve como finalidade explorar:
-
-- a diferença entre decisões imediatas e decisões de longo prazo;
-- a influência do comportamento humano sobre escolhas financeiras;
-- os mecanismos psicológicos envolvidos na preferência pelo presente;
-- a relação entre desconto temporal e dificuldade de acumulação patrimonial;
-- estratégias comportamentais capazes de auxiliar decisões financeiras melhores.
-
----
+- aprofundar um conceito específico;
+- relacionar economia comportamental e decisões intertemporais;
+- compreender modelos de desconto temporal;
+- investigar a relação entre preferência pelo presente e planejamento;
+- identificar estratégias comportamentais discutidas nas fontes.
 
 ## Conceitos explorados
 
-Durante a análise, foram investigados os seguintes conceitos:
+- Viés do Presente;
+- desconto hiperbólico;
+- modelo β-δ (quasi-hiperbólico);
+- tomada de decisão intertemporal;
+- preferência temporal;
+- arquitetura de escolhas;
+- poupança e planejamento de longo prazo.
 
-- **Viés do Presente:** tendência de atribuir maior valor às recompensas imediatas em comparação com benefícios futuros.
-- **Desconto Hiperbólico:** modelo que representa a redução não linear do valor percebido de recompensas futuras.
-- **Modelo β-δ (quasi-hiperbólico):** abordagem utilizada para representar inconsistências nas preferências temporais humanas.
-- **Tomada de decisão intertemporal:** escolhas que envolvem consequências em diferentes momentos.
-- **Arquitetura de escolhas:** organização do ambiente decisório para facilitar comportamentos desejáveis.
+## Validação e revisão
 
----
+O arquivo existente apresentava uma estrutura consistente, mas continha uma formulação forte sobre uma suposta “incapacidade neurológica de processar o bem-estar do eu futuro”. Essa afirmação não deve ser apresentada como premissa sem uma fonte específica que a sustente.
 
-## Observação sobre a resposta da IA
+A versão revisada mantém o conceito comportamental e o modelo econômico, mas exige que afirmações sobre mecanismos neurológicos ou efeitos sobre patrimônio sejam atribuídas às fontes quando efetivamente sustentadas.
 
-A resposta produzida pelo NotebookLM foi analisada considerando:
+## Relação com o projeto
 
-- relação com as fontes disponíveis;
-- coerência conceitual;
-- distinção entre informações fundamentadas e interpretações;
-- necessidade de verificação adicional quando aplicável.
-
-As respostas geradas pela IA foram utilizadas como apoio ao processo de aprendizagem e análise, não sendo consideradas automaticamente como fatos validados sem relação com as fontes utilizadas.
-
----
-
-## Resultado esperado
-
-Este prompt buscou demonstrar como uma instrução estruturada, com definição de papel, contexto, conceitos específicos e objetivo analítico, permite obter respostas mais aprofundadas e direcionadas durante o processo de aprendizagem com IA.
-
----
+Este prompt representa a segunda etapa do ciclo: **aprofundar um conceito identificado na exploração inicial antes de compará-lo e avaliá-lo criticamente**.
 
 **Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
 **Plataforma:** NotebookLM  
