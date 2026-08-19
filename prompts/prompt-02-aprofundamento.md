@@ -4,7 +4,9 @@
 
 Este prompt foi desenvolvido para aprofundar a investigação sobre **tomada de decisão intertemporal**, explorando como fatores psicológicos influenciam escolhas financeiras relacionadas ao presente e ao futuro.
 
-A proposta foi analisar especificamente o **Viés do Presente**, também conhecido como **Desconto Hiperbólico**, relacionando conceitos de economia comportamental, psicologia da decisão e estratégias de arquitetura de escolhas.
+A proposta foi analisar especificamente o **Viés do Presente**, também conhecido como **Desconto Hiperbólico**, relacionando conceitos da economia comportamental, psicologia da decisão e estratégias de arquitetura de escolhas.
+
+O objetivo foi compreender por que indivíduos podem apresentar dificuldades em priorizar benefícios futuros, mesmo quando reconhecem sua importância, e como mecanismos comportamentais podem influenciar decisões relacionadas à poupança, investimentos e planejamento financeiro de longo prazo.
 
 ---
 
