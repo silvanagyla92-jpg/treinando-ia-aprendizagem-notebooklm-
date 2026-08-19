@@ -263,11 +263,8 @@ A organização desta pasta pode evoluir conforme novas evidências e registros 
 
 Estrutura inicial:
 
-```text
-fontes/
-└── README.md
-
----
+    fontes/
+    └── README.md
 
 Caso sejam adicionados posteriormente arquivos individuais, como cópias autorizadas, registros, metadados ou documentos internos, eles poderão ser organizados em subpastas específicas.
 
