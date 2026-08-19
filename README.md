@@ -249,6 +249,19 @@ Assim, as fontes não necessariamente se contradizem, mas apresentam diferentes 
 
 ## 8. Referências das respostas
 
+1. Lusardi, Annamaria; Mitchell, Olivia S. — **The Economic Importance of Financial Literacy: Theory and Evidence.**
+   Acessar a fonte — https://www.aeaweb.org/articles?id=10.1257/jel.52.1.5
+2. Lusardi, Annamaria — **Financial Literacy: An Essential Tool for Informed Consumer Choice?**
+Acessar a fonte — https://www.nber.org/papers/w14084
+3. Lusardi, Annamaria; Mitchell, Olivia S. — **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness.**
+Acessar a fonte — https://www.nber.org/papers/w15350
+4. Lusardi, Annamaria; Mitchell, Olivia S. — **Financial Literacy and Economic Outcomes: Evidence and Policy Implications.**
+Acessar a fonte — https://pmc.ncbi.nlm.nih.gov/articles/PMC5445906/
+5. Thaler, Richard H.; Benartzi, Shlomo — **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving.
+Acessar a fonte — https://www.chicagobooth.edu/research/rustandy/social-impact-research/research-papers/2004/save-more-tomorrow-using-behavioral-economics-to-increase-employee-saving
+Banco Central do Brasil — Caderno de Educação Financeira.
+Acessar a fonte — https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
+
 As respostas selecionadas na Seção 7 foram fundamentadas principalmente nas fontes utilizadas no caderno temático do NotebookLM.
 
 ### 8.1 Referências relacionadas à Resposta 01
