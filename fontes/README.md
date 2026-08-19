@@ -266,3 +266,24 @@ Estrutura inicial:
 ```text
 fontes/
 └── README.md
+
+---
+
+Caso sejam adicionados posteriormente arquivos individuais, como cópias autorizadas, registros, metadados ou documentos internos, eles poderão ser organizados em subpastas específicas.
+
+---
+
+## 10. Consideração final
+
+A curadoria das fontes fez parte do próprio processo de aprendizagem.
+
+Mais do que reunir referências, o objetivo foi construir um conjunto de materiais suficientemente diversificado para permitir **questionamento, comparação, análise crítica, verificação e síntese**.
+
+A organização desta pasta busca tornar esse processo transparente e reproduzível, demonstrando não apenas **quais fontes foram utilizadas**, mas também **por que foram selecionadas e como contribuíram para a investigação**.
+
+---
+
+**Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
+**Plataforma:** NotebookLM  
+**Desafio:** DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM  
+**Autora:** Nágyla Silva
