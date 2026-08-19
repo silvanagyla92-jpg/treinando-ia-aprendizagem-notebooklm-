@@ -139,21 +139,9 @@ As imagens poderão demonstrar, por exemplo:
 - relatórios produzidos;
 - etapas de análise e síntese.
 
-### Imagem da execução
+### Evidência visual — NotebookLM
 
-A evidência visual desta etapa será apresentada nesta pasta por meio dos registros produzidos durante a utilização do NotebookLM.
-
-Após a inclusão da imagem, recomenda-se registrar:
-
-- **Descrição:** o que está sendo demonstrado;
-- **Etapa:** fonte, pergunta, prompt, resposta, relatório ou síntese;
-- **Objetivo:** por que a evidência é relevante;
-- **Relação com o processo:** em qual etapa do fluxo metodológico ela se encaixa.
-
-Exemplo de registro:
-
-```markdown
-![Evidência do NotebookLM](./imagens/nome-da-imagem.png)
+![Evidência do NotebookLM](./imagens/image.png)
 
 **Descrição:** Captura de tela da interação realizada no NotebookLM.
 
@@ -162,7 +150,6 @@ Exemplo de registro:
 **Objetivo:** Demonstrar a utilização das fontes selecionadas para obtenção e análise das respostas.
 
 **Relação com o processo:** Perguntas → Prompts → Respostas.
-```
 
 ---
 
