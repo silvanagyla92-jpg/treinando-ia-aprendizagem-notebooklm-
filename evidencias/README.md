@@ -277,18 +277,11 @@ Assim, as evidências funcionam como um registro do **processo de aprendizagem a
 
 ## 10. Identificação do projeto
 
-**Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
-**Plataforma:** NotebookLM  
-**Desafio:** DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM  
-**Autora:** Nágyla Silva
-
 **Objetivo central:** utilizar Inteligência Artificial como apoio à aprendizagem ativa, pesquisa, análise, verificação e organização do conhecimento.
 
 ---
 
-### Nota de rodapé
-
-**Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
-**Plataforma:** NotebookLM  
-**Desafio:** DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM  
+**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
 **Autora:** Nágyla Silva
+
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
