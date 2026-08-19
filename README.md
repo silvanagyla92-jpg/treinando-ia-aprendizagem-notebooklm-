@@ -251,34 +251,75 @@ O NotebookLM foi utilizado, portanto, não apenas para obter informações, mas 
 
 ## 9. Referências
 
-Lista completa das 26 fontes exploradas na investigação (ver observação sobre a contagem na seção 4). As referências completas também estão organizadas na pasta [`fontes/`](./fontes/).
+Esta seção apresenta as **25 fontes principais utilizadas no NotebookLM**, sendo **2 fontes internas** e **23 fontes externas**. Os links das fontes externas foram verificados durante a organização do projeto.
 
-1. [5 Behavioral Biases That Can Impact Your Investing Decisions](https://online.mason.wm.edu/blog/behavioral-biases-that-can-impact-investing-decisions)
+### 9.1 Fontes externas
+
+1. [5 Behavioral Biases That Can Impact Your Investing Decisions — William & Mary](https://online.mason.wm.edu/blog/behavioral-biases-that-can-impact-investing-decisions)
+
 2. [7 Cognitive Biases That Quietly Sabotage Your Financial Life — Fifr](https://www.fifr.io/articles/7-cognitive-biases-that-quietly-sabotage-your-financial-life)
+
 3. [Behavioral Biases in Finances: How to Avoid Present Bias — Farm Bureau Financial Services](https://www.fbfs.com/learning-center/behavioral-biases-in-finances-how-to-avoid-present-bias)
+
 4. [Behavioral Economics: Nudge Theory — Michigan Journal of Economics](https://sites.lsa.umich.edu/mje/2025/03/09/behavioral-economics-nudge-theory/)
+
 5. [Caderno de Educação Financeira: Cidadania Financeira — Banco Central do Brasil](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf)
+
 6. [Educação financeira pessoal: o que é e como começar — Alelo](https://www.alelo.com.br/blog/carreira-e-financas/educacao-financeira-pessoal-o-que-e-e-como-comecar)
-7. [Financial Literacy — Olivia S. Mitchell e Annamaria Lusardi, Oxford University Press](https://global.oup.com/academic/product/financial-literacy-9780199696819)
-8. [Financial Literacy and Economic Outcomes: Evidence and Policy Implications — PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5445906)
+
+7. [Financial Literacy — Olivia S. Mitchell e Annamaria Lusardi — Oxford University Press](https://global.oup.com/academic/product/financial-literacy-9780199696819)
+
+8. [Financial Literacy and Economic Outcomes: Evidence and Policy Implications — PMC/NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC5445906)
+
 9. [Financial Literacy: An Essential Tool for Informed Consumer Choice? — NBER](https://www.nber.org/papers/w14084)
-10. [GFLEC Working Paper Series](https://gflec.org/research/) — *série de working papers; paper específico não identificado na citação original*
+
+10. [GFLEC Working Paper Series — Global Financial Literacy Excellence Center](https://gflec.org/research/)
+
 11. [How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness — NBER](https://www.nber.org/papers/w15350)
-12. [How to Combat Behavioral Biases in Your Personal Finance](https://www.johndrowwealth.com/blog/5-financial-planning-strategies-for-down-markets-jl725-6yrar)
-13. [Save More Tomorrow Explained — Thaler's SMarT Plan](https://decodethefuture.org/en/save-more-tomorrow-explained/) — *artigo explicativo de terceiros; o paper original de Thaler & Benartzi é a fonte principal nº 5 (seção 4.1)*
-14. [Investing biases — Fidelity Investments](https://www.fidelity.com/learning-center/wealth-management-insights/investing-biases)
-15. [Loss aversion — The Decision Lab](https://thedecisionlab.com/biases/loss-aversion)
-16. [Nudge Theory — The Decision Lab](https://thedecisionlab.com/reference-guide/psychology/nudge-theory)
-17. [Nudge theory — Economics, Research Starters, EBSCO](https://www.ebsco.com/research-starters/economics/nudge-theory)
-18. [Nudging: How Behavioral Economics Can Transform Practices — Voltage Control](https://voltagecontrol.com/articles/nudging-how-behavioral-economics-can-transform-practices/)
-19. [Organização financeira: 10 dicas para colocar ordem nas suas contas — Sicredi](https://www.sicredi.com.br/site/blog/educacao-financeira/organizacao-financeira-10-dicas-colocar-ordem-suas-contas/)
-20. [Organize Suas Finanças Pessoais: Dicas Essenciais e Práticas — FIA](https://fia.com.br/blog/financas-pessoais/)
-21. *Relatório do Deep Research: O Ecossistema da Gestão Financeira Pessoal* — documento interno (seção 4.2)
-22. *Relatório do Deep Research: O Impacto Crítico da Educação Financeira...* — documento interno (seção 4.2)
-23. [The Economic Importance of Financial Literacy: Theory and Evidence — American Economic Association](https://www.aeaweb.org/articles?id=10.1257/jel.52.1.5)
-24. [The Influence of Cognitive Biases on Personal Financial Decisions — RSIS International](https://www.researchgate.net/publication/410798671_The_Influence_of_Cognitive_Biases_on_Personal_Financial_Decisions_Analyzing_Spending_Saving_and_Investment_Behaviors_in_Behavioral_Finance) — *URL original em rsisinternational.org não localizada; link para o espelho no ResearchGate*
-25. [The Psychology Behind Financial Choices: The Role of Cognitive Biases — HSA Tutoring](https://tutoring.hsa.net/blogs/students-published-works/lwl-the-psychology-behind-financial-choices-the-role-of-cognitive-biases-and-behavioral-economics-in-influencing-spending-and-saving-habits)
-26. [The Psychology of Money: How Biases Shape Your Financial Decisions — Harvard FCU](https://harvardfcu.org/blog/the-psychology-of-money-how-biases-shape-your-financial-decisions/)
+
+12. [How to Combat Behavioral Biases in Your Personal Finance — Johndrow Wealth Management](https://www.johndrowwealth.com/blog/5-financial-planning-strategies-for-down-markets-jl725-6yrar)
+
+13. [Investing Biases — Fidelity Investments](https://www.fidelity.com/learning-center/wealth-management-insights/investing-biases)
+
+14. [Loss Aversion — The Decision Lab](https://thedecisionlab.com/biases/loss-aversion)
+
+15. [Nudge Theory — The Decision Lab](https://thedecisionlab.com/reference-guide/psychology/nudge-theory)
+
+16. [Nudge Theory — EBSCO Research Starters](https://www.ebsco.com/research-starters/economics/nudge-theory)
+
+17. [Nudging: How Behavioral Economics Can Transform Practices — Voltage Control](https://voltagecontrol.com/articles/nudging-how-behavioral-economics-can-transform-practices/)
+
+18. [Organização financeira: 10 dicas para colocar ordem nas suas contas — Sicredi](https://www.sicredi.com.br/site/blog/educacao-financeira/organizacao-financeira-10-dicas-colocar-ordem-suas-contas/)
+
+19. [Organize Suas Finanças Pessoais: Dicas Essenciais e Práticas — FIA Business School](https://fia.com.br/blog/financas-pessoais/)
+
+20. [The Economic Importance of Financial Literacy: Theory and Evidence — American Economic Association](https://www.aeaweb.org/articles?id=10.1257/jel.52.1.5)
+
+21. [The Influence of Cognitive Biases on Personal Financial Decisions — ResearchGate](https://www.researchgate.net/publication/410798671_The_Influence_of_Cognitive_Biases_on_Personal_Financial_Decisions_Analyzing_Spending_Saving_and_Investment_Behaviors_in_Behavioral_Finance)
+
+22. [The Psychology Behind Financial Choices: The Role of Cognitive Biases — HSA Tutoring](https://tutoring.hsa.net/blogs/students-published-works/lwl-the-psychology-behind-financial-choices-the-role-of-cognitive-biases-and-behavioral-economics-in-influencing-spending-and-saving-habits)
+
+23. [The Psychology of Money: How Biases Shape Your Financial Decisions — Harvard Federal Credit Union](https://harvardfcu.org/blog/the-psychology-of-money-how-biases-shape-your-financial-decisions/)
+
+### 9.2 Fontes internas
+
+24. **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano**  
+   Documento interno em formato Markdown, produzido durante a investigação e utilizado como material de síntese e integração teórica.
+
+25. **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual**  
+   Documento interno em formato Markdown, produzido durante a investigação e utilizado como material de síntese, integração e análise do comportamento financeiro.
+
+### 9.3 Observação sobre as referências
+
+As referências acima correspondem ao **conjunto oficial de 25 fontes principais registradas no NotebookLM**: 23 fontes externas e 2 fontes internas.
+
+Durante a investigação, alguns relatórios produzidos pelo NotebookLM apresentaram contagens diferentes. Em particular, o relatório **“Viés Comportamental e Alfabetização Financeira: Um Guia sobre Tomada de Decisão Econômica”** apresentou 26 fontes utilizadas em sua elaboração.
+
+Essa contagem adicional é registrada na documentação do projeto como uma diferença de contabilização entre as fontes principais do caderno e as referências mobilizadas na elaboração de um relatório específico. **Não foi possível confirmar documentalmente qual referência adicional originou essa diferença**, portanto nenhuma hipótese é apresentada como fato.
+
+Além disso, referências encontradas dentro da bibliografia das fontes principais não são automaticamente consideradas novas fontes carregadas no NotebookLM. Para fins deste projeto, a contagem oficial permanece:
+
+**25 fontes principais = 23 fontes externas + 2 fontes internas.**
 
 ---
 
@@ -323,3 +364,5 @@ Este projeto integra o portfólio prático de estudos em Inteligência Artificia
 - **Prompt:** instrução ou conjunto de instruções fornecidas a um sistema de Inteligência Artificial para orientar sua resposta.
 - **Viés cognitivo:** padrão sistemático de julgamento que pode influenciar a interpretação de informações e a tomada de decisões.
 - **Viés do Presente:** tendência de atribuir maior importância às recompensas imediatas em comparação com benefícios futuros.
+
+  *Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em engenharia de prompts, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
