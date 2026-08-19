@@ -257,9 +257,9 @@ Acessar a fonte — https://www.nber.org/papers/w14084
 Acessar a fonte — https://www.nber.org/papers/w15350
 4. Lusardi, Annamaria; Mitchell, Olivia S. — **Financial Literacy and Economic Outcomes: Evidence and Policy Implications.**
 Acessar a fonte — https://pmc.ncbi.nlm.nih.gov/articles/PMC5445906/
-5. Thaler, Richard H.; Benartzi, Shlomo — **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving.
+5. Thaler, Richard H.; Benartzi, Shlomo — **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving.**
 Acessar a fonte — https://www.chicagobooth.edu/research/rustandy/social-impact-research/research-papers/2004/save-more-tomorrow-using-behavioral-economics-to-increase-employee-saving
-Banco Central do Brasil — Caderno de Educação Financeira.
+6. **Banco Central do Brasil — Caderno de Educação Financeira.**
 Acessar a fonte — https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
 
 As respostas selecionadas na Seção 7 foram fundamentadas principalmente nas fontes utilizadas no caderno temático do NotebookLM.
