@@ -24,6 +24,12 @@ Além disso, explique como o letramento financeiro ajuda o tomador de decisão a
 
 ---
 
+## Pergunta estratégica relacionada
+
+**Quais são os principais pontos de convergência entre as fontes sobre a importância da educação financeira para a tomada de decisões econômicas?**
+
+---
+
 ## Finalidade dentro da investigação
 
 Este prompt foi utilizado para:
@@ -36,6 +42,19 @@ Este prompt foi utilizado para:
 - observar como diferentes fontes abordam a influência dos vieses cognitivos nas escolhas financeiras.
 
 A resposta gerada pelo NotebookLM contribuiu para a construção de uma visão integrada sobre o papel da educação financeira como ferramenta de conhecimento, planejamento e tomada de decisão.
+
+---
+
+## Conceitos explorados
+
+Durante a análise comparativa, foram investigados conceitos relacionados a:
+
+- **Alfabetização financeira:** conhecimento e capacidade de compreender conceitos financeiros e utilizá-los na tomada de decisões.
+- **Educação financeira:** desenvolvimento de conhecimentos e habilidades para lidar com recursos financeiros.
+- **Autonomia financeira:** capacidade de tomar decisões econômicas fundamentadas.
+- **Planejamento de longo prazo:** organização de recursos para objetivos futuros, incluindo aposentadoria e construção patrimonial.
+- **Vieses cognitivos:** padrões sistemáticos de julgamento que podem influenciar decisões econômicas.
+- **Políticas públicas financeiras:** iniciativas voltadas ao desenvolvimento de competências financeiras na sociedade.
 
 ---
 
@@ -56,6 +75,8 @@ Por esse motivo, os resultados foram analisados considerando:
 ## Relação com o projeto
 
 Este prompt representa a etapa de **comparação e integração de conhecimentos**, conectando os conceitos explorados nos prompts anteriores com uma análise mais ampla sobre educação financeira, comportamento humano e decisões econômicas.
+
+A utilização deste prompt permitiu observar como diferentes fontes podem complementar-se, contribuindo para uma compreensão mais abrangente do tema investigado.
 
 ---
 
