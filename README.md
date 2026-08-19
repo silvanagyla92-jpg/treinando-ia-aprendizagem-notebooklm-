@@ -1,53 +1,46 @@
 # Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM
 
-Projeto desenvolvido como parte do desafio **"Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM"**, da DIO — utilizando o NotebookLM como ferramenta de aprendizagem ativa para investigar Gestão Financeira Pessoal, documentando curadoria de fontes, engenharia de prompts, análise crítica e organização do conhecimento.
-
----
-
 ## 1. Introdução
 
-Este projeto apresenta uma experiência prática de aprendizagem ativa com o NotebookLM, aplicada ao estudo da **Gestão Financeira Pessoal**.
+Este projeto apresenta uma experiência prática de aprendizagem ativa com o NotebookLM, aplicada ao estudo da Gestão Financeira Pessoal. A proposta combina curadoria de informações, exploração de fontes, formulação de perguntas e utilização de Inteligência Artificial para apoiar a compreensão e a organização do conhecimento.
 
-A proposta combina curadoria de informações, exploração de fontes, formulação de perguntas e utilização de Inteligência Artificial para apoiar a compreensão e a organização do conhecimento. Além do conteúdo temático, o projeto documenta o processo de interação com a ferramenta — elaboração e refinamento de prompts, análise das respostas, identificação de limitações e necessidades de verificação — demonstrando não apenas o conhecimento explorado, mas uma abordagem crítica e estruturada para o uso da IA como ferramenta de aprendizagem.
+Além do conteúdo temático, o projeto documenta o processo de interação com a ferramenta, incluindo a elaboração e o refinamento de prompts, a análise das respostas e a identificação de limitações e necessidades de verificação. Dessa forma, a experiência busca demonstrar não apenas o conhecimento explorado, mas também uma abordagem crítica e estruturada para o uso da IA como ferramenta de aprendizagem.
 
 ### 1.1 Objetivo e contexto do projeto
 
-Este projeto foi desenvolvido como parte do desafio "Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM", proposto pela DIO, com o objetivo de utilizar a Inteligência Artificial como ferramenta de aprendizagem ativa, pesquisa e organização do conhecimento.
+Este projeto foi desenvolvido como parte do desafio **"Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM"**, proposto pela DIO, com o objetivo de utilizar a Inteligência Artificial como ferramenta de aprendizagem ativa, pesquisa e organização do conhecimento.
 
 A atividade consiste na criação de um caderno temático no NotebookLM a partir da curadoria de fontes, utilizando a ferramenta para explorar informações, formular perguntas estratégicas, testar e refinar prompts, analisar respostas e consolidar conhecimentos.
 
-O projeto busca desenvolver simultaneamente:
+O projeto busca, simultaneamente, desenvolver uma compreensão estruturada sobre o tema escolhido e exercitar competências de pesquisa, curadoria de informações, engenharia de prompts, pensamento crítico, avaliação de respostas de IA e organização do conhecimento.
 
-- compreensão estruturada sobre o tema escolhido;
-- capacidade de pesquisa e curadoria de informações;
-- engenharia e refinamento de prompts;
-- pensamento crítico;
-- avaliação de respostas produzidas por IA;
-- organização e síntese do conhecimento;
-- documentação do processo de aprendizagem.
+Todo o processo é documentado neste README.md, registrando as principais etapas da experiência, desde a seleção das fontes e elaboração das perguntas até a análise das respostas, referências, refinamentos realizados e limitações identificadas.
 
-Todo o processo é registrado neste projeto, permitindo acompanhar as principais etapas da experiência, desde a seleção das fontes até a análise e consolidação dos resultados.
+Como resultado, o conhecimento desenvolvido é consolidado em um miniguia de estudo, reunindo sínteses, conceitos fundamentais, referências, prompts reutilizáveis, aprendizados e glossário.
 
 ### 1.2 Tema escolhido
 
-O tema escolhido foi **Gestão Financeira Pessoal**, com foco na relação entre:
+O tema escolhido para este projeto é a **Gestão Financeira Pessoal**, com foco na relação entre educação financeira, organização dos recursos, comportamento humano e tomada de decisões econômicas.
 
-- educação e alfabetização financeira;
-- organização dos recursos;
-- comportamento humano;
-- economia comportamental;
-- vieses cognitivos;
-- tomada de decisões econômicas;
-- planejamento financeiro;
-- poupança e investimentos.
+O estudo considera a dimensão cognitiva da educação financeira, relacionada à compreensão de conceitos e informações econômicas, e a dimensão prática da organização financeira, envolvendo renda, despesas, dívidas, planejamento, reservas e alocação de recursos.
 
-Entre os conceitos explorados estão o **Viés do Presente**, **Aversão à Perda**, **Sobreconfiança**, **Ancoragem**, **Viés de Confirmação**, **Nudge Theory** e **arquitetura de escolhas**. Também foram abordados fundamentos relacionados a juros compostos, inflação, rentabilidade real, planejamento e evolução patrimonial.
+Também são explorados aspectos relacionados ao comportamento financeiro e aos vieses psicológicos que podem influenciar decisões econômicas, incluindo desconto intertemporal, aversão à perda, excesso de confiança, ancoragem e viés de confirmação.
 
-Esse recorte permite analisar a gestão financeira não apenas como uma questão de organização de recursos, mas como um campo que envolve conhecimento, comportamento, contexto econômico e tomada de decisões.
+A investigação contempla ainda conceitos de economia comportamental, incluindo a **Nudge Theory**, além de fundamentos econômicos e matemáticos relacionados a juros compostos, inflação, rentabilidade real e evolução patrimonial.
+
+Esse recorte permite analisar a gestão financeira não apenas como uma questão de organização de recursos, mas como um campo que envolve a interação entre conhecimento, comportamento, contexto econômico e tomada de decisões.
 
 ### 1.3 Visão geral
 
-O projeto está organizado de forma sequencial, acompanhando as principais etapas da experiência realizada com o NotebookLM. Após a apresentação do objetivo e do tema, são documentadas as competências desenvolvidas, a metodologia e as fontes utilizadas. Na sequência, são apresentadas as perguntas estratégicas, a engenharia de prompts e as respostas selecionadas. Por fim, são apresentados a conclusão, as referências, o contato profissional e o glossário.
+O projeto está organizado de forma sequencial, acompanhando as principais etapas da experiência realizada com o NotebookLM.
+
+Após a apresentação do objetivo e do tema, são documentadas as competências desenvolvidas, a metodologia adotada e as fontes utilizadas.
+
+Na sequência, são apresentadas as perguntas estratégicas, a engenharia de prompts e duas respostas selecionadas para análise, acompanhadas posteriormente de suas referências.
+
+A etapa final reúne a conclusão, os principais aprendizados, as informações de contato, as referências utilizadas e um glossário dos principais conceitos abordados.
+
+Essa organização permite acompanhar o projeto desde a curadoria e investigação até a análise, síntese e documentação dos resultados.
 
 ---
 
@@ -57,72 +50,81 @@ O desenvolvimento deste projeto envolveu competências relacionadas ao uso da In
 
 As principais competências desenvolvidas foram:
 
-- **Curadoria de informações:** seleção, organização e análise de fontes relevantes.
-- **Pesquisa e investigação:** formulação de perguntas e exploração de diferentes perspectivas.
-- **Engenharia de prompts:** elaboração, teste e refinamento de instruções para orientar respostas.
-- **Pensamento crítico:** análise das informações apresentadas pela IA e identificação de possíveis limitações.
-- **Avaliação de respostas de IA:** análise de clareza, relevância, coerência, completude e fundamentação.
-- **Aprendizagem ativa:** utilização da IA para questionar, explorar, relacionar e consolidar conhecimentos.
-- **Síntese e organização do conhecimento:** transformação de informações distribuídas em diferentes fontes em conteúdo estruturado.
-- **Rastreabilidade:** registro das fontes, perguntas, prompts, respostas e resultados.
-- **Letramento em Inteligência Artificial:** compreensão das possibilidades e limitações de ferramentas de IA generativa.
-- **Comunicação e documentação técnica:** organização do processo em um projeto estruturado no GitHub.
+* **Curadoria de informações**: seleção, organização e análise de fontes relevantes, considerando sua relação com os objetivos e o tema do projeto.
+* **Pesquisa e investigação**: formulação de perguntas e exploração de diferentes perspectivas para ampliar a compreensão dos conteúdos estudados.
+* **Engenharia de prompts**: elaboração, teste, comparação e refinamento de instruções para direcionar as respostas do NotebookLM de acordo com diferentes objetivos de aprendizagem.
+* **Pensamento crítico**: análise das informações apresentadas pela IA, identificando possíveis inconsistências, limitações, generalizações ou afirmações que necessitassem de verificação.
+* **Avaliação de respostas de IA**: observação de critérios como clareza, relevância, coerência, completude e fundamentação nas fontes disponíveis, evitando tratar a resposta gerada como uma informação automaticamente válida.
+* **Aprendizagem ativa**: utilização da IA para formular questionamentos, explorar conceitos, estabelecer relações entre informações, revisar conteúdos e consolidar conhecimentos.
+* **Síntese e organização do conhecimento**: transformação de informações provenientes de diferentes fontes em conceitos, relações temáticas e materiais estruturados para estudo.
+* **Rastreabilidade e documentação**: registro das fontes, perguntas, prompts, respostas, referências, refinamentos e dificuldades encontradas.
+* **Letramento em Inteligência Artificial**: compreensão das possibilidades e limitações do NotebookLM e da importância da supervisão humana na utilização de ferramentas de IA generativa.
+* **Comunicação e documentação técnica**: organização das informações em um README estruturado, com linguagem clara e apresentação das principais etapas da experiência.
 
 ---
 
 ## 3. Metodologia
 
-A metodologia adotada baseia-se na aprendizagem ativa apoiada por Inteligência Artificial, utilizando o NotebookLM para explorar, relacionar, analisar e organizar conhecimentos sobre Gestão Financeira Pessoal.
+A metodologia adotada neste projeto baseia-se na aprendizagem ativa apoiada por Inteligência Artificial, utilizando o NotebookLM para explorar, relacionar, analisar e organizar conhecimentos sobre Gestão Financeira Pessoal.
 
-O processo foi desenvolvido em etapas:
+O processo começou pela definição do tema e dos objetivos de estudo, seguida pela curadoria e organização das fontes utilizadas para alimentar o caderno temático.
 
-1. definição do tema e dos objetivos;
-2. curadoria das fontes;
-3. organização do material no NotebookLM;
-4. elaboração de perguntas estratégicas;
-5. formulação e teste de prompts;
-6. análise das respostas;
-7. comparação e integração das informações;
-8. identificação de limitações;
-9. síntese dos conhecimentos;
-10. documentação dos resultados.
+A partir desse conjunto de referências, foram elaboradas perguntas estratégicas destinadas a explorar os conteúdos em diferentes níveis de compreensão, comparação e análise.
 
-O processo pode ser representado pelo seguinte fluxo:
+Na etapa seguinte, foram elaborados, testados e refinados diferentes prompts, observando como alterações na formulação, no contexto, no nível de especificidade e no formato solicitado poderiam influenciar as respostas geradas pelo NotebookLM.
+
+As respostas obtidas foram analisadas de forma crítica, considerando sua clareza, relevância, coerência, completude e fundamentação nas fontes disponíveis.
+
+Quando uma resposta apresentava limitações ou não atendia adequadamente ao objetivo proposto, novos questionamentos ou refinamentos eram realizados.
+
+Por fim, os conteúdos considerados relevantes foram organizados em materiais de estudo, incluindo conceitos, referências, prompts reutilizáveis, aprendizados e glossário.
+
+Dessa forma, o processo de aprendizagem foi conduzido a partir da sequência:
 
 **curadoria → questionamento → experimentação → análise → verificação → refinamento → síntese**
 
-As respostas produzidas pela IA foram consideradas como parte do processo de investigação, mas não foram tratadas automaticamente como fatos validados. A análise considerou sua relação com as fontes disponíveis e a necessidade de confirmação quando apropriado.
+Essa abordagem permitiu documentar não apenas o conhecimento obtido sobre o tema, mas também a forma como o NotebookLM foi utilizado como ferramenta de aprendizagem.
 
 ---
 
 ## 4. Fontes utilizadas
 
-Durante a construção do caderno temático no NotebookLM, foram identificadas e exploradas **25 fontes principais**, sendo **23 fontes externas** e **2 fontes internas**, relacionadas à Gestão Financeira Pessoal, abrangendo educação e alfabetização financeira, comportamento econômico, vieses cognitivos, economia comportamental, organização financeira, investimentos, tomada de decisões e planejamento financeiro.
+Durante a construção do caderno temático no NotebookLM, foram identificadas e exploradas **26 fontes** relacionadas à Gestão Financeira Pessoal.
 
-Foram utilizadas diferentes categorias de materiais, incluindo artigos acadêmicos, working papers, documentos institucionais, materiais educacionais e conteúdos especializados. Dessas, **5 foram selecionadas como fontes principais de destaque** para compor a base central de referência do projeto (seção 4.1). Os dois documentos internos de síntese produzidos durante a investigação (seção 4.2) fazem parte das 25 fontes documentadas.
+As fontes abrangeram temas como educação e alfabetização financeira, comportamento econômico, vieses cognitivos, economia comportamental, organização financeira, investimentos e tomada de decisões.
 
-> **Observação sobre a contagem:** durante a investigação, um relatório produzido no NotebookLM indicou 26 fontes utilizadas. Não foi possível confirmar qual seria a referência adicional responsável por essa diferença. Por isso, esta documentação mantém as duas informações separadas: **25 fontes** — conjunto documentado neste projeto (detalhado na pasta [`fontes/`](./fontes/)) — e **26 fontes** — quantidade apresentada pelo relatório específico do NotebookLM, não confirmada em detalhe.
+Como parte do processo de curadoria, foram consideradas a relevância temática, a autoridade da publicação, a contribuição para os objetivos do projeto e a capacidade de fundamentar os conceitos estudados.
+
+Embora 26 fontes tenham sido exploradas durante a pesquisa, **5 fontes principais** foram selecionadas para compor a base central de referência do projeto. As demais foram utilizadas como fontes complementares durante a exploração e aprendizagem no NotebookLM.
+
+Também foram utilizados dois relatórios de Deep Research produzidos durante a investigação. Esses relatórios são considerados materiais de síntese e aprofundamento, não sendo contabilizados como fontes acadêmicas primárias dentro das 26 fontes externas.
 
 ### 4.1 Fontes principais selecionadas
 
-1. **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell.
-2. **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Olivia S. Mitchell e Annamaria Lusardi.
-3. **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness** — Annamaria Lusardi e Olivia S. Mitchell.
-4. **Financial Literacy: An Essential Tool for Informed Consumer Choice?** — Annamaria Lusardi.
-5. **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving** — Richard H. Thaler e Shlomo Benartzi.
+1. **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell. Publicado no *Journal of Economic Literature*, da American Economic Association.
 
-### 4.2 Relatórios de pesquisa utilizados no NotebookLM
+2. **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Olivia S. Mitchell e Annamaria Lusardi. Publicação acadêmica sobre alfabetização financeira e seus efeitos sobre decisões e resultados econômicos.
 
-- **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano**
-- **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual**
+3. **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness** — Annamaria Lusardi e Olivia S. Mitchell. NBER Working Paper sobre conhecimento financeiro e planejamento para a aposentadoria.
 
-Documentos internos, desenvolvidos em Markdown durante a própria investigação, usados para aprofundar, relacionar e integrar os conhecimentos explorados no caderno temático. A lista completa das 25 fontes, com links verificados, está na pasta [`fontes/`](./fontes/) e na seção 9 deste README.
+4. **Financial Literacy: An Essential Tool for Informed Consumer Choice?** — Annamaria Lusardi. NBER Working Paper sobre alfabetização financeira e decisões relacionadas à poupança, aposentadoria, investimentos e empréstimos.
+
+5. **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving** — Richard H. Thaler e Shlomo Benartzi. Publicado no *Journal of Political Economy*.
+
+### 4.2 Relatórios de pesquisa
+
+Além das fontes externas, foram utilizados dois relatórios de Deep Research produzidos durante o processo de investigação:
+
+* **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano**
+* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual**
+
+Esses relatórios foram utilizados como materiais de apoio para organizar, relacionar e aprofundar os conhecimentos explorados no NotebookLM.
 
 ---
 
 ## 5. Perguntas estratégicas
 
-As perguntas estratégicas foram elaboradas para orientar a exploração das fontes no NotebookLM, organizadas por objetivos de investigação.
+As perguntas estratégicas foram elaboradas para orientar a exploração das fontes no NotebookLM, buscando compreender conceitos, relacionar diferentes perspectivas e estimular análises comparativas e críticas.
 
 ### 5.1 Educação financeira e comportamento
 
@@ -138,8 +140,9 @@ As perguntas estratégicas foram elaboradas para orientar a exploração das fon
 
 ### 5.3 Organização financeira, investimentos e planejamento
 
-1. **Quais são os três componentes fundamentais (o "tripé") de qualquer investimento e por que eles nunca estão em níveis máximos simultaneamente?**
-2. **Quais são os cinco passos necessários para transformar um "sonho" abstrato em um "projeto" financeiro concreto?**
+1. **Qual é a diferença operacional entre "educação financeira" e "organização financeira pessoal"?**
+2. **Quais são os três componentes fundamentais (o "tripé") de qualquer investimento e por que eles nunca estão em níveis máximos simultaneamente?**
+3. **Quais são os cinco passos necessários para transformar um "sonho" abstrato em um "projeto" financeiro concreto?**
 
 ### 5.4 Análise crítica e integração das fontes
 
@@ -152,110 +155,143 @@ As perguntas estratégicas foram elaboradas para orientar a exploração das fon
 
 ## 6. Engenharia de prompts
 
-A engenharia de prompts foi utilizada para testar diferentes formas de formular instruções no NotebookLM, observando como alterações no contexto, especificidade, objetivo e critérios de resposta influenciavam os resultados.
+A engenharia de prompts foi utilizada como parte do processo de interação com o NotebookLM, permitindo testar diferentes formas de formular instruções, aprofundar conceitos, comparar fontes, realizar análises críticas e sintetizar informações.
+
+Os prompts foram elaborados a partir das perguntas estratégicas da Seção 5 e adaptados de acordo com o objetivo de cada etapa da investigação.
 
 ### 6.1 Prompts e refinamentos
 
-Os prompts foram formulados a partir das perguntas estratégicas e adaptados de acordo com o objetivo de cada etapa:
+**01 — Exploração/conceituação**
 
-| Prompt | Finalidade |
-|---|---|
-| 01 | Exploração/conceituação |
-| 02 | Aprofundamento |
-| 03 | Comparação entre fontes |
-| 04 | Análise crítica |
-| 05 | Síntese |
+> Atuando como um especialista em comportamento econômico, utilize as informações das fontes para explicar por que as pessoas não agem de forma puramente lógica ao lidar com o dinheiro. O texto deve detalhar como a mente utiliza atalhos mentais e cai em armadilhas de pensamento (vieses) que levam a decisões financeiras irracionais. Explique especificamente como o medo de perder, a vontade de gastar no agora e a tendência de se prender a referências iniciais afetam as escolhas de investimento e consumo. Além disso, discuta como o estresse e os sentimentos influenciam essas ações e como organizar o ambiente de decisão (nudges) pode ajudar as pessoas a fazerem escolhas melhores.
 
-Os prompts completos e os respectivos registros estão na pasta [`prompts/`](./prompts/).
+**02 — Aprofundamento**
+
+> Assuma o papel de um especialista em finanças comportamentais e, com base nas fontes, elabore uma explicação técnica sobre a tomada de decisão intertemporal. Detalhe como o Viés do Presente (ou Desconto Hiperbólico) descreve a tendência humana de supervalorizar recompensas imediatas em detrimento de benefícios futuros significativamente maiores. Explique o mecanismo psicológico envolvido e como esse viés atua como uma barreira para o acúmulo de patrimônio e para a poupança de longo prazo. Por fim, discuta estratégias de arquitetura de escolha que podem ajudar a reduzir esses efeitos.
+
+**03 — Comparação entre fontes**
+
+> Assuma o papel de um especialista em literacia financeira e políticas públicas. Com base nas fontes, realize uma síntese dos principais consensos teóricos e práticos sobre a importância da aquisição de competências financeiras para o indivíduo e para a sociedade. Explique como a educação financeira contribui para a autonomia, preparação para a aposentadoria, acúmulo de riqueza, prevenção de erros econômicos e identificação de vieses cognitivos.
+
+**04 — Análise crítica**
+
+> O analista de precisão deve fazer um pente-fino em todas as explicações dadas até agora, comparando cada afirmação com o que está escrito nas fontes disponíveis. Deve apontar claramente o que é uma informação diretamente fundamentada nos documentos e o que representa conclusão lógica, interpretação ou extrapolação. Ao final, responda: quais afirmações apresentadas nas respostas anteriores estão diretamente fundamentadas nas fontes disponíveis e quais exigem cautela, interpretação ou verificação adicional?
+
+**05 — Síntese**
+
+> Considere todas as fontes disponíveis e reúna as principais ideias apresentadas por elas sobre como as pessoas lidam com o dinheiro. Relacione o que elas dizem sobre compreender informações financeiras, organizar os próprios recursos, desenvolver hábitos e comportamentos e fazer escolhas diante de diferentes situações. Mostre como esses elementos se conectam e se influenciam, evitando analisar cada ideia de forma isolada.
 
 ### 6.2 Resultados observados
 
-- **Exploração/conceituação:** o prompt direcionou a resposta para a identificação e explicação de conceitos relacionados aos vieses cognitivos, emoções e comportamento financeiro.
-- **Aprofundamento:** a instrução mais específica permitiu concentrar a análise no Viés do Presente, no desconto hiperbólico e nas dificuldades relacionadas à poupança de longo prazo.
-- **Comparação entre fontes:** o prompt direcionou a resposta para a identificação de pontos de convergência entre diferentes fontes sobre educação financeira e tomada de decisões econômicas.
-- **Análise crítica:** a resposta foi orientada para diferenciar informações diretamente fundamentadas nas fontes de interpretações, conclusões e afirmações que exigiam cautela ou verificação adicional.
-- **Síntese:** o prompt buscou integrar diferentes conceitos e estabelecer relações entre conhecimento financeiro, organização dos recursos, comportamento e tomada de decisões.
+Os diferentes prompts permitiram direcionar o NotebookLM para objetivos específicos de aprendizagem.
 
-De modo geral, os testes indicaram que prompts com **objetivo claramente definido, contexto específico e critérios de resposta** produziram resultados mais direcionados à finalidade de cada etapa da investigação.
+* Prompts de **exploração** favoreceram a identificação e explicação dos conceitos fundamentais.
+* Prompts de **aprofundamento** permitiram concentrar a análise em conceitos específicos, como o Viés do Presente.
+* Prompts de **comparação** facilitaram a identificação de pontos de convergência e diferenças entre as fontes.
+* Prompts de **análise crítica** direcionaram a atenção para a fundamentação das afirmações e para a necessidade de distinguir informação diretamente sustentada pelas fontes de interpretações.
+* Prompts de **síntese** permitiram integrar diferentes conceitos em uma visão mais ampla sobre Gestão Financeira Pessoal.
 
----
-
-## 7. Respostas
-
-Esta seção apresenta as respostas selecionadas durante a investigação no NotebookLM, priorizando respostas relacionadas diretamente à análise crítica, à integração das fontes e à síntese dos conhecimentos.
-
-### 7.1 Resposta 01 — Pontos de convergência entre as fontes
-
-As fontes convergem em pontos fundamentais sobre a importância da educação financeira para decisões econômicas mais conscientes. A educação financeira contribui para a autonomia na tomada de decisões, para o planejamento financeiro e para a preparação para objetivos de longo prazo, como a aposentadoria. As fontes também relacionam o conhecimento financeiro à melhor compreensão de dívidas, juros, inflação, poupança e investimentos.
-
-Outro ponto importante é a relação entre conhecimento financeiro e comportamento. Compreender vieses cognitivos, como o Viés do Presente e a Aversão à Perda, pode ajudar o indivíduo a reconhecer fatores psicológicos que influenciam suas decisões. De forma integrada, os materiais indicam que a educação financeira não envolve apenas conhecimento técnico, mas também a capacidade de utilizar esse conhecimento em situações reais de decisão.
-
-### 7.2 Resposta 02 — Diferenças e divergências entre as fontes
-
-As fontes apresentam diferentes perspectivas sobre o peso do conhecimento financeiro e dos fatores comportamentais nas decisões econômicas. Uma perspectiva enfatiza a importância da educação financeira e do conhecimento técnico para melhorar o planejamento, a poupança e a preparação para o futuro. Outra destaca que conhecimento não garante comportamento racional, pois indivíduos continuam sujeitos a vieses cognitivos e limitações psicológicas.
-
-Nesse contexto, algumas fontes defendem intervenções baseadas na **arquitetura de escolhas**, como os *nudges*, para facilitar comportamentos desejáveis. Também existem diferenças quanto à eficácia das intervenções educacionais, ao momento em que o aprendizado ocorre e à influência de características comportamentais e contextuais. A principal conclusão é que conhecimento e comportamento não devem ser analisados isoladamente.
-
-### 7.3 Resposta 03 — Relação entre conhecimento financeiro e comportamento
-
-Esta resposta resultou da aplicação do Prompt 05 (Síntese, ver [`prompts/`](./prompts/)) e integra os conceitos explorados nas respostas anteriores.
-
-A relação entre conhecimento financeiro e comportamento financeiro pode ser compreendida de forma bidirecional:
-
-- **Conhecimento financeiro → comportamento:** compreender conceitos como orçamento, juros, inflação, risco e planejamento pode ajudar a pessoa a avaliar alternativas e tomar decisões mais informadas.
-- **Comportamento → aplicação do conhecimento:** fatores como hábitos, emoções, vieses cognitivos, autocontrole e contexto podem determinar se o conhecimento adquirido será efetivamente aplicado.
-
-Existe uma diferença entre **saber o que fazer** e **conseguir transformar esse conhecimento em comportamento**. Uma pessoa pode conhecer princípios financeiros e, ainda assim, tomar decisões influenciadas pelo presente, pela aversão à perda, pelo excesso de confiança ou por outros fatores comportamentais.
-
-Essa relação é relevante para o projeto porque demonstra que a educação financeira não deve ser analisada apenas como aquisição de conhecimento — a aplicação prática desse conhecimento também depende de fatores psicológicos, comportamentais e contextuais.
-
-### 7.4 Evidências do NotebookLM
-
-Os relatórios, prints e registros produzidos durante a utilização do NotebookLM estão organizados na pasta [`evidencias/`](./evidencias/).
+O principal resultado observado foi que a formulação do prompt influencia diretamente o tipo de resposta obtida. Instruções mais específicas, com objetivo e critérios claramente definidos, produziram respostas mais direcionadas ao propósito da investigação.
 
 ---
 
-## 8. Conclusão e aprendizados
+## 7. Respostas selecionadas
 
-A experiência com o NotebookLM demonstrou como ferramentas de Inteligência Artificial podem apoiar processos de aprendizagem ativa, pesquisa, organização e síntese do conhecimento.
+Foram selecionadas duas respostas obtidas durante a exploração das fontes para representar diferentes etapas da investigação: **convergência entre fontes** e **divergências entre perspectivas**.
 
-O projeto permitiu aprofundar conhecimentos sobre Gestão Financeira Pessoal, especialmente nos aspectos relacionados à educação financeira, comportamento, vieses cognitivos, tomada de decisão e planejamento. Ao mesmo tempo, a experiência possibilitou desenvolver competências relacionadas à curadoria de fontes, formulação de perguntas, engenharia de prompts, avaliação de respostas e documentação.
+### 7.1 Resposta 01 — Pontos de convergência
 
-Um dos principais aprendizados foi compreender que a qualidade da resposta produzida por uma ferramenta de IA depende também da qualidade das fontes utilizadas, da formulação das perguntas, da clareza das instruções e da análise crítica realizada pelo usuário.
+**Pergunta relacionada:**
 
-O NotebookLM foi utilizado, portanto, não apenas para obter informações, mas para **investigar, questionar, comparar, analisar e organizar conhecimentos**. O resultado final é um percurso de aprendizagem documentado, no qual o processo de interação com a IA faz parte do próprio objeto de estudo.
+> Quais são os principais pontos de convergência entre as fontes sobre a importância da educação financeira para a tomada de decisões econômicas?
+
+**Resposta resumida:**
+
+As fontes convergem em diversos pontos sobre a importância da educação financeira para decisões econômicas mais conscientes.
+
+Os principais pontos identificados foram:
+
+1. **Autonomia e tomada de decisão:** a educação financeira contribui para que os indivíduos compreendam melhor suas escolhas e tomem decisões mais conscientes.
+
+2. **Planejamento e patrimônio:** o conhecimento financeiro está relacionado ao planejamento de longo prazo, à preparação para a aposentadoria e à formação de patrimônio.
+
+3. **Prevenção de erros financeiros:** compreender conceitos como juros, inflação, crédito e investimentos pode ajudar a reduzir decisões financeiras inadequadas.
+
+4. **Comportamento e vieses:** o conhecimento financeiro não atua isoladamente. As decisões também são influenciadas por emoções e vieses cognitivos, como o Viés do Presente e a aversão à perda.
+
+5. **Educação e ambiente de decisão:** além da aquisição de conhecimento, as fontes relacionadas à economia comportamental indicam que a organização do ambiente de escolha pode auxiliar na adoção de comportamentos financeiros desejáveis.
+
+De forma geral, as fontes apresentam a educação financeira como um elemento importante para melhorar a capacidade de compreender, avaliar e tomar decisões econômicas, embora o conhecimento, por si só, não elimine todos os obstáculos comportamentais.
+
+### 7.2 Resposta 02 — Diferenças e divergências
+
+**Pergunta relacionada:**
+
+> Quais diferenças ou divergências relevantes existem entre as fontes quanto à influência do conhecimento financeiro, do comportamento e dos vieses cognitivos sobre as decisões econômicas?
+
+**Resposta resumida:**
+
+As fontes apresentam diferentes ênfases sobre o peso do conhecimento financeiro e dos fatores comportamentais nas decisões econômicas.
+
+1. **Conhecimento financeiro:** estudos acadêmicos destacam a relação entre alfabetização financeira, planejamento, aposentadoria e resultados econômicos.
+
+2. **Limitações do conhecimento:** outras abordagens enfatizam que possuir conhecimento financeiro não garante, por si só, decisões racionais, pois os indivíduos continuam sujeitos a vieses e emoções.
+
+3. **Educação versus ambiente:** algumas perspectivas priorizam a educação e a conscientização individual, enquanto a economia comportamental também destaca a importância de modificar o ambiente de decisão por meio de *nudges*.
+
+4. **Diferenças comportamentais:** algumas fontes analisam como fatores demográficos e contextuais podem estar associados a diferentes padrões de comportamento financeiro.
+
+5. **Questão da causalidade:** existe uma discussão sobre a direção da relação entre conhecimento financeiro e bons resultados econômicos, ou seja, até que ponto o conhecimento produz melhores decisões e até que ponto pessoas que já planejam e possuem mais recursos também buscam maior conhecimento financeiro.
+
+Assim, as fontes não necessariamente se contradizem, mas apresentam diferentes perspectivas sobre a interação entre conhecimento, comportamento, contexto e tomada de decisão.
 
 ---
 
-## 9. Referências
+## 8. Referências das respostas
 
-Lista completa das 25 fontes exploradas na investigação (ver observação sobre a contagem na seção 4). As referências completas também estão organizadas na pasta [`fontes/`](./fontes/).
+As respostas selecionadas na Seção 7 foram fundamentadas principalmente nas fontes utilizadas no caderno temático do NotebookLM.
 
-1. [5 Behavioral Biases That Can Impact Your Investing Decisions — William & Mary](https://online.mason.wm.edu/blog/behavioral-biases-that-can-impact-investing-decisions)
-2. [7 Cognitive Biases That Quietly Sabotage Your Financial Life — Fifr](https://www.fifr.io/articles/7-cognitive-biases-that-quietly-sabotage-your-financial-life)
-3. [Behavioral Biases in Finances: How to Avoid Present Bias — Farm Bureau Financial Services](https://www.fbfs.com/learning-center/behavioral-biases-in-finances-how-to-avoid-present-bias)
-4. [Behavioral Economics: Nudge Theory — Michigan Journal of Economics](https://sites.lsa.umich.edu/mje/2025/03/09/behavioral-economics-nudge-theory/)
-5. [Caderno de Educação Financeira: Cidadania Financeira — Banco Central do Brasil](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf)
-6. [Educação financeira pessoal: o que é e como começar — Alelo](https://www.alelo.com.br/blog/carreira-e-financas/educacao-financeira-pessoal-o-que-e-e-como-comecar)
-7. [Financial Literacy — Olivia S. Mitchell e Annamaria Lusardi, Oxford University Press](https://global.oup.com/academic/product/financial-literacy-9780199696819)
-8. [Financial Literacy and Economic Outcomes: Evidence and Policy Implications — PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5445906)
-9. [Financial Literacy: An Essential Tool for Informed Consumer Choice? — NBER](https://www.nber.org/papers/w14084)
-10. [GFLEC Working Paper Series](https://gflec.org/research/) — *série de working papers; paper específico não identificado na citação original*
-11. [How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness — NBER](https://www.nber.org/papers/w15350)
-12. [How to Combat Behavioral Biases in Your Personal Finance — Johndrow Wealth Management](https://www.johndrowwealth.com/blog/5-financial-planning-strategies-for-down-markets-jl725-6yrar)
-13. [Investing Biases — Fidelity Investments](https://www.fidelity.com/learning-center/wealth-management-insights/investing-biases)
-14. [Loss Aversion — The Decision Lab](https://thedecisionlab.com/biases/loss-aversion)
-15. [Nudge Theory — The Decision Lab](https://thedecisionlab.com/reference-guide/psychology/nudge-theory)
-16. [Nudge Theory — EBSCO Research Starters](https://www.ebsco.com/research-starters/economics/nudge-theory)
-17. [Nudging: How Behavioral Economics Can Transform Practices — Voltage Control](https://voltagecontrol.com/articles/nudging-how-behavioral-economics-can-transform-practices/)
-18. [Organização financeira: 10 dicas para colocar ordem nas suas contas — Sicredi](https://www.sicredi.com.br/site/blog/educacao-financeira/organizacao-financeira-10-dicas-colocar-ordem-suas-contas/)
-19. [Organize Suas Finanças Pessoais: Dicas Essenciais e Práticas — FIA Business School](https://fia.com.br/blog/financas-pessoais/)
-20. *Relatório do Deep Research: O Ecossistema da Gestão Financeira Pessoal* — documento interno (seção 4.2)
-21. *Relatório do Deep Research: O Impacto Crítico da Educação Financeira...* — documento interno (seção 4.2)
-22. [The Economic Importance of Financial Literacy: Theory and Evidence — American Economic Association](https://www.aeaweb.org/articles?id=10.1257/jel.52.1.5)
-23. [The Influence of Cognitive Biases on Personal Financial Decisions — ResearchGate](https://www.researchgate.net/publication/410798671_The_Influence_of_Cognitive_Biases_on_Personal_Financial_Decisions_Analyzing_Spending_Saving_and_Investment_Behaviors_in_Behavioral_Finance) — *URL original em rsisinternational.org não localizada; link para o espelho no ResearchGate*
-24. [The Psychology Behind Financial Choices: The Role of Cognitive Biases — HSA Tutoring](https://tutoring.hsa.net/blogs/students-published-works/lwl-the-psychology-behind-financial-choices-the-role-of-cognitive-biases-and-behavioral-economics-in-influencing-spending-and-saving-habits)
-25. [The Psychology of Money: How Biases Shape Your Financial Decisions — Harvard Federal Credit Union](https://harvardfcu.org/blog/the-psychology-of-money-how-biases-shape-your-financial-decisions/)
+### 8.1 Referências relacionadas à Resposta 01
+
+A análise sobre os pontos de convergência utilizou principalmente:
+
+* **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell.
+* **Financial Literacy: An Essential Tool for Informed Consumer Choice?** — Annamaria Lusardi.
+* **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Olivia S. Mitchell e Annamaria Lusardi.
+* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual** — relatório de Deep Research utilizado no NotebookLM.
+* **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano** — relatório de Deep Research utilizado no NotebookLM.
+* **Caderno de Educação Financeira / Cidadania Financeira — Banco Central do Brasil**, utilizado como referência institucional para conceitos relacionados à educação financeira e autonomia.
+
+### 8.2 Referências relacionadas à Resposta 02
+
+A análise sobre diferenças e divergências utilizou principalmente:
+
+* **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Olivia S. Mitchell e Annamaria Lusardi.
+* **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell.
+* **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness** — Annamaria Lusardi e Olivia S. Mitchell.
+* **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving** — Richard H. Thaler e Shlomo Benartzi.
+* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual** — relatório de Deep Research utilizado no NotebookLM.
+* Materiais relacionados à **Nudge Theory** utilizados no caderno temático.
+
+> **Observação metodológica:** as respostas apresentadas nesta seção representam sínteses produzidas a partir das fontes disponíveis no NotebookLM. Elas não devem ser interpretadas como transcrições literais dos trabalhos originais. Afirmações específicas devem ser conferidas diretamente nas fontes correspondentes quando houver necessidade de validação acadêmica ou documental.
+
+---
+
+## 9. Conclusão e aprendizados
+
+A experiência com o NotebookLM demonstrou como ferramentas de Inteligência Artificial podem ser utilizadas como apoio à aprendizagem ativa, pesquisa, organização e síntese do conhecimento.
+
+O desenvolvimento do projeto permitiu aprofundar conhecimentos sobre Gestão Financeira Pessoal, especialmente nos aspectos relacionados à educação financeira, comportamento, tomada de decisão e organização dos recursos.
+
+Ao mesmo tempo, possibilitou exercitar competências de curadoria de informações, engenharia de prompts, avaliação de respostas, comparação de fontes, análise crítica e documentação do processo de aprendizagem.
+
+Um dos principais aprendizados foi compreender que a qualidade da interação com uma ferramenta de IA depende não apenas da tecnologia utilizada, mas também da qualidade das fontes, da formulação das perguntas, da clareza das instruções e da capacidade de avaliar criticamente os resultados.
+
+A experiência também evidenciou que respostas mais completas não são necessariamente respostas mais confiáveis. A fundamentação nas fontes e a distinção entre informação diretamente sustentada, interpretação e necessidade de verificação são partes importantes do processo.
+
+Como resultado, o projeto transformou uma pesquisa exploratória em um percurso de aprendizagem documentado, reunindo fontes, perguntas, prompts, respostas, referências, análises e conceitos.
+
+Dessa forma, o NotebookLM foi utilizado não apenas para obter informações, mas como instrumento para **investigar, questionar, comparar, verificar e organizar conhecimentos**.
 
 ---
 
@@ -264,46 +300,43 @@ Lista completa das 25 fontes exploradas na investigação (ver observação sobr
 Projeto desenvolvido por **Nágyla Silva** como parte do desafio **"Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM"**, proposto pela DIO.
 
 **Perfil profissional:**
-AI Trainer | AI Response Evaluator | Data Annotator
-Background em QA e Auditoria
 
-**Áreas de interesse e desenvolvimento:**
+AI Trainer | AI Response Evaluator | Data Annotator — com background em QA e Auditoria
 
-- Inteligência Artificial;
-- avaliação de respostas de IA;
-- treinamento e avaliação de modelos;
-- anotação e qualidade de dados;
-- engenharia de prompts;
-- QA;
-- auditoria;
-- organização e avaliação de informações.
+**Área de atuação e desenvolvimento profissional:**
+
+Inteligência Artificial, avaliação de respostas de IA, treinamento de modelos, anotação e qualidade de dados, engenharia de prompts, QA e auditoria.
 
 **Contatos profissionais:**
 
-- [GitHub — silvanagyla92-jpg](https://github.com/silvanagyla92-jpg)
-- [LinkedIn — Nágyla Silva](https://www.linkedin.com/in/nágyla-silva-215aba35)
+* **GitHub:** github.com/silvanagyla92-jpg
+* **LinkedIn:** linkedin.com/in/nágyla-silva-215aba35
 
-Este projeto integra o portfólio prático de estudos em Inteligência Artificial, dados, qualidade, avaliação de respostas e engenharia de prompts.
+**Repositório deste projeto:**
+
+Disponível no GitHub da autora, juntamente com os demais projetos e materiais relacionados ao desenvolvimento de competências em Inteligência Artificial, dados, qualidade e avaliação.
 
 ---
 
 ## 11. Glossário
 
-- **Alfabetização financeira:** conhecimento e capacidade de compreender conceitos financeiros e utilizá-los na tomada de decisões.
-- **Aversão à perda:** tendência de atribuir maior impacto às perdas do que a ganhos de magnitude semelhante.
-- **Arquitetura de escolhas:** organização do ambiente no qual as pessoas tomam decisões.
-- **Desconto hiperbólico:** modelo utilizado para representar a tendência de atribuir menor valor a recompensas futuras, especialmente quando comparadas a recompensas imediatas.
-- **Educação financeira:** processo de aquisição de conhecimentos e competências relacionados à compreensão e utilização de informações financeiras.
-- **Homo Economicus:** representação teórica de um agente econômico perfeitamente racional, utilizada em determinados modelos econômicos tradicionais.
-- **Nudge:** intervenção na arquitetura de escolhas destinada a influenciar comportamentos sem eliminar as opções disponíveis.
-- **Organização financeira pessoal:** conjunto de práticas utilizadas para organizar renda, despesas, dívidas, objetivos, poupança e demais recursos financeiros.
-- **Prompt:** instrução ou conjunto de instruções fornecidas a um sistema de Inteligência Artificial para orientar sua resposta.
-- **Viés cognitivo:** padrão sistemático de julgamento que pode influenciar a interpretação de informações e a tomada de decisões.
-- **Viés do Presente:** tendência de atribuir maior importância às recompensas imediatas em comparação com benefícios futuros.
+Esta seção reúne os principais termos e conceitos utilizados ao longo do projeto.
+
+* **Alfabetização financeira:** conhecimento e capacidade de compreender conceitos financeiros e utilizá-los na tomada de decisões.
+* **Aversão à perda:** tendência de atribuir maior impacto às perdas do que a ganhos de magnitude semelhante.
+* **Desconto hiperbólico:** modelo utilizado para representar a tendência de atribuir maior peso a recompensas presentes do que a recompensas futuras.
+* **Educação financeira:** processo de desenvolvimento de conhecimentos, habilidades e competências relacionadas à compreensão e utilização de informações financeiras.
+* **Homo Economicus:** representação teórica de um agente econômico plenamente racional, capaz de tomar decisões buscando maximizar seus interesses.
+* **Nudge:** intervenção na arquitetura de escolhas destinada a influenciar comportamentos sem eliminar as opções disponíveis.
+* **Organização financeira pessoal:** conjunto de práticas utilizadas para organizar renda, despesas, dívidas, reservas, objetivos e demais recursos financeiros.
+* **Prompt:** instrução ou conjunto de instruções fornecidas a um sistema de Inteligência Artificial para orientar sua resposta.
+* **Viés cognitivo:** padrão sistemático de julgamento que pode influenciar a interpretação de informações e a tomada de decisões.
+* **Viés do Presente:** tendência de atribuir maior importância à satisfação imediata em comparação com benefícios futuros.
+* **Arquitetura de escolhas:** estrutura ou organização do ambiente no qual as pessoas tomam decisões.
+* **Economia comportamental:** área que integra conceitos econômicos e psicológicos para estudar como as pessoas realmente tomam decisões.
+* **Nudge Theory:** abordagem associada à utilização da arquitetura de escolhas para influenciar comportamentos previsíveis sem eliminar alternativas.
+* **Tomada de decisão intertemporal:** processo de escolha entre custos, benefícios ou recompensas que ocorrem em diferentes momentos do tempo.
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**
-**Autora:** Nágyla Silva
-
-*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em engenharia de prompts, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
