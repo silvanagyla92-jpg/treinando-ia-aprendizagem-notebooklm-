@@ -1,128 +1,181 @@
 # Prompts utilizados no projeto
 
-Esta pasta reúne os prompts utilizados durante a investigação realizada no projeto **"Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM"**.
+Esta pasta reúne os prompts elaborados, testados e refinados durante a experiência com o **NotebookLM**, no projeto **"Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM"**.
 
-Os prompts foram desenvolvidos e aplicados no **NotebookLM** como parte do processo de aprendizagem ativa, utilizando Inteligência Artificial como ferramenta de exploração, análise, comparação, avaliação crítica e síntese de conhecimento.
+Os prompts foram estruturados para orientar diferentes etapas da investigação, desde a exploração inicial dos conceitos até a comparação de fontes, análise crítica e síntese do conhecimento.
 
-A engenharia de prompts teve como objetivo orientar a IA em diferentes etapas da investigação sobre **Gestão Financeira Pessoal**, explorando temas como educação financeira, alfabetização financeira, economia comportamental, vieses cognitivos, tomada de decisão, planejamento financeiro e comportamento econômico.
-
----
-
-## 1. Objetivo da engenharia de prompts
-
-A criação dos prompts buscou demonstrar como a formulação das instruções influencia a qualidade, profundidade, direcionamento e finalidade das respostas produzidas por uma ferramenta de Inteligência Artificial.
-
-Cada prompt foi elaborado considerando:
-
-- definição de um contexto ou papel para a IA;
-- especificação clara do objetivo da análise;
-- direcionamento dos conceitos a serem explorados;
-- utilização das fontes disponíveis no NotebookLM;
-- critérios para análise, comparação, avaliação crítica ou síntese das informações.
-
-O processo de elaboração dos prompts também permitiu observar como diferentes estruturas de instrução podem modificar a abordagem da resposta gerada pela IA.
+O objetivo desta pasta é documentar a **engenharia de prompts** aplicada ao projeto, permitindo compreender como as perguntas e instruções foram utilizadas para direcionar a interação com a IA e apoiar o processo de aprendizagem ativa.
 
 ---
 
-## 2. Organização dos prompts
+## 1. Objetivo dos prompts
 
-Os prompts foram organizados conforme a etapa do processo de investigação:
+Os prompts foram desenvolvidos para apoiar a investigação sobre **Gestão Financeira Pessoal**, considerando aspectos relacionados à educação financeira, comportamento econômico, economia comportamental, vieses cognitivos, organização financeira, planejamento e tomada de decisões.
 
-| Arquivo | Finalidade |
-|---|---|
-| `prompt-01-exploracao-conceituacao.md` | Explorar conceitos relacionados ao comportamento econômico, vieses cognitivos, emoções, decisões financeiras e arquitetura de escolhas. |
-| `prompt-02-aprofundamento.md` | Aprofundar o estudo sobre Viés do Presente, desconto hiperbólico, tomada de decisão intertemporal e estratégias de mitigação comportamental. |
-| `prompt-03-comparacao-fontes.md` | Comparar informações entre diferentes fontes sobre alfabetização financeira, autonomia, tomada de decisão e impactos econômicos. |
-| `prompt-04-analise-critica.md` | Avaliar criticamente as respostas produzidas, diferenciando fatos fundamentados nas fontes, interpretações e informações que exigem verificação adicional. |
-| `prompt-05-sintese.md` | Integrar os conhecimentos apresentados pelas diferentes fontes, relacionando aprendizagem financeira, organização de recursos, comportamento e decisões econômicas. |
+A elaboração dos prompts buscou:
 
----
-
-## 3. Processo de utilização
-
-Os prompts foram aplicados utilizando as fontes previamente selecionadas e organizadas no NotebookLM.
-
-O processo de investigação seguiu uma sequência estruturada:
-
-1. exploração dos conceitos fundamentais;
-2. aprofundamento de temas específicos;
-3. comparação das informações apresentadas pelas fontes;
-4. análise crítica das respostas produzidas pela IA;
-5. integração e síntese dos conhecimentos obtidos.
-
-Essa abordagem permitiu utilizar a Inteligência Artificial não apenas como ferramenta de obtenção de respostas, mas como instrumento de investigação, questionamento, organização e construção do conhecimento.
+- orientar a exploração dos conteúdos disponíveis nas fontes;
+- aprofundar conceitos relevantes para a investigação;
+- estabelecer relações entre diferentes informações;
+- comparar perspectivas apresentadas pelas fontes;
+- estimular a análise crítica das respostas;
+- diferenciar informações diretamente apoiadas pelas fontes de interpretações e inferências;
+- organizar e sintetizar os conhecimentos obtidos durante o processo.
 
 ---
 
-## 4. Critérios utilizados na análise das respostas
+## 2. Sequência de investigação
 
-As respostas produzidas pelo NotebookLM foram avaliadas considerando:
+Os prompts foram organizados em uma sequência progressiva, acompanhando o desenvolvimento da investigação no NotebookLM:
 
-- relação com as fontes utilizadas;
-- coerência das informações apresentadas;
-- clareza da explicação;
-- profundidade da análise;
-- distinção entre fatos, interpretações e inferências;
-- necessidade de confirmação ou verificação adicional.
+**exploração e conceituação → aprofundamento → comparação → análise crítica → síntese**
 
-As respostas geradas pela IA não foram consideradas automaticamente como fatos validados. O processo incorporou análise crítica humana para avaliar limitações, contexto e aderência às informações presentes nas fontes.
+Essa organização permite passar de uma compreensão inicial dos conceitos para etapas de maior aprofundamento e integração das informações.
 
 ---
 
-## 5. Estrutura dos arquivos
+## 3. Prompts desenvolvidos
 
-Cada arquivo individual de prompt contém:
+### 3.1 Prompt 01 — Exploração e conceituação
 
-- identificação do prompt;
-- objetivo da utilização;
-- contexto da aplicação;
-- prompt aplicado no NotebookLM;
-- finalidade dentro da investigação.
+Arquivo:
 
-A documentação desses prompts permite acompanhar não apenas os resultados obtidos, mas também o processo de interação com a Inteligência Artificial durante o desenvolvimento do projeto.
+`prompt-01-exploracao-conceituacao.md`
 
-Essa organização contribui para a rastreabilidade e reprodutibilidade da experiência realizada.
+Objetivo: iniciar a investigação e identificar conceitos relacionados ao comportamento financeiro, à tomada de decisão econômica e à influência de fatores psicológicos e cognitivos.
+
+A etapa busca estabelecer uma base conceitual antes do aprofundamento dos temas.
 
 ---
 
-## 6. Relação com o projeto principal
+### 3.2 Prompt 02 — Aprofundamento
 
-Os prompts documentados nesta pasta estão relacionados às etapas descritas no README principal do projeto.
+Arquivo:
 
-Eles representam uma parte do processo de aprendizagem desenvolvido com o NotebookLM, demonstrando como perguntas estruturadas e instruções específicas podem auxiliar na exploração e organização de conhecimentos.
+`prompt-02-aprofundamento.md`
 
-Para consultar a documentação geral do projeto, acesse o:
-
-[README principal](../README.md)
+Objetivo: aprofundar os conceitos identificados na etapa inicial, explorando suas características, relações e possíveis aplicações no contexto da Gestão Financeira Pessoal.
 
 ---
 
-## 7. Estrutura da pasta
+### 3.3 Prompt 03 — Comparação entre fontes
+
+Arquivo:
+
+`prompt-03-comparacao-fontes.md`
+
+Objetivo: comparar informações provenientes de diferentes fontes, identificando convergências, diferenças e possíveis complementaridades entre as perspectivas apresentadas.
+
+---
+
+### 3.4 Prompt 04 — Análise crítica
+
+Arquivo:
+
+`prompt-04-analise-critica.md`
+
+Objetivo: analisar criticamente as informações e respostas produzidas durante a investigação, verificando sua fundamentação nas fontes, coerência, limitações, ambiguidades e necessidade de confirmação adicional.
+
+---
+
+### 3.5 Prompt 05 — Síntese
+
+Arquivo:
+
+`prompt-05-sintese.md`
+
+Objetivo: consolidar os conhecimentos explorados nas etapas anteriores, relacionando conceitos, evidências e perspectivas em uma estrutura organizada de aprendizagem.
+
+---
+
+## 4. Critérios utilizados na elaboração
+
+Durante a elaboração e o refinamento dos prompts, foram considerados diferentes aspectos para melhorar a qualidade da investigação.
+
+Entre eles:
+
+- **Clareza:** instruções apresentadas de forma objetiva e compreensível.
+- **Contextualização:** definição do tema e do objetivo da investigação.
+- **Especificidade:** indicação do tipo de análise ou informação desejada.
+- **Fundamentação:** orientação para considerar as fontes disponíveis no NotebookLM.
+- **Pensamento crítico:** incentivo à identificação de limitações, inconsistências e lacunas.
+- **Distinção entre evidência e inferência:** preocupação em não apresentar interpretações como fatos diretamente comprovados pelas fontes.
+- **Organização:** solicitação de estruturas que facilitassem a análise e posterior documentação.
+- **Reutilização:** desenvolvimento de instruções que possam ser adaptadas a outros contextos de aprendizagem.
+
+---
+
+## 5. Refinamento dos prompts
+
+A engenharia de prompts foi tratada como um processo iterativo.
+
+Quando uma resposta não atendia adequadamente ao objetivo da investigação, o prompt podia ser reformulado considerando aspectos como:
+
+1. clareza da instrução;
+2. nível de especificidade;
+3. contexto fornecido;
+4. tipo de análise solicitada;
+5. formato esperado da resposta;
+6. necessidade de fundamentação nas fontes;
+7. distinção entre fato, interpretação e inferência.
+
+Esse processo permitiu observar que alterações na formulação das instruções podem modificar a forma como a IA organiza e apresenta as informações.
+
+---
+
+## 6. Relação entre conhecimento financeiro e comportamento
+
+Uma das questões investigadas durante o projeto foi a relação entre conhecimento financeiro e comportamento financeiro.
+
+A relação pode ser compreendida de forma bidirecional:
+
+- **Conhecimento financeiro → comportamento:** compreender conceitos como orçamento, juros, inflação, risco e planejamento pode ajudar a pessoa a avaliar alternativas e tomar decisões mais informadas.
+- **Comportamento → aplicação do conhecimento:** fatores como hábitos, emoções, vieses cognitivos, autocontrole e contexto podem determinar se o conhecimento adquirido será efetivamente aplicado.
+- **Síntese:** existe uma diferença entre **saber o que fazer** e **conseguir transformar esse conhecimento em comportamento**. Uma pessoa pode conhecer princípios financeiros e, ainda assim, tomar decisões influenciadas pelo presente, pela aversão à perda, pelo excesso de confiança ou por outros fatores comportamentais.
+
+No contexto deste projeto, essa relação é relevante porque demonstra que a educação financeira não deve ser analisada apenas como aquisição de conhecimento. A aplicação prática desse conhecimento também pode depender de fatores psicológicos, comportamentais e contextuais.
+
+---
+
+## 7. Organização dos arquivos
+
+A pasta está organizada da seguinte maneira:
 
 ```text
 prompts/
-│
 ├── README.md
-│
 ├── prompt-01-exploracao-conceituacao.md
-│
 ├── prompt-02-aprofundamento.md
-│
 ├── prompt-03-comparacao-fontes.md
-│
 ├── prompt-04-analise-critica.md
-│
 └── prompt-05-sintese.md
 ```
 
+Cada arquivo registra uma etapa específica da engenharia de prompts utilizada durante a investigação.
+
 ---
 
-**CI&T – Do Prompt ao Agente** 
+## 8. Relação com as respostas
 
-**DIO — Treinando uma IA de Aprendizagem** 
+Os prompts estão diretamente relacionados às respostas documentadas na pasta `respostas/`.
 
-**NotebookLM**  
+A sequência geral do processo foi:
 
+**Fontes → Perguntas → Prompts → Respostas → Análise → Síntese**
+
+As evidências correspondentes às interações realizadas no NotebookLM são organizadas na pasta `evidencias/`.
+
+---
+
+## 9. Consideração final
+
+A documentação dos prompts permite acompanhar não apenas o conteúdo das perguntas realizadas à IA, mas também a estratégia utilizada para conduzir a investigação.
+
+O processo evidencia a utilização da engenharia de prompts como uma ferramenta de aprendizagem, permitindo **explorar, aprofundar, comparar, questionar, analisar e sintetizar informações** a partir das fontes selecionadas.
+
+---
+
+**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
 **Autora:** Nágyla Silva
 
 *Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
