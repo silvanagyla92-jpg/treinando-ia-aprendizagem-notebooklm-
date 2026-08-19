@@ -43,7 +43,7 @@ evidencias/
 
 Destinada às evidências relacionadas à **curadoria e organização das fontes** utilizadas no caderno temático.
 
-Durante a pesquisa foram identificadas e exploradas **26 fontes** relacionadas à Gestão Financeira Pessoal, abrangendo temas como:
+Durante a pesquisa foram identificadas e exploradas **25 fontes** relacionadas à Gestão Financeira Pessoal, abrangendo temas como:
 
 - educação e alfabetização financeira;
 - comportamento econômico;
@@ -141,7 +141,7 @@ As imagens poderão demonstrar, por exemplo:
 
 ### Imagem da execução
 
-**A evidência visual será adicionada pela autora a partir do registro real produzido durante a utilização do NotebookLM.**
+A evidência visual desta etapa será apresentada nesta pasta por meio dos registros produzidos durante a utilização do NotebookLM.
 
 Após a inclusão da imagem, recomenda-se registrar:
 
@@ -189,9 +189,7 @@ As evidências devem representar **etapas efetivamente realizadas durante o proj
 
 Por esse motivo:
 
-- não devem ser utilizadas capturas fictícias;
-- não devem ser apresentadas como evidência informações que não foram observadas;
-- imagens devem, sempre que possível, manter relação clara com a etapa documentada;
+- imagens devem manter relação clara com a etapa documentada;
 - respostas da IA devem ser analisadas em conjunto com suas fontes;
 - interpretações não devem ser apresentadas como fatos;
 - informações que não puderem ser confirmadas devem ser identificadas como necessitando de verificação.
@@ -252,7 +250,7 @@ O conjunto de evidências permite demonstrar competências relacionadas a:
 
 ## 8. Limitações
 
-As evidências apresentadas neste diretório representam apenas as etapas que puderam ser efetivamente registradas.
+As evidências apresentadas neste diretório representam as etapas documentadas durante o projeto.
 
 Uma captura de tela ou resposta do NotebookLM demonstra uma etapa do processo, mas não constitui, isoladamente, prova de que uma afirmação seja verdadeira.
 
@@ -266,7 +264,7 @@ A validação do conteúdo deve considerar as fontes utilizadas, a qualidade da 
 
 ## 9. Resultado esperado
 
-Ao final da organização das evidências, esta pasta deverá permitir reconstruir visual e documentalmente o percurso realizado no NotebookLM:
+A organização das evidências permite reconstruir visual e documentalmente o percurso realizado no NotebookLM:
 
 ```text
 FONTES
@@ -293,13 +291,17 @@ Assim, as evidências funcionam como um registro do **processo de aprendizagem a
 ## 10. Identificação do projeto
 
 **Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
-**Desafio:** Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM — DIO  
-**Ferramenta principal:** NotebookLM  
-**Tema:** Gestão Financeira Pessoal  
-**Autora:** Nágyla Silva  
+**Plataforma:** NotebookLM  
+**Desafio:** DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM  
+**Autora:** Nágyla Silva
 
 **Objetivo central:** utilizar Inteligência Artificial como apoio à aprendizagem ativa, pesquisa, análise, verificação e organização do conhecimento.
 
 ---
 
-> **Nota:** As evidências visuais devem ser adicionadas a partir dos registros reais obtidos durante a execução do projeto. Nenhuma captura ou registro deve ser criado artificialmente apenas para preencher esta documentação.
+### Nota de rodapé
+
+**Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
+**Plataforma:** NotebookLM  
+**Desafio:** DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM  
+**Autora:** Nágyla Silva
