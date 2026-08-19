@@ -300,3 +300,8 @@ Este projeto integra o portfólio prático de estudos em Inteligência Artificia
 - **Prompt:** instrução ou conjunto de instruções fornecidas a um sistema de Inteligência Artificial para orientar sua resposta.
 - **Viés cognitivo:** padrão sistemático de julgamento que pode influenciar a interpretação de informações e a tomada de decisões.
 - **Viés do Presente:** tendência de atribuir maior importância às recompensas imediatas em comparação com benefícios futuros.
+
+---
+
+- **CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**
+**Autora:** Nágyla Silva
