@@ -89,34 +89,29 @@ Essa abordagem permitiu documentar não apenas o conhecimento obtido sobre o tem
 
 ## 4. Fontes utilizadas
 
-Durante a construção do caderno temático no NotebookLM, foram identificadas e exploradas **25 fontes** relacionadas à Gestão Financeira Pessoal, sendo **23 fontes externas** e **2 documentos internos** (relatórios de Deep Research produzidos durante a própria investigação).
+Durante a construção do caderno temático no NotebookLM, foram identificadas e exploradas **25 fontes** relacionadas à Gestão Financeira Pessoal, sendo **23 fontes externas** e **2 documentos internos** produzidos durante a própria investigação.
 
-As fontes abrangeram temas como educação e alfabetização financeira, comportamento econômico, vieses cognitivos, economia comportamental, organização financeira, investimentos e tomada de decisões.
+As fontes abrangem estudos acadêmicos e científicos, artigos e portais de finanças e economia e uma publicação institucional, além dos dois documentos internos de integração. Os temas incluem educação e alfabetização financeira, comportamento econômico, vieses cognitivos, economia comportamental, organização financeira, investimentos e tomada de decisões.
 
 Como parte do processo de curadoria, foram consideradas a relevância temática, a autoridade da publicação, a contribuição para os objetivos do projeto e a capacidade de fundamentar os conceitos estudados.
 
-Das 25 fontes, **5 fontes principais** foram selecionadas para compor a base central de referência do projeto (seção 4.1). As demais **18 fontes externas** foram utilizadas como fontes complementares, e os 2 documentos internos (seção 4.2) foram utilizados para organizar, relacionar e aprofundar os conhecimentos explorados.
+A relação consolidada e atualizada das 25 fontes está na pasta [`fontes/`](./fontes/). O inventário definitivo desta versão é **23 fontes externas + 2 fontes internas = 25 fontes**.
 
-### 4.1 Fontes principais selecionadas
+### 4.1 Fontes acadêmicas e científicas de destaque
 
-1. **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell. Publicado no *Journal of Economic Literature*, da American Economic Association.
+1. **Financial Literacy: An Essential Tool for Informed Consumer Choice?** — Annamaria Lusardi.
+2. **GFLEC Working Paper Series** — Olivia S. Mitchell e Annamaria Lusardi.
+3. **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness - NBER** — Annamaria Lusardi e Olivia S. Mitchell.
+4. **The Influence of Cognitive Biases on Personal Financial Decisions: Analyzing Spending, Saving, and Investment Behaviors in - RSIS International** — Dra. Lidia Durom.
 
-2. **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Olivia S. Mitchell e Annamaria Lusardi. Publicação acadêmica sobre alfabetização financeira e seus efeitos sobre decisões e resultados econômicos.
+### 4.2 Documentos de integração interna
 
-3. **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness** — Annamaria Lusardi e Olivia S. Mitchell. NBER Working Paper sobre conhecimento financeiro e planejamento para a aposentadoria.
+Além das 23 fontes externas, foram utilizados dois documentos internos produzidos durante o processo de investigação:
 
-4. **Financial Literacy: An Essential Tool for Informed Consumer Choice?** — Annamaria Lusardi. NBER Working Paper sobre alfabetização financeira e decisões relacionadas à poupança, aposentadoria, investimentos e empréstimos.
+* **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano** — documento de integração interna para estruturação teórica e modelagem de juros compostos e taxas reais pela Equação de Fisher.
+* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual** — documento de integração interna, produzido como relatório de *Deep Research*, que centraliza e cruza evidências científicas do ecossistema e possui bibliografia própria com 48 referências adicionais.
 
-5. **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving** — Richard H. Thaler e Shlomo Benartzi. Conceito e programa de poupança comportamental estudados no projeto por meio da fonte complementar **Save More Tomorrow — Decode the Future**, registrada na pasta [`fontes/`](./fontes/).
-
-### 4.2 Relatórios de pesquisa
-
-Além das 23 fontes externas, foram utilizados dois documentos internos (relatórios de Deep Research) produzidos durante o processo de investigação:
-
-* **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano**
-* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual**
-
-Esses documentos foram utilizados como materiais de apoio para organizar, relacionar e aprofundar os conhecimentos explorados no NotebookLM. A lista consolidada das 25 fontes está na pasta [`fontes/`](./fontes/).
+Esses documentos são materiais estruturantes do próprio projeto e não devem ser apresentados como publicações externas independentes.
 
 ---
 
@@ -242,7 +237,7 @@ Assim, as fontes não necessariamente se contradizem, mas apresentam diferentes 
 
 ## 8. Referências das respostas
 
-As respostas selecionadas na Seção 7 foram fundamentadas principalmente nas fontes utilizadas no caderno temático do NotebookLM.
+As respostas selecionadas na Seção 7 foram fundamentadas principalmente nas fontes utilizadas no caderno temático do NotebookLM. As referências abaixo foram atualizadas para corresponder ao inventário definitivo de **23 fontes externas + 2 fontes internas**.
 
 1. Lusardi, Annamaria; Mitchell, Olivia S. — **The Economic Importance of Financial Literacy: Theory and Evidence.**
    Acessar a fonte — https://www.aeaweb.org/articles?id=10.1257/jel.52.1.5
@@ -252,10 +247,10 @@ As respostas selecionadas na Seção 7 foram fundamentadas principalmente nas fo
    Acessar a fonte — https://www.nber.org/papers/w15350
 4. Lusardi, Annamaria; Mitchell, Olivia S. — **Financial Literacy and Economic Outcomes: Evidence and Policy Implications.**
    Acessar a fonte — https://pmc.ncbi.nlm.nih.gov/articles/PMC5445906/
-5. Thaler, Richard H.; Benartzi, Shlomo — **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving.**
-   Acessar a fonte — https://decodethefuture.org/en/save-more-tomorrow-explained/
-6. **Banco Central do Brasil — Caderno de Educação Financeira.**
+5. **Banco Central do Brasil — Caderno de Educação Financeira / Cidadania Financeira.**
    Acessar a fonte — https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
+6. **Nudge Theory — The Decision Lab.**
+   Acessar a fonte — https://thedecisionlab.com/reference-guide/psychology/nudge-theory
 
 ### 8.1 Referências relacionadas à Resposta 01
 
@@ -266,7 +261,7 @@ A análise sobre os pontos de convergência utilizou principalmente:
 * **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Olivia S. Mitchell e Annamaria Lusardi.
 * **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual** — documento interno utilizado no NotebookLM.
 * **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano** — documento interno utilizado no NotebookLM.
-* **Caderno de Educação Financeira / Cidadania Financeira — Banco Central do Brasil**: uma das 23 fontes externas documentadas em [`fontes/`](./fontes/), utilizada como referência institucional para conceitos de educação financeira e autonomia. Não faz parte das 5 fontes principais da seção 4.1, que reúne as referências acadêmicas de maior destaque — a inclusão aqui reflete seu uso específico na fundamentação desta resposta.
+* **Caderno de Educação Financeira / Cidadania Financeira — Banco Central do Brasil** — uma das 23 fontes externas documentadas em [`fontes/`](./fontes/), utilizada como referência institucional para conceitos de educação financeira e autonomia.
 
 ### 8.2 Referências relacionadas à Resposta 02
 
@@ -275,9 +270,8 @@ A análise sobre diferenças e divergências utilizou principalmente:
 * **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Olivia S. Mitchell e Annamaria Lusardi.
 * **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell.
 * **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness** — Annamaria Lusardi e Olivia S. Mitchell.
-* **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving** — Richard H. Thaler e Shlomo Benartzi.
-* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual** — documento interno utilizado no NotebookLM.
 * **Nudge Theory** — The Decision Lab. Acessar a fonte — https://thedecisionlab.com/reference-guide/psychology/nudge-theory
+* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual** — documento interno utilizado no NotebookLM.
 
 > **Observação metodológica:** as respostas apresentadas nesta seção representam sínteses produzidas a partir das fontes disponíveis no NotebookLM. Elas não devem ser interpretadas como transcrições literais dos trabalhos originais. Afirmações específicas devem ser conferidas diretamente nas fontes correspondentes quando houver necessidade de validação acadêmica ou documental.
 
