@@ -8,6 +8,97 @@ O objetivo desta pasta é proporcionar **rastreabilidade, organização e transp
 
 ---
 
+**Fontes Internas (2)**
+
+Estas fontes são os documentos e relatórios estruturantes em formato Markdown criados especificamente para guiar a modelagem matemática, a fundamentação teórica e a integração comportamental de todo o seu projeto:
+
+1. **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano [Markdown]**
+Autor: Documento de Integração Interna (Relatório de estruturação teórica e modelagem de juros compostos e taxas reais pela Equação de Fisher)
+.
+**O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual [Markdown]**
+Autor: Documento de Integração Interna (Relatório estruturante de Deep Research que centraliza e cruza as evidências científicas do ecossistema, contendo uma bibliografia própria com 48 referências adicionais)
+.
+**Fontes Externas (23)**
+Estas são as referências acadêmicas, guias práticos, portais de economia e manuais de órgãos oficiais importados para dar sustentação científica ao seu projeto:
+Estudos Acadêmicos, Científicos e Institucionais (PDFs):
+
+1. **Financial Literacy: An Essential Tool for Informed Consumer Choice? [PDF]**
+Autor: Annamaria Lusardi (trabalho de pesquisa elaborado para o Joint Center for Housing Studies da Harvard University)
+.
+2. **GFLEC Working Paper Series [PDF]**
+Autores: Olivia S. Mitchell (Wharton School) e Annamaria Lusardi (George Washington School of Business) (Série de artigos técnicos publicados pelo Global Financial Literacy Excellence Center)
+.
+3. **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness - NBER [PDF]**
+Autores: Annamaria Lusardi (Dartmouth College) e Olivia S. Mitchell (Wharton School) (Trabalho publicado no National Bureau of Economic Research)
+.
+4. **The Influence of Cognitive Biases on Personal Financial Decisions: Analyzing Spending, Saving, and Investment Behaviors in - RSIS International [PDF]**
+Autor: Dra. Lidia Durom (St. Xavier's College for Women, em Aluva, Kerala, Índia)
+.
+5. **caderno_cidadania_financeira.pdf [PDF]**
+Autor: Banco Central do Brasil (BCB) — Departamento de Promoção da Cidadania Financeira (sob a coordenação técnica de Izabela Moreira Correa e equipe)
+.
+**Artigos, Blogs de Finanças e Portais de Economia (URLs):**
+
+1. **5 Behavioral Biases That Can Impact Your Investing Decisions - Online Programs**
+Autor: William & Mary (Raymond A. Mason School of Business)
+.
+2. **7 Cognitive Biases That Quietly Sabotage Your Financial Life - Fifr**
+Autor: Daniel Alfi (Diretor Executivo/CEO da Fifr)
+.
+3. **Behavioral Biases in Finances: How to Avoid Present Bias | Farm Bureau Financial Services**
+Autor: Farm Bureau Financial Services (FBFS)
+.
+4. **Behavioral Economics: Nudge Theory**
+Autor: John Abbot (artigo de economia comportamental escrito para o Michigan Journal of Economics)
+.
+5. **Educação financeira pessoal: o que é e como começar**
+Autor: Alelo (produzido pela equipe de especialistas do Blog da Alelo)
+.
+6. **Financial Literacy - Olivia S. Mitchell; Annamaria Lusardi - Oxford University Press**
+Autores: Olivia S. Mitchell e Annamaria Lusardi (como organizadoras e editoras da compilação acadêmica)
+.
+7. **Financial Literacy and Economic Outcomes: Evidence and Policy Implications - PMC**
+Autores: Annamaria Lusardi e Olivia S. Mitchell (Nota: esta URL foi indexada no sistema como uma verificação de segurança reCAPTCHA
+, mas refere-se ao artigo de Mitchell e Lusardi).
+
+8. **How to Combat Behavioral Biases in Your Personal Finance**
+Autores: Magdalena (Maggie) Johndrow (Conselheira Financeira) e Evelyne Beaule (Intern na Johndrow Wealth Management)
+.
+9. **Investing biases | Fidelity Investments**
+Autor: Fidelity Investments (com contribuições técnicas de Melissa Knoll, Vice-presidente de Ciências Comportamentais)
+.
+10. **Loss aversion - The Decision Lab**
+Autor: The Decision Lab (redigido sob a supervisão dos Diretores Gerais Dan Pilat e Dr. Sekoul Krastev)
+.
+11. **Nudge Theory - The Decision Lab**
+Autor: Annika Steele (pesquisadora de economia comportamental da LSE para o portal The Decision Lab)
+.
+12. **Nudge theory | Economics | Research Starters - EBSCO**
+Autor: Janine Ungvarsky (para a EBSCO Research)
+.
+13. **Nudging: How Behavioral Economics Can Transform Practices - Voltage Control**
+Autor: Voltage Control
+.
+14. **Organização financeira: 10 dicas para colocar ordem nas suas contas**
+Autor: Sicredi (artigo de cooperativismo e educação do Blog do Sicredi)
+.
+15. **Organize Suas Finanças Pessoais: Dicas Essenciais e Práticas**
+Autor: FIA Business School (Fundação Instituto de Administração)
+.
+16. **The Economic Importance of Financial Literacy: Theory and Evidence**
+Autores: Annamaria Lusardi e Olivia S. Mitchell (publicado no Journal of Economic Literature da American Economic Association)
+.
+17. **The Psychology Behind Financial Choices: The Role of Cognitive Biases - HSA Tutoring**
+Autor: Satvik Agarwal (para a HSA Tutoring)
+.
+**The Psychology of Money: How Biases Shape Your Financial Decisions**
+Autor: Harvard Federal Credit Union (Harvard FCU)
+
+Como você está organizando as bases teóricas do seu projeto, eu poderia detalhar como as conclusões científicas globais de Mitchell e Lusardi dialogam diretamente com as recomendações de políticas públicas e cidadania financeira propostas pelo Banco Central do Brasil. O que acha?
+
+---
+
+
 ## 1. Critérios de seleção
 
 A seleção considerou relevância temática, credibilidade, diversidade de perspectivas, aplicabilidade, complementaridade e rastreabilidade das fontes utilizadas no caderno do NotebookLM.
@@ -28,57 +119,80 @@ As fontes internas possuem função diferente das fontes externas: foram desenvo
 
 As **23 fontes externas** utilizadas no projeto são apresentadas abaixo conforme a lista consolidada de fontes identificadas no NotebookLM.
 
-### 3.1 Educação financeira, alfabetização financeira e gestão financeira
+Estas são as referências acadêmicas, guias práticos, portais de economia e manuais de órgãos oficiais importados para dar sustentação científica ao seu projeto:
+Estudos Acadêmicos, Científicos e Institucionais (PDFs):
 
-**1. [Educação financeira pessoal: o que é e como começar — Alelo](https://www.alelo.com.br/blog/carreira-e-financas/educacao-financeira-pessoal-o-que-e-e-como-comecar)**
+1. **Financial Literacy: An Essential Tool for Informed Consumer Choice? [PDF]**
+Autor: Annamaria Lusardi (trabalho de pesquisa elaborado para o Joint Center for Housing Studies da Harvard University)
+.
+2. **GFLEC Working Paper Series [PDF]**
+Autores: Olivia S. Mitchell (Wharton School) e Annamaria Lusardi (George Washington School of Business) (Série de artigos técnicos publicados pelo Global Financial Literacy Excellence Center)
+.
+3. **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness - NBER [PDF]**
+Autores: Annamaria Lusardi (Dartmouth College) e Olivia S. Mitchell (Wharton School) (Trabalho publicado no National Bureau of Economic Research)
+.
+4. **The Influence of Cognitive Biases on Personal Financial Decisions: Analyzing Spending, Saving, and Investment Behaviors in - RSIS International [PDF]**
+Autor: Dra. Lidia Durom (St. Xavier's College for Women, em Aluva, Kerala, Índia)
+.
+5. **caderno_cidadania_financeira.pdf [PDF]**
+Autor: Banco Central do Brasil (BCB) — Departamento de Promoção da Cidadania Financeira (sob a coordenação técnica de Izabela Moreira Correa e equipe)
+.
+**Artigos, Blogs de Finanças e Portais de Economia (URLs):**
 
-**2. [Financial Literacy — Oxford University Press](https://global.oup.com/academic/product/financial-literacy-9780199696819)**
+1. **5 Behavioral Biases That Can Impact Your Investing Decisions - Online Programs**
+Autor: William & Mary (Raymond A. Mason School of Business)
+.
+2. **7 Cognitive Biases That Quietly Sabotage Your Financial Life - Fifr**
+Autor: Daniel Alfi (Diretor Executivo/CEO da Fifr)
+.
+3. **Behavioral Biases in Finances: How to Avoid Present Bias | Farm Bureau Financial Services**
+Autor: Farm Bureau Financial Services (FBFS)
+.
+4. **Behavioral Economics: Nudge Theory**
+Autor: John Abbot (artigo de economia comportamental escrito para o Michigan Journal of Economics)
+.
+5. **Educação financeira pessoal: o que é e como começar**
+Autor: Alelo (produzido pela equipe de especialistas do Blog da Alelo)
+.
+6. **Financial Literacy - Olivia S. Mitchell; Annamaria Lusardi - Oxford University Press**
+Autores: Olivia S. Mitchell e Annamaria Lusardi (como organizadoras e editoras da compilação acadêmica)
+.
+7. **Financial Literacy and Economic Outcomes: Evidence and Policy Implications - PMC**
+Autores: Annamaria Lusardi e Olivia S. Mitchell (Nota: esta URL foi indexada no sistema como uma verificação de segurança reCAPTCHA
+, mas refere-se ao artigo de Mitchell e Lusardi).
 
-**3. [Financial Literacy and Economic Outcomes — PMC/NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC5445906)**
-
-**4. [Financial Literacy: An Essential Tool for Informed Consumer Choice? — NBER](https://www.nber.org/papers/w14084)**
-
-**5. [GFLEC Working Paper Series — Global Financial Literacy Excellence Center](https://gflec.org/research/)**
-
-**6. [How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness — NBER](https://www.nber.org/papers/w15350)**
-
-**7. [The Economic Importance of Financial Literacy: Theory and Evidence — American Economic Association](https://www.aeaweb.org/articles?id=10.1257/jel.52.1.5)**
-
-**8. [Caderno de Educação Financeira: Cidadania Financeira — Banco Central do Brasil](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf)**
-
-**9. [Organização financeira: 10 dicas para colocar ordem nas suas contas — Sicredi](https://www.sicredi.com.br/site/blog/educacao-financeira/organizacao-financeira-10-dicas-colocar-ordem-suas-contas/)**
-
-**10. [Organize Suas Finanças Pessoais — FIA Business School](https://fia.com.br/blog/financas-pessoais/)**
-
----
-
-### 3.2 Economia comportamental, vieses cognitivos e Nudge Theory
-
-**11. [5 Behavioral Biases That Can Impact Your Investing Decisions — William & Mary](https://online.mason.wm.edu/blog/behavioral-biases-that-can-impact-investing-decisions)**
-
-**12. [7 Cognitive Biases That Quietly Sabotage Your Financial Life — Fifr](https://www.fifr.io/articles/7-cognitive-biases-that-quietly-sabotage-your-financial-life)**
-
-**13. [Behavioral Biases in Finances: How to Avoid Present Bias — Farm Bureau Financial Services](https://www.fbfs.com/learning-center/behavioral-biases-in-finances-how-to-avoid-present-bias)**
-
-**14. [Behavioral Economics: Nudge Theory — Michigan Journal of Economics](https://sites.lsa.umich.edu/mje/2025/03/09/behavioral-economics-nudge-theory/)**
-
-**15. [How to Combat Behavioral Biases in Your Personal Finance — Johndrow Wealth Management](https://www.johndrowwealth.com/blog/5-financial-planning-strategies-for-down-markets-jl725-6yrar)**
-
-**16. [Investing Biases — Fidelity Investments](https://www.fidelity.com/learning-center/wealth-management-insights/investing-biases)**
-
-**17. [Loss Aversion — The Decision Lab](https://thedecisionlab.com/biases/loss-aversion)**
-
-**18. [Nudge Theory — The Decision Lab](https://thedecisionlab.com/reference-guide/psychology/nudge-theory)**
-
-**19. [Nudge Theory — EBSCO Research Starters](https://www.ebsco.com/research-starters/economics/nudge-theory)**
-
-**20. [Nudging: How Behavioral Economics Can Transform Practices — Voltage Control](https://voltagecontrol.com/articles/nudging-how-behavioral-economics-can-transform-practices/)**
-
-**21. [The Influence of Cognitive Biases on Personal Financial Decisions — ResearchGate](https://www.researchgate.net/publication/410798671_The_Influence_of_Cognitive_Biases_on_Personal_Financial_Decisions_Analyzing_Spending_Saving_and_Investment_Behaviors_in_Behavioral_Finance)**
-
-**22. [The Psychology Behind Financial Choices: The Role of Cognitive Biases — HSA Tutoring](https://tutoring.hsa.net/blogs/students-published-works/lwl-the-psychology-behind-financial-choices-the-role-of-cognitive-biases-and-behavioral-economics-in-influencing-spending-and-saving-habits)**
-
-**23. [Save More Tomorrow — Decode the Future](https://decodethefuture.org/en/save-more-tomorrow-explained/)**
+8. **How to Combat Behavioral Biases in Your Personal Finance**
+Autores: Magdalena (Maggie) Johndrow (Conselheira Financeira) e Evelyne Beaule (Intern na Johndrow Wealth Management)
+.
+9. **Investing biases | Fidelity Investments**
+Autor: Fidelity Investments (com contribuições técnicas de Melissa Knoll, Vice-presidente de Ciências Comportamentais)
+.
+10. **Loss aversion - The Decision Lab**
+Autor: The Decision Lab (redigido sob a supervisão dos Diretores Gerais Dan Pilat e Dr. Sekoul Krastev)
+.
+11. **Nudge Theory - The Decision Lab**
+Autor: Annika Steele (pesquisadora de economia comportamental da LSE para o portal The Decision Lab)
+.
+12. **Nudge theory | Economics | Research Starters - EBSCO**
+Autor: Janine Ungvarsky (para a EBSCO Research)
+.
+13. **Nudging: How Behavioral Economics Can Transform Practices - Voltage Control**
+Autor: Voltage Control
+.
+14. **Organização financeira: 10 dicas para colocar ordem nas suas contas**
+Autor: Sicredi (artigo de cooperativismo e educação do Blog do Sicredi)
+.
+15. **Organize Suas Finanças Pessoais: Dicas Essenciais e Práticas**
+Autor: FIA Business School (Fundação Instituto de Administração)
+.
+16. **The Economic Importance of Financial Literacy: Theory and Evidence**
+Autores: Annamaria Lusardi e Olivia S. Mitchell (publicado no Journal of Economic Literature da American Economic Association)
+.
+17. **The Psychology Behind Financial Choices: The Role of Cognitive Biases - HSA Tutoring**
+Autor: Satvik Agarwal (para a HSA Tutoring)
+.
+**The Psychology of Money: How Biases Shape Your Financial Decisions**
+Autor: Harvard Federal Credit Union (Harvard FCU)
 
 ---
 
