@@ -28,6 +28,11 @@ O projeto registra uma diferença entre a contagem principal de **25 fontes** e 
 
 Somente relatórios efetivamente produzidos ou registrados durante o projeto devem ser adicionados. O conteúdo não deve ser reconstruído como se fosse uma evidência original quando o registro não estiver disponível.
 
-**Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
-**Plataforma:** NotebookLM  
-**Autora:** Nágyla Silva
+---
+
+**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
+**Autora:** Nágyla Silva  
+
+**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*  
+
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, desenvolvido com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, curadoria de fontes, avaliação crítica de respostas de IA e organização do conhecimento, contribuindo para o desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
