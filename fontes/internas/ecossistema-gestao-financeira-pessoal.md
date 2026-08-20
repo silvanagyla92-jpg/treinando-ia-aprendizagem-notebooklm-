@@ -2,21 +2,54 @@
 
 > **Fonte interna do projeto.**
 
+## Identificação
+
 - **Autor:** Documento de Integração Interna
 - **Formato:** Markdown
 - **Natureza:** relatório interno de estruturação teórica e modelagem
-- **Função no projeto:** organizar e integrar conhecimentos utilizados na investigação sobre gestão financeira pessoal.
+- **Função:** integrar conceitos financeiros, matemáticos e comportamentais utilizados na investigação.
 
 ## Finalidade
 
-Este documento foi desenvolvido para estruturar a integração entre gestão financeira pessoal, comportamento humano, tomada de decisão e fundamentos matemáticos utilizados no projeto.
+Este documento foi desenvolvido para estruturar a integração entre **gestão financeira pessoal, comportamento humano, tomada de decisão e fundamentos matemáticos**.
 
-O relatório também contempla a modelagem de **juros compostos** e de **taxas reais pela Equação de Fisher**, conforme a descrição da fonte no inventário do projeto.
+O relatório contempla a modelagem de **juros compostos** e de **taxas reais pela Equação de Fisher**, conforme o inventário das fontes do projeto.
+
+## Eixos integrados
+
+### Gestão financeira pessoal
+
+Organização de recursos, planejamento e tomada de decisões financeiras.
+
+### Modelagem matemática
+
+Representação quantitativa de fenômenos financeiros, incluindo crescimento composto e relação entre taxas nominais, inflação e taxas reais.
+
+### Comportamento humano
+
+Consideração de fatores comportamentais que podem influenciar decisões financeiras e a aplicação prática do conhecimento.
+
+## Papel metodológico
+
+A fonte funciona como uma **camada de integração interna**. Ela não substitui os estudos acadêmicos, as fontes institucionais ou os artigos utilizados no projeto; seu papel é organizar e relacionar conhecimentos provenientes dessas diferentes categorias.
 
 ## Relação com o NotebookLM
 
 O documento foi utilizado como uma das duas fontes internas do caderno temático, servindo como material de integração e organização do conhecimento produzido durante a investigação.
 
-## Observação
+## Rastreabilidade
 
-Esta fonte não deve ser tratada como publicação acadêmica externa independente. Sua função é estruturar e consolidar conhecimentos dentro do próprio projeto.
+Quando uma afirmação específica depender de uma fonte externa, a verificação deve retornar à referência original correspondente. O documento interno não deve ser utilizado como única evidência para uma afirmação que exige fonte primária ou acadêmica.
+
+## Limites
+
+Este documento é uma **síntese interna do projeto**, não uma publicação acadêmica externa independente. Fórmulas, hipóteses e interpretações devem ser analisadas conforme seu contexto e, quando necessário, verificadas em fontes técnicas apropriadas.
+
+---
+
+**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
+**Autora:** Nágyla Silva  
+
+**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*  
+
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, desenvolvido com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, curadoria de fontes, avaliação crítica de respostas de IA e organização do conhecimento, contribuindo para o desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
