@@ -1,12 +1,36 @@
 # 5 Behavioral Biases That Can Impact Your Investing Decisions
 
-- **Autor:** William & Mary, Raymond A. Mason School of Business
-- **Tipo:** artigo educacional / portal universitário
-- **Tema:** vieses comportamentais aplicados a decisões de investimento.
-- **Uso no projeto:** apoio à identificação e explicação de vieses que podem influenciar escolhas financeiras.
+## Identificação
 
-## Referência original
-https://online.mason.wm.edu/blog/behavioral-biases-that-can-impact-investing-decisions
+- **Instituição:** William & Mary — Raymond A. Mason School of Business
+- **Tipo:** artigo/portal educacional
+- **Tema:** vieses comportamentais e decisões de investimento.
 
-## Rastreabilidade
-Registro da fonte utilizada no NotebookLM. O conteúdo integral não é reproduzido.
+## Relevância para o projeto
+
+A fonte apresenta uma abordagem aplicada sobre como vieses podem influenciar decisões de investimento. No projeto, contribui para a dimensão comportamental da Gestão Financeira Pessoal.
+
+## Uso no NotebookLM
+
+Utilizada como apoio à investigação sobre **vieses cognitivos, comportamento financeiro e tomada de decisão**.
+
+## Relação com outras fontes
+
+Complementa estudos acadêmicos sobre comportamento e materiais sobre aversão à perda, viés do presente e outros vieses financeiros.
+
+## Limites
+
+É uma fonte educacional, não um substituto para evidência acadêmica primária. Afirmações específicas devem ser verificadas no artigo original.
+
+## Referência
+
+William & Mary, Raymond A. Mason School of Business — *5 Behavioral Biases That Can Impact Your Investing Decisions*.
+
+---
+
+**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
+**Autora:** Nágyla Silva  
+
+**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*  
+
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, desenvolvido com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, curadoria de fontes, avaliação crítica de respostas de IA e organização do conhecimento, contribuindo para o desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
