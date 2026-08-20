@@ -24,6 +24,11 @@ Quando o conteúdo original não puder ser redistribuído por questões de direi
 
 A pasta principal `fontes/` documenta as referências, seus critérios de seleção e sua finalidade. Esta pasta de evidências documenta **o uso efetivo dessas fontes no processo realizado no NotebookLM**.
 
-**Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
-**Plataforma:** NotebookLM  
-**Autora:** Nágyla Silva
+---
+
+**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
+**Autora:** Nágyla Silva  
+
+**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*  
+
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, desenvolvido com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, curadoria de fontes, avaliação crítica de respostas de IA e organização do conhecimento, contribuindo para o desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
