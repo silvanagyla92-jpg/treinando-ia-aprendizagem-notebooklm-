@@ -17,7 +17,9 @@ Autor: Documento de Integração Interna (Relatório de estruturação teórica 
 .
 **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual [Markdown]**
 Autor: Documento de Integração Interna (Relatório estruturante de Deep Research que centraliza e cruza as evidências científicas do ecossistema, contendo uma bibliografia própria com 48 referências adicionais)
-.
+
+---
+
 **Fontes Externas (23)**
 Estas são as referências acadêmicas, guias práticos, portais de economia e manuais de órgãos oficiais importados para dar sustentação científica ao seu projeto:
 Estudos Acadêmicos, Científicos e Institucionais (PDFs):
