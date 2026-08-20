@@ -2,29 +2,37 @@
 
 ## Identificação
 
-- **Autor institucional:** Harvard Federal Credit Union (Harvard FCU)
-- **Tipo:** conteúdo de educação financeira
+- **Organização:** Harvard Federal Credit Union (Harvard FCU)
+- **Tipo:** artigo de educação financeira
 - **Tema:** psicologia do dinheiro e influência de vieses nas decisões.
+
+## Sobre a fonte
+
+O artigo apresenta a ideia de que decisões financeiras são influenciadas não apenas por conhecimento e cálculo, mas também por fatores psicológicos. A discussão aproxima conceitos de economia comportamental de situações comuns relacionadas a gastos, poupança e investimentos.
+
+## Principais contribuições
+
+A fonte ajuda a reconhecer padrões como impulsividade, percepção seletiva de informações, aversão a perdas e outras tendências que podem alterar a tomada de decisão. Seu foco é principalmente educativo e voltado à autoconsciência financeira.
 
 ## Relevância para o projeto
 
-A fonte contribui para conectar conceitos de psicologia e comportamento às decisões financeiras cotidianas.
+Contribui para explicar a dimensão **psicológica e comportamental** da Gestão Financeira Pessoal e reforça a necessidade de analisar o comportamento junto ao conhecimento financeiro.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como material complementar na investigação sobre **vieses, comportamento e escolhas financeiras**.
+Foi utilizada para apoiar perguntas sobre **psicologia do dinheiro, vieses e decisões financeiras cotidianas**.
 
 ## Relação com outras fontes
 
-Complementa os artigos sobre psicologia financeira, investing biases e aversão à perda.
+Complementa HSA Tutoring, Fidelity, William & Mary e Decision Lab.
 
-## Limites
+## Limitações
 
-Trata-se de conteúdo de educação financeira institucional de uma cooperativa de crédito; não substitui literatura acadêmica.
+É material de educação financeira de uma instituição financeira cooperativa. Não deve ser tratado como estudo acadêmico nem como aconselhamento personalizado.
 
 ## Referência
 
-Harvard Federal Credit Union — *The Psychology of Money: How Biases Shape Your Financial Decisions*.
+Fonte indicada no inventário original do projeto: Harvard Federal Credit Union — *The Psychology of Money: How Biases Shape Your Financial Decisions*.
 
 ---
 
