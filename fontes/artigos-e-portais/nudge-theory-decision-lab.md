@@ -2,29 +2,38 @@
 
 ## Identificação
 
-- **Autor:** Annika Steele / The Decision Lab
-- **Tipo:** artigo de economia comportamental
-- **Tema:** Nudge Theory e arquitetura de escolhas.
+- **Autora:** Annika Steele
+- **Organização:** The Decision Lab
+- **Tipo:** artigo de divulgação em ciência comportamental
+- **Tema:** teoria do *nudge* e arquitetura de escolha.
+
+## Sobre a fonte
+
+O artigo apresenta a teoria do *nudge* como uma forma de influenciar comportamentos por meio da organização do contexto de decisão, preservando a possibilidade de escolha. O conceito deriva da economia comportamental e está associado à ideia de arquitetura de escolha.
+
+## Principais contribuições
+
+A fonte ajuda a compreender como pequenos elementos do ambiente decisório — como apresentação de opções, padrões e informações — podem afetar o comportamento sem necessariamente impor uma decisão.
 
 ## Relevância para o projeto
 
-A fonte contribui para compreender como o contexto de escolha pode influenciar comportamentos sem depender exclusivamente de coerção ou imposição.
+No contexto financeiro, o conceito pode ser aplicado à criação de rotinas e ambientes que facilitem comportamentos desejáveis, como poupar, acompanhar gastos ou cumprir metas.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como apoio à investigação sobre **economia comportamental, Nudge e tomada de decisão**.
+Foi utilizada para apoiar a investigação sobre **nudge, economia comportamental, arquitetura de escolha e decisões financeiras**.
 
 ## Relação com outras fontes
 
-Complementa os materiais sobre Nudge do EBSCO, Michigan Journal of Economics e Voltage Control.
+Complementa Michigan Journal of Economics, EBSCO e Voltage Control, que apresentam outras abordagens ou aplicações da teoria.
 
-## Limites
+## Limitações
 
-É uma fonte de divulgação especializada. Conceitos e afirmações específicas devem ser conferidos na literatura original sobre economia comportamental.
+É conteúdo de divulgação. A existência de um mecanismo de *nudge* não garante um efeito uniforme em diferentes populações e contextos.
 
 ## Referência
 
-The Decision Lab — *Nudge Theory*, autoria indicada no inventário como Annika Steele.
+Fonte indicada no inventário original do projeto: The Decision Lab — *Nudge Theory*.
 
 ---
 
