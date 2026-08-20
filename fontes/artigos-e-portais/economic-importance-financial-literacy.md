@@ -4,28 +4,36 @@
 
 - **Autores:** Annamaria Lusardi e Olivia S. Mitchell
 - **Publicação:** Journal of Economic Literature, American Economic Association
-- **Tipo:** artigo acadêmico
-- **Tema:** importância econômica da alfabetização financeira, teoria, evidências e implicações.
+- **Tipo:** artigo acadêmico de revisão da literatura
+- **Tema:** importância econômica da alfabetização financeira.
+
+## Sobre a fonte
+
+O artigo reúne teoria e evidências para discutir por que a alfabetização financeira é economicamente relevante. A análise conecta conhecimento financeiro a decisões como poupança, investimento, endividamento e planejamento para o futuro.
+
+## Principais contribuições
+
+A referência é importante porque desloca a discussão de “saber sobre finanças” para a questão de como conhecimento financeiro pode estar relacionado a escolhas e resultados econômicos. Também apresenta desafios de mensuração da alfabetização financeira e da interpretação de sua relação com comportamento.
 
 ## Relevância para o projeto
 
-A fonte fornece fundamentação para analisar a alfabetização financeira como elemento relacionado a decisões e resultados econômicos.
+É uma das fontes centrais para o eixo **educação financeira e tomada de decisão econômica**, fornecendo fundamentação acadêmica para as discussões sobre alfabetização financeira.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como apoio à investigação sobre **educação financeira, tomada de decisão e resultados econômicos**.
+Foi utilizada para apoiar a análise de **alfabetização financeira, comportamento econômico, planejamento e resultados financeiros**.
 
 ## Relação com outras fontes
 
-Complementa os trabalhos de Lusardi e Mitchell presentes na categoria acadêmica e ajuda a conectar conhecimento financeiro a resultados econômicos e políticas.
+Complementa Lusardi, os trabalhos NBER e o material disponibilizado no PMC. Também oferece uma base acadêmica mais forte para interpretar materiais editoriais sobre educação financeira.
 
-## Limites
+## Limitações
 
-A ficha registra a função da fonte no projeto; conclusões específicas devem ser verificadas no artigo original.
+Como revisão e discussão de evidências, suas conclusões devem ser interpretadas conforme os estudos que compõem a literatura analisada. Não constitui aconselhamento financeiro individual.
 
 ## Referência
 
-Lusardi, Annamaria; Mitchell, Olivia S. — *The Economic Importance of Financial Literacy: Theory and Evidence*.
+Fonte indicada no inventário original do projeto: American Economic Association — *The Economic Importance of Financial Literacy: Theory and Evidence*.
 
 ---
 
