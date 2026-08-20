@@ -3,28 +3,36 @@
 ## Identificação
 
 - **Autores:** Annamaria Lusardi e Olivia S. Mitchell
-- **Tipo:** artigo acadêmico disponibilizado em base científica
-- **Tema:** alfabetização financeira, resultados econômicos e implicações para políticas.
+- **Tipo:** artigo acadêmico disponibilizado em repositório biomédico / científico
+- **Tema:** alfabetização financeira, resultados econômicos e implicações de políticas públicas.
+
+## Sobre a fonte
+
+O trabalho examina evidências sobre alfabetização financeira e sua relação com comportamentos e resultados econômicos. A discussão ajuda a entender por que conhecimento financeiro é relevante para escolhas individuais e por que políticas de educação financeira podem ser consideradas no desenho de estratégias de bem-estar econômico.
+
+## Principais contribuições
+
+A fonte organiza evidências sobre o nível de alfabetização financeira e suas associações com decisões econômicas. Também discute desafios para políticas de educação financeira, especialmente a necessidade de considerar quem deve receber educação, quais conteúdos são relevantes e em que momento a intervenção pode ser mais útil.
 
 ## Relevância para o projeto
 
-A fonte conecta a alfabetização financeira a resultados econômicos e amplia a discussão sobre a importância do conhecimento financeiro.
+É uma das referências mais diretamente relacionadas ao eixo **educação financeira → comportamento → resultados econômicos**.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como apoio às análises sobre **educação financeira, decisões econômicas e resultados financeiros**.
+Foi utilizada para apoiar a análise de **alfabetização financeira, decisões econômicas e implicações práticas de programas de educação financeira**.
 
 ## Relação com outras fontes
 
-Complementa *The Economic Importance of Financial Literacy* e os demais trabalhos de Lusardi e Mitchell.
+Complementa *The Economic Importance of Financial Literacy: Theory and Evidence*, os trabalhos de NBER e a fonte de Lusardi sobre escolha do consumidor.
 
-## Limites
+## Limitações
 
-A ficha documenta a referência utilizada e sua função no projeto. Afirmações específicas devem ser verificadas no texto original e em sua versão editorial correspondente.
+A fonte discute evidências agregadas e implicações de políticas; não deve ser convertida automaticamente em recomendações financeiras individuais.
 
 ## Referência
 
-Lusardi, Annamaria; Mitchell, Olivia S. — *Financial Literacy and Economic Outcomes: Evidence and Policy Implications*.
+Fonte indicada no inventário original do projeto: PMC — *Financial Literacy and Economic Outcomes: Evidence and Policy Implications*.
 
 ---
 
