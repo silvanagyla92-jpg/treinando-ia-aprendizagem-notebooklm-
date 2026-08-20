@@ -7,25 +7,33 @@
 - **Tipo:** artigo educacional
 - **Tema:** psicologia das escolhas financeiras e vieses cognitivos.
 
+## Sobre a fonte
+
+O artigo aborda a relação entre processos psicológicos e decisões financeiras, destacando como vieses podem afetar avaliação de alternativas, percepção de risco e escolhas de consumo, poupança ou investimento.
+
+## Principais contribuições
+
+A fonte é útil para explicar, em linguagem acessível, por que decisões financeiras não são determinadas apenas por cálculos objetivos. Emoções, atalhos cognitivos, experiências anteriores e crenças podem alterar a forma como uma pessoa interpreta informações econômicas.
+
 ## Relevância para o projeto
 
-A fonte ajuda a contextualizar a dimensão psicológica das decisões financeiras e a relação entre vieses e escolhas.
+Contribui para o eixo **psicologia da decisão financeira**, permitindo relacionar educação financeira e comportamento.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como apoio à investigação sobre **psicologia financeira, vieses cognitivos e tomada de decisão**.
+Foi utilizada para apoiar a análise de **vieses cognitivos e sua influência sobre escolhas financeiras**.
 
 ## Relação com outras fontes
 
-Complementa as fontes acadêmicas e os artigos sobre loss aversion, present bias e investing biases.
+Complementa Decision Lab, Fidelity, William & Mary e o estudo acadêmico sobre vieses em decisões financeiras.
 
-## Limites
+## Limitações
 
-É conteúdo educacional e deve ser diferenciado da literatura científica primária.
+É material educacional, não pesquisa primária. Serve principalmente à contextualização e explicação conceitual.
 
 ## Referência
 
-Satvik Agarwal, HSA Tutoring — *The Psychology Behind Financial Choices: The Role of Cognitive Biases*.
+Fonte indicada no inventário original do projeto: HSA Tutoring — *The Psychology Behind Financial Choices: The Role of Cognitive Biases*.
 
 ---
 
