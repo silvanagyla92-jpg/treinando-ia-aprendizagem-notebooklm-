@@ -26,3 +26,12 @@ Esta pasta reúne as **18 fontes externas** classificadas no inventário do proj
 Os registros individuais preservam a identificação e a finalidade da fonte. Quando o endereço específico de uma página não pôde ser confirmado com segurança, foi utilizado apenas o domínio institucional, evitando inventar URLs.
 
 > **Importante:** **Save More Tomorrow — Decode the Future** não faz parte das 23 fontes externas listadas para este projeto nesta versão do inventário. Por isso, não foi incluída como fonte adicional nesta pasta.
+
+---
+
+**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
+**Autora:** Nágyla Silva  
+
+**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*  
+
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, desenvolvido com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, curadoria de fontes, avaliação crítica de respostas de IA e organização do conhecimento, contribuindo para o desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
