@@ -43,18 +43,14 @@ evidencias/
 
 Destinada às evidências relacionadas à **curadoria e organização das fontes** utilizadas no caderno temático.
 
-Durante a pesquisa foram identificadas e exploradas **25 fontes** relacionadas à Gestão Financeira Pessoal, abrangendo temas como:
+Durante a pesquisa foram identificadas e exploradas **25 fontes** relacionadas à Gestão Financeira Pessoal, sendo **23 fontes externas e 2 fontes internas**. As fontes externas abrangem estudos acadêmicos e científicos, artigos e portais de finanças e economia e uma publicação institucional do Banco Central do Brasil.
 
-- educação e alfabetização financeira;
-- comportamento econômico;
-- vieses cognitivos;
-- economia comportamental;
-- organização financeira;
-- investimentos;
-- planejamento;
-- tomada de decisões econômicas.
+As duas fontes internas são documentos de integração produzidos especificamente para estruturar a fundamentação teórica, a modelagem matemática e a integração comportamental do projeto:
 
-Entre as fontes principais selecionadas estão trabalhos de **Annamaria Lusardi, Olivia S. Mitchell, Richard H. Thaler e Shlomo Benartzi**.
+- **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano**;
+- **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual**.
+
+As fontes externas estão documentadas e classificadas na pasta [`fontes/`](../fontes/), conforme o inventário consolidado do projeto.
 
 ### 2.2 `notebooklm/perguntas/`
 
