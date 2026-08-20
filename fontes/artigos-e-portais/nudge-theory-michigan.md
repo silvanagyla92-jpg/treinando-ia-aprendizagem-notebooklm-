@@ -4,28 +4,36 @@
 
 - **Autor:** John Abbot
 - **Publicação:** Michigan Journal of Economics
-- **Tipo:** artigo de economia comportamental
-- **Tema:** Nudge Theory e economia comportamental.
+- **Tipo:** artigo de divulgação acadêmica
+- **Tema:** economia comportamental e teoria do *nudge*.
+
+## Sobre a fonte
+
+O artigo apresenta a teoria do *nudge* como uma abordagem da economia comportamental voltada a compreender como a arquitetura de escolha pode influenciar decisões sem retirar as alternativas disponíveis ao indivíduo.
+
+## Principais contribuições
+
+A fonte ajuda a diferenciar **influenciar uma escolha** de **proibir ou obrigar uma escolha**. A ideia central é que a forma como alternativas são apresentadas, organizadas ou disponibilizadas pode afetar o comportamento.
 
 ## Relevância para o projeto
 
-A fonte contribui para explicar a relação entre economia comportamental, arquitetura de escolhas e comportamento.
+No contexto da Gestão Financeira Pessoal, o conceito pode ser relacionado à criação de ambientes e rotinas que favoreçam comportamentos desejáveis, como poupar, acompanhar despesas ou planejar objetivos.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como apoio à investigação sobre **Nudge, vieses e tomada de decisão econômica**.
+Foi utilizada para apoiar a investigação sobre **economia comportamental, arquitetura de escolha e mecanismos de influência sobre decisões financeiras**.
 
 ## Relação com outras fontes
 
-Complementa as referências do Decision Lab, EBSCO e Voltage Control sobre Nudge.
+Complementa as fontes do Decision Lab, EBSCO e Voltage Control, permitindo comparar diferentes explicações e aplicações da teoria do *nudge*.
 
-## Limites
+## Limitações
 
-O artigo é utilizado como fonte de apoio no projeto; afirmações específicas devem ser conferidas na publicação original e na literatura acadêmica correspondente.
+O artigo tem caráter explicativo e educacional. Não deve ser usado isoladamente para afirmar que um determinado *nudge* produzirá um efeito específico em todas as pessoas ou contextos.
 
 ## Referência
 
-John Abbot — *Behavioral Economics: Nudge Theory*, Michigan Journal of Economics.
+Fonte indicada no inventário original do projeto: Michigan Journal of Economics — *Behavioral Economics: Nudge Theory*.
 
 ---
 
