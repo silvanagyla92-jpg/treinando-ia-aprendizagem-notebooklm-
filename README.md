@@ -36,9 +36,9 @@ O projeto está organizado de forma sequencial, acompanhando as principais etapa
 
 Após a apresentação do objetivo e do tema, são documentadas as competências desenvolvidas, a metodologia adotada e as fontes utilizadas.
 
-Na sequência, são apresentadas as perguntas estratégicas, a engenharia de prompts e duas respostas selecionadas para análise, acompanhadas posteriormente de suas referências.
+Na sequência, são apresentadas as perguntas estratégicas, a engenharia de prompts e duas respostas selecionadas para análise, acompanhadas de suas referências.
 
-A etapa final reúne a conclusão, os principais aprendizados, as informações de contato, as referências utilizadas e um glossário dos principais conceitos abordados.
+A etapa final reúne as referências das respostas, a conclusão, os principais aprendizados, as informações de contato e um glossário dos principais conceitos abordados.
 
 Essa organização permite acompanhar o projeto desde a curadoria e investigação até a análise, síntese e documentação dos resultados.
 
@@ -89,15 +89,15 @@ Essa abordagem permitiu documentar não apenas o conhecimento obtido sobre o tem
 
 ## 4. Fontes utilizadas
 
-Durante a construção do caderno temático no NotebookLM, foram identificadas e exploradas **26 fontes** relacionadas à Gestão Financeira Pessoal.
+Durante a construção do caderno temático no NotebookLM, foram identificadas e exploradas **25 fontes** relacionadas à Gestão Financeira Pessoal, sendo **23 fontes externas** e **2 documentos internos** (relatórios de Deep Research produzidos durante a própria investigação).
 
 As fontes abrangeram temas como educação e alfabetização financeira, comportamento econômico, vieses cognitivos, economia comportamental, organização financeira, investimentos e tomada de decisões.
 
 Como parte do processo de curadoria, foram consideradas a relevância temática, a autoridade da publicação, a contribuição para os objetivos do projeto e a capacidade de fundamentar os conceitos estudados.
 
-Embora 26 fontes tenham sido exploradas durante a pesquisa, **5 fontes principais** foram selecionadas para compor a base central de referência do projeto. As demais foram utilizadas como fontes complementares durante a exploração e aprendizagem no NotebookLM.
+Das 25 fontes, **5 fontes principais** foram selecionadas para compor a base central de referência do projeto (seção 4.1). As demais 20 fontes externas foram utilizadas como fontes complementares, e os 2 documentos internos (seção 4.2) foram utilizados para organizar, relacionar e aprofundar os conhecimentos explorados.
 
-Também foram utilizados dois relatórios de Deep Research produzidos durante a investigação. Esses relatórios são considerados materiais de síntese e aprofundamento, não sendo contabilizados como fontes acadêmicas primárias dentro das 26 fontes externas.
+---
 
 ### 4.1 Fontes principais selecionadas
 
@@ -109,16 +109,16 @@ Também foram utilizados dois relatórios de Deep Research produzidos durante a 
 
 4. **Financial Literacy: An Essential Tool for Informed Consumer Choice?** — Annamaria Lusardi. NBER Working Paper sobre alfabetização financeira e decisões relacionadas à poupança, aposentadoria, investimentos e empréstimos.
 
-5. **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving** — Richard H. Thaler e Shlomo Benartzi. Publicado no *Journal of Political Economy*.
+5. **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving** — Richard H. Thaler e Shlomo Benartzi. Publicado no *Journal of Political Economy*, vol. 112(S1), pp. 164–187 (2004).
 
 ### 4.2 Relatórios de pesquisa
 
-Além das fontes externas, foram utilizados dois relatórios de Deep Research produzidos durante o processo de investigação:
+Além das 23 fontes externas, foram utilizados dois documentos internos (relatórios de Deep Research) produzidos durante o processo de investigação:
 
 * **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano**
 * **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual**
 
-Esses relatórios foram utilizados como materiais de apoio para organizar, relacionar e aprofundar os conhecimentos explorados no NotebookLM.
+Esses documentos foram utilizados como materiais de apoio para organizar, relacionar e aprofundar os conhecimentos explorados no NotebookLM. A lista completa das 25 fontes, com links verificados, está na pasta [`fontes/`](./fontes/).
 
 ---
 
@@ -129,7 +129,7 @@ As perguntas estratégicas foram elaboradas para orientar a exploração das fon
 ### 5.1 Educação financeira e comportamento
 
 1. **Como os vieses cognitivos e a psicologia afetam nossas decisões econômicas?**
-2. **Qual é a distinção teórica fundamental entre "educação financeira" e "organização financeira pessoal"?**
+2. **Qual é a distinção fundamental entre "educação financeira" e "organização financeira pessoal"?**
 3. **De que forma o "Viés do Presente" (ou desconto hiperbólico) explica a dificuldade sistemática dos indivíduos em poupar para objetivos de longo prazo?**
 
 ### 5.2 Economia comportamental e tomada de decisão
@@ -140,9 +140,8 @@ As perguntas estratégicas foram elaboradas para orientar a exploração das fon
 
 ### 5.3 Organização financeira, investimentos e planejamento
 
-1. **Qual é a diferença operacional entre "educação financeira" e "organização financeira pessoal"?**
-2. **Quais são os três componentes fundamentais (o "tripé") de qualquer investimento e por que eles nunca estão em níveis máximos simultaneamente?**
-3. **Quais são os cinco passos necessários para transformar um "sonho" abstrato em um "projeto" financeiro concreto?**
+1. **Quais são os três componentes fundamentais (o "tripé") de qualquer investimento e por que eles nunca estão em níveis máximos simultaneamente?**
+2. **Quais são os cinco passos necessários para transformar um "sonho" abstrato em um "projeto" financeiro concreto?**
 
 ### 5.4 Análise crítica e integração das fontes
 
@@ -167,31 +166,60 @@ Os prompts foram elaborados a partir das perguntas estratégicas da Seção 5 e 
 
 **02 — Aprofundamento**
 
-> Assuma o papel de um especialista em finanças comportamentais e, com base nas fontes, elabore uma explicação técnica sobre a tomada de decisão intertemporal. Detalhe como o Viés do Presente (ou Desconto Hiperbólico) descreve a tendência humana de supervalorizar recompensas imediatas em detrimento de benefícios futuros significativamente maiores. Explique o mecanismo psicológico envolvido e como esse viés atua como uma barreira para o acúmulo de patrimônio e para a poupança de longo prazo. Por fim, discuta estratégias de arquitetura de escolha que podem ajudar a reduzir esses efeitos.
+> Assuma o papel de um especialista em finanças comportamentais e, com base nas fontes, elabore uma explicação técnica sobre a tomada de decisão intertemporal. Detalhe como o Viés do Presente (ou Desconto Hiperbólico) descreve a tendência humana de supervalorizar recompensas imediatas em detrimento de benefícios futuros significativamente maiores. Explique o mecanismo psicológico da incapacidade neurológica de processar o bem-estar do 'eu futuro' com a mesma urgência das demandas atuais e como o modelo de desconto quasi-hiperbólico (β-δ) ilustra a desvalorização subjetiva e abrupta da utilidade futura. Por fim, discuta como esse viés atua como uma barreira sistemática para o acúmulo de patrimônio, resultando em procrastinação na poupança para a aposentadoria, e quais estratégias de arquitetura de escolha podem ser implementadas para mitigar esses efeitos.
 
 **03 — Comparação entre fontes**
 
-> Assuma o papel de um especialista em literacia financeira e políticas públicas. Com base nas fontes, realize uma síntese dos principais consensos teóricos e práticos sobre a importância da aquisição de competências financeiras para o indivíduo e para a sociedade. Explique como a educação financeira contribui para a autonomia, preparação para a aposentadoria, acúmulo de riqueza, prevenção de erros econômicos e identificação de vieses cognitivos.
+> Assuma o papel de um especialista em literacia financeira e políticas públicas. Com base nas fontes, realize uma síntese dos principais consensos teóricos e práticos sobre a importância da aquisição de competências financeiras para o indivíduo e para a sociedade. Detalhe como a educação financeira atua como uma ferramenta de emancipação intelectual e autonomia, seu impacto direto na preparação para a aposentadoria e acúmulo de riqueza e sua função na prevenção de erros econômicos custosos e dívidas de alto risco. Além disso, explique como o letramento financeiro ajuda o tomador de decisão a identificar e mitigar vieses cognitivos e de que forma cidadãos bem-educados financeiramente contribuem para a resiliência da economia global.
 
-**04 — Análise crítica**
+## 4. Fontes utilizadas
 
-> O analista de precisão deve fazer um pente-fino em todas as explicações dadas até agora, comparando cada afirmação com o que está escrito nas fontes disponíveis. Deve apontar claramente o que é uma informação diretamente fundamentada nos documentos e o que representa conclusão lógica, interpretação ou extrapolação. Ao final, responda: quais afirmações apresentadas nas respostas anteriores estão diretamente fundamentadas nas fontes disponíveis e quais exigem cautela, interpretação ou verificação adicional?
+Durante a construção do caderno temático no NotebookLM, foram identificadas e exploradas **25 fontes** relacionadas à Gestão Financeira Pessoal, sendo **23 fontes externas** e **2 documentos internos** (relatórios de Deep Research produzidos durante a própria investigação).
+
+As fontes abrangeram temas como educação e alfabetização financeira, comportamento econômico, vieses cognitivos, economia comportamental, organização financeira, investimentos e tomada de decisões.
+
+Como parte do processo de curadoria, foram consideradas a relevância temática, a autoridade da publicação, a contribuição para os objetivos do projeto e a capacidade de fundamentar os conceitos estudados.
+
+Das 25 fontes, **5 fontes principais** foram selecionadas para compor a base central de referência do projeto (seção 4.1). As demais 20 fontes externas foram utilizadas como fontes complementares, e os 2 documentos internos (seção 4.2) foram utilizados para organizar, relacionar e aprofundar os conhecimentos explorados.
+
+### 4.1 Fontes principais selecionadas
+
+1. **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell. Publicado no *Journal of Economic Literature*, da American Economic Association.
+
+2. **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Olivia S. Mitchell e Annamaria Lusardi. Publicação acadêmica sobre alfabetização financeira e seus efeitos sobre decisões e resultados econômicos.
+
+3. **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness** — Annamaria Lusardi e Olivia S. Mitchell. NBER Working Paper sobre conhecimento financeiro e planejamento para a aposentadoria.
+
+4. **Financial Literacy: An Essential Tool for Informed Consumer Choice?** — Annamaria Lusardi. NBER Working Paper sobre alfabetização financeira e decisões relacionadas à poupança, aposentadoria, investimentos e empréstimos.
+
+5. **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving** — Richard H. Thaler e Shlomo Benartzi. Publicado no *Journal of Political Economy*, vol. 112(S1), pp. 164–187 (2004).
+
+### 4.2 Relatórios de pesquisa
+
+Além das 23 fontes externas, foram utilizados dois documentos internos (relatórios de Deep Research) produzidos durante o processo de investigação:
+
+* **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano**
+* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual**
+
+Esses documentos foram utilizados como materiais de apoio para organizar, relacionar e aprofundar os conhecimentos explorados no NotebookLM. A lista completa das **25 fontes**, com links verificados, está na pasta [`fontes/`](./fontes/).
+
+---
 
 **05 — Síntese**
 
-> Considere todas as fontes disponíveis e reúna as principais ideias apresentadas por elas sobre como as pessoas lidam com o dinheiro. Relacione o que elas dizem sobre compreender informações financeiras, organizar os próprios recursos, desenvolver hábitos e comportamentos e fazer escolhas diante de diferentes situações. Mostre como esses elementos se conectam e se influenciam, evitando analisar cada ideia de forma isolada.
+> Considere todas as fontes disponíveis e reúna as principais ideias apresentadas por elas sobre como as pessoas lidam com o dinheiro. Relacione o que elas dizem sobre aprender e compreender informações financeiras, organizar os próprios recursos, desenvolver hábitos e comportamentos e fazer escolhas diante de diferentes situações. Mostre como esses elementos se conectam e se influenciam, evitando analisar cada ideia de forma isolada. Ao final, formule uma única pergunta que busque compreender, de maneira ampla, como esses diferentes elementos se relacionam com as escolhas que as pessoas fazem sobre seu dinheiro.
 
 ### 6.2 Resultados observados
 
-Os testes mostraram que a formulação dos prompts influenciou diretamente a estrutura, o nível de aprofundamento e o foco das respostas produzidas pelo NotebookLM.
+As observações abaixo descrevem o direcionamento **pretendido** por cada prompt, com base no texto efetivamente aplicado (seção 6.1). O grau em que as respostas do NotebookLM endereçaram os elementos técnicos mais específicos de cada instrução (por exemplo, o modelo β-δ no Prompt 02, ou "resiliência da economia global" no Prompt 03) não está detalhado nesta seção — apenas as Respostas 01 e 02 (Seção 7) foram documentadas na íntegra.
 
-- **Exploração/conceituação:** o prompt direcionou a resposta para a identificação e explicação de conceitos relacionados aos vieses cognitivos, emoções e comportamento financeiro.
-- **Aprofundamento:** a instrução mais específica permitiu concentrar a análise no Viés do Presente, no desconto hiperbólico e nas dificuldades relacionadas à poupança de longo prazo.
-- **Comparação entre fontes:** o prompt direcionou a resposta para a identificação de pontos de convergência entre diferentes fontes sobre educação financeira e tomada de decisões econômicas.
-- **Análise crítica:** a resposta foi orientada para diferenciar informações diretamente fundamentadas nas fontes de interpretações, conclusões e afirmações que exigiam cautela ou verificação adicional.
-- **Síntese:** o prompt buscou integrar diferentes conceitos e estabelecer relações entre conhecimento financeiro, organização dos recursos, comportamento e tomada de decisões.
+- **Exploração/conceituação:** o prompt pediu a identificação de atalhos mentais e vieses (medo de perder, imediatismo, ancoragem), a influência do estresse e dos sentimentos, e o papel de nudges na melhoria das escolhas.
+- **Aprofundamento:** o prompt pediu uma explicação técnica sobre o Viés do Presente / Desconto Hiperbólico, incluindo o modelo de desconto quasi-hiperbólico (β-δ) e estratégias de arquitetura de escolha para mitigar a procrastinação na poupança.
+- **Comparação entre fontes:** o prompt pediu uma síntese de consensos sobre educação financeira como ferramenta de emancipação, autonomia, prevenção de dívidas de alto risco e contribuição para a resiliência econômica.
+- **Análise crítica:** o prompt pediu a diferenciação entre fatos diretamente comprovados nas fontes e conclusões ou interpretações.
+- **Síntese:** o prompt pediu a integração de conceitos sobre conhecimento, organização de recursos, comportamento e escolhas, encerrando com uma pergunta final formulada pela própria IA.
 
-De modo geral, os testes indicaram que prompts com **objetivo claramente definido, contexto específico e critérios de resposta** produziram resultados mais direcionados à finalidade de cada etapa da investigação.
+De modo geral, os prompts com objetivo claramente definido, contexto específico e critérios de resposta foram elaborados com a intenção de produzir resultados mais direcionados à finalidade de cada etapa da investigação.
 
 ---
 
@@ -204,6 +232,8 @@ Foram selecionadas duas respostas obtidas durante a exploração das fontes para
 **Pergunta relacionada:**
 
 > Quais são os principais pontos de convergência entre as fontes sobre a importância da educação financeira para a tomada de decisões econômicas?
+
+**Prompt correspondente:** Prompt 03 — Comparação entre fontes (seção 6.1), que solicitou explicitamente uma síntese dos consensos teóricos e práticos sobre a importância da educação financeira.
 
 **Resposta resumida:**
 
@@ -229,6 +259,8 @@ De forma geral, as fontes apresentam a educação financeira como um elemento im
 
 > Quais diferenças ou divergências relevantes existem entre as fontes quanto à influência do conhecimento financeiro, do comportamento e dos vieses cognitivos sobre as decisões econômicas?
 
+> **Nota de rastreabilidade:** entre os 5 prompts documentados na Seção 6.1, nenhum pede explicitamente por "diferenças" ou "divergências" entre as fontes — o Prompt 03 (Comparação entre fontes) solicita convergências, não divergências. Não foi possível confirmar se esta resposta resultou de um prompt de acompanhamento não documentado nesta seção, ou de uma continuação da conversa no NotebookLM a partir do Prompt 03/04. Recomenda-se registrar o prompt exato que gerou esta resposta, se disponível, para manter a rastreabilidade completa entre pergunta → prompt → resposta.
+
 **Resposta resumida:**
 
 As fontes apresentam diferentes ênfases sobre o peso do conhecimento financeiro e dos fatores comportamentais nas decisões econômicas.
@@ -249,20 +281,20 @@ Assim, as fontes não necessariamente se contradizem, mas apresentam diferentes 
 
 ## 8. Referências das respostas
 
+As respostas selecionadas na Seção 7 foram fundamentadas principalmente nas fontes utilizadas no caderno temático do NotebookLM.
+
 1. Lusardi, Annamaria; Mitchell, Olivia S. — **The Economic Importance of Financial Literacy: Theory and Evidence.**
    Acessar a fonte — https://www.aeaweb.org/articles?id=10.1257/jel.52.1.5
 2. Lusardi, Annamaria — **Financial Literacy: An Essential Tool for Informed Consumer Choice?**
-Acessar a fonte — https://www.nber.org/papers/w14084
+   Acessar a fonte — https://www.nber.org/papers/w14084
 3. Lusardi, Annamaria; Mitchell, Olivia S. — **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness.**
-Acessar a fonte — https://www.nber.org/papers/w15350
+   Acessar a fonte — https://www.nber.org/papers/w15350
 4. Lusardi, Annamaria; Mitchell, Olivia S. — **Financial Literacy and Economic Outcomes: Evidence and Policy Implications.**
-Acessar a fonte — https://pmc.ncbi.nlm.nih.gov/articles/PMC5445906/
+   Acessar a fonte — https://pmc.ncbi.nlm.nih.gov/articles/PMC5445906/
 5. Thaler, Richard H.; Benartzi, Shlomo — **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving.**
-Acessar a fonte — https://www.chicagobooth.edu/research/rustandy/social-impact-research/research-papers/2004/save-more-tomorrow-using-behavioral-economics-to-increase-employee-saving
+   Acessar a fonte — https://www.journals.uchicago.edu/doi/10.1086/380085
 6. **Banco Central do Brasil — Caderno de Educação Financeira.**
-Acessar a fonte — https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
-
-As respostas selecionadas na Seção 7 foram fundamentadas principalmente nas fontes utilizadas no caderno temático do NotebookLM.
+   Acessar a fonte — https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
 
 ### 8.1 Referências relacionadas à Resposta 01
 
@@ -271,9 +303,9 @@ A análise sobre os pontos de convergência utilizou principalmente:
 * **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell.
 * **Financial Literacy: An Essential Tool for Informed Consumer Choice?** — Annamaria Lusardi.
 * **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Olivia S. Mitchell e Annamaria Lusardi.
-* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual** — relatório de Deep Research utilizado no NotebookLM.
-* **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano** — relatório de Deep Research utilizado no NotebookLM.
-* **Caderno de Educação Financeira / Cidadania Financeira — Banco Central do Brasil**, utilizado como referência institucional para conceitos relacionados à educação financeira e autonomia.
+* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual** — documento interno utilizado no NotebookLM.
+* **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano** — documento interno utilizado no NotebookLM.
+* **Caderno de Educação Financeira / Cidadania Financeira — Banco Central do Brasil**: uma das 23 fontes externas documentadas em [`fontes/`](./fontes/), utilizada como referência institucional para conceitos de educação financeira e autonomia. Não faz parte das 5 fontes principais da seção 4.1, que reúne as referências acadêmicas de maior destaque — a inclusão aqui reflete seu uso específico na fundamentação desta resposta.
 
 ### 8.2 Referências relacionadas à Resposta 02
 
@@ -283,8 +315,8 @@ A análise sobre diferenças e divergências utilizou principalmente:
 * **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell.
 * **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness** — Annamaria Lusardi e Olivia S. Mitchell.
 * **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving** — Richard H. Thaler e Shlomo Benartzi.
-* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual** — relatório de Deep Research utilizado no NotebookLM.
-* Materiais relacionados à **Nudge Theory** utilizados no caderno temático.
+* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual** — documento interno utilizado no NotebookLM.
+* **Nudge Theory** — The Decision Lab. Acessar a fonte — https://thedecisionlab.com/reference-guide/psychology/nudge-theory
 
 > **Observação metodológica:** as respostas apresentadas nesta seção representam sínteses produzidas a partir das fontes disponíveis no NotebookLM. Elas não devem ser interpretadas como transcrições literais dos trabalhos originais. Afirmações específicas devem ser conferidas diretamente nas fontes correspondentes quando houver necessidade de validação acadêmica ou documental.
 
@@ -335,20 +367,20 @@ Disponível no GitHub da autora, juntamente com os demais projetos e materiais r
 
 Esta seção reúne os principais termos e conceitos utilizados ao longo do projeto.
 
-* **Alfabetização financeira:** conhecimento e capacidade de compreender conceitos financeiros e utilizá-los na tomada de decisões.
+* **Alfabetização financeira:** conhecimento e capacidade de compreender conceitos financeiros e utilizá-los na tomada de decisões. *Neste projeto, o termo é usado de forma próxima a "Educação financeira" — a distinção exata entre os dois não é explicada no texto principal.*
 * **Aversão à perda:** tendência de atribuir maior impacto às perdas do que a ganhos de magnitude semelhante.
-* **Desconto hiperbólico:** modelo utilizado para representar a tendência de atribuir maior peso a recompensas presentes do que a recompensas futuras.
-* **Educação financeira:** processo de desenvolvimento de conhecimentos, habilidades e competências relacionadas à compreensão e utilização de informações financeiras.
+* **Arquitetura de escolhas:** estrutura ou organização do ambiente no qual as pessoas tomam decisões.
+* **Desconto hiperbólico:** modelo utilizado para representar a tendência de atribuir maior peso a recompensas presentes do que a recompensas futuras. *Tratado neste projeto (seção 1.2) como equivalente ao Viés do Presente.*
+* **Economia comportamental:** área que integra conceitos econômicos e psicológicos para estudar como as pessoas realmente tomam decisões.
+* **Educação financeira:** processo de desenvolvimento de conhecimentos, habilidades e competências relacionadas à compreensão e utilização de informações financeiras. *Ver nota em "Alfabetização financeira".*
 * **Homo Economicus:** representação teórica de um agente econômico plenamente racional, capaz de tomar decisões buscando maximizar seus interesses.
-* **Nudge:** intervenção na arquitetura de escolhas destinada a influenciar comportamentos sem eliminar as opções disponíveis.
+* **Nudge:** intervenção pontual na arquitetura de escolhas, destinada a influenciar comportamentos sem eliminar as opções disponíveis.
+* **Nudge Theory:** arcabouço teórico da economia comportamental que estuda e fundamenta o uso de nudges (ver "Nudge") para influenciar comportamentos previsíveis sem eliminar alternativas.
 * **Organização financeira pessoal:** conjunto de práticas utilizadas para organizar renda, despesas, dívidas, reservas, objetivos e demais recursos financeiros.
 * **Prompt:** instrução ou conjunto de instruções fornecidas a um sistema de Inteligência Artificial para orientar sua resposta.
-* **Viés cognitivo:** padrão sistemático de julgamento que pode influenciar a interpretação de informações e a tomada de decisões.
-* **Viés do Presente:** tendência de atribuir maior importância à satisfação imediata em comparação com benefícios futuros.
-* **Arquitetura de escolhas:** estrutura ou organização do ambiente no qual as pessoas tomam decisões.
-* **Economia comportamental:** área que integra conceitos econômicos e psicológicos para estudar como as pessoas realmente tomam decisões.
-* **Nudge Theory:** abordagem associada à utilização da arquitetura de escolhas para influenciar comportamentos previsíveis sem eliminar alternativas.
 * **Tomada de decisão intertemporal:** processo de escolha entre custos, benefícios ou recompensas que ocorrem em diferentes momentos do tempo.
+* **Viés cognitivo:** padrão sistemático de julgamento que pode influenciar a interpretação de informações e a tomada de decisões.
+* **Viés do Presente:** tendência de atribuir maior importância à satisfação imediata em comparação com benefícios futuros. *Tratado neste projeto (seção 1.2) como equivalente ao Desconto hiperbólico.*
 
 ---
 
