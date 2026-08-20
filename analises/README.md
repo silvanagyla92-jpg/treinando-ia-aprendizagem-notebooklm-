@@ -54,7 +54,6 @@ síntese final
 - [`../prompts/`](../prompts/) — prompts utilizados e documentados.
 - [`../evidencias/`](../evidencias/) — registros do processo no NotebookLM.
 - [`../resultados/`](../resultados/) — respostas e entregáveis selecionados.
-- [`../video/`](../video/) — materiais destinados à apresentação do projeto.
 
 ## Resultado
 
