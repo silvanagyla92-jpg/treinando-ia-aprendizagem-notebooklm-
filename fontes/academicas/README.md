@@ -1,14 +1,14 @@
 # Fontes acadêmicas
 
-Esta pasta reúne referências acadêmicas e científicas utilizadas no projeto.
+Esta pasta reúne as **4 fontes externas acadêmicas** utilizadas no projeto, conforme o inventário fornecido para o caderno do NotebookLM.
 
-## Arquivos previstos
+## Fontes
 
-- `financial-literacy-lusardi.md`
-- `gflec-working-paper-series.md`
-- `financial-literacy-economic-outcomes.md`
-- `complex-economic-decisions.md`
-- `cognitive-biases-personal-financial-decisions.md`
-- `economic-importance-financial-literacy.md`
+1. `financial-literacy-lusardi.md` — **Financial Literacy: An Essential Tool for Informed Consumer Choice?**
+2. `gflec-working-paper-series.md` — **GFLEC Working Paper Series**
+3. `complex-economic-decisions.md` — **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness - NBER**
+4. `cognitive-biases-personal-financial-decisions.md` — **The Influence of Cognitive Biases on Personal Financial Decisions: Analyzing Spending, Saving, and Investment Behaviors in - RSIS International**
 
-Os arquivos individuais devem registrar, sempre que possível, título, autor(es), instituição ou publicação, tipo de material, link ou referência original, finalidade no projeto e observações de rastreabilidade.
+Cada arquivo registra, quando confirmado, título, autoria, instituição ou publicação, tipo de material, referência original, finalidade no projeto e observações de rastreabilidade.
+
+> **Nota:** o `caderno_cidadania_financeira.pdf` é mantido na pasta `institucionais/`, pois sua autoria é do Banco Central do Brasil. As fontes **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** e **The Economic Importance of Financial Literacy: Theory and Evidence** permanecem na pasta `artigos-e-portais/`, seguindo exatamente a classificação da lista fornecida para este projeto.
