@@ -2,29 +2,37 @@
 
 ## Identificação
 
-- **Autor institucional:** Alelo
+- **Organização:** Alelo
 - **Tipo:** artigo de educação financeira
-- **Tema:** conceitos introdutórios e organização das finanças pessoais.
+- **Tema:** fundamentos e primeiros passos da educação financeira pessoal.
+
+## Sobre a fonte
+
+O artigo apresenta a educação financeira como um processo de desenvolvimento de conhecimentos e hábitos para organizar recursos, compreender gastos e tomar decisões mais conscientes. A abordagem é voltada ao público geral e procura transformar conceitos em orientações práticas.
+
+## Principais contribuições
+
+A fonte ajuda a contextualizar práticas como conhecer receitas e despesas, organizar o orçamento, estabelecer objetivos e desenvolver hábitos financeiros consistentes. Seu valor está principalmente na tradução de conceitos para situações cotidianas.
 
 ## Relevância para o projeto
 
-A fonte oferece uma perspectiva prática sobre educação financeira pessoal e pode auxiliar na tradução de conceitos para situações cotidianas.
+Complementa a literatura acadêmica ao fornecer uma perspectiva **prática e acessível** sobre gestão financeira pessoal. É útil para comparar o que a literatura científica discute com recomendações dirigidas ao público.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como fonte complementar para temas relacionados a **organização financeira, educação financeira e hábitos**.
+Foi utilizada como apoio à investigação sobre **organização financeira, orçamento, hábitos e educação financeira aplicada ao cotidiano**.
 
 ## Relação com outras fontes
 
-Complementa fontes acadêmicas e institucionais, funcionando como material de aplicação prática e comunicação acessível.
+Pode ser confrontada com FIA e Sicredi, além das pesquisas acadêmicas de Lusardi e Mitchell, para distinguir recomendações práticas de evidências acadêmicas.
 
-## Limites
+## Limitações
 
-Por ser conteúdo editorial de educação financeira, não deve substituir estudos acadêmicos ou documentos oficiais quando uma afirmação exigir evidência especializada.
+É conteúdo editorial de educação financeira e não uma pesquisa acadêmica. Recomendações práticas devem ser contextualizadas e não tratadas como regras universais.
 
 ## Referência
 
-Alelo — *Educação financeira pessoal: o que é e como começar*.
+Fonte indicada no inventário original do projeto: Alelo — *Educação financeira pessoal: o que é e como começar*.
 
 ---
 
