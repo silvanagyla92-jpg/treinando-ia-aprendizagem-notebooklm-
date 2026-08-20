@@ -12,16 +12,17 @@ As fontes abrangem educação e alfabetização financeira, comportamento econô
 
 O projeto utiliza **25 fontes**, distribuídas em:
 
-- **23 fontes externas**;
+- **7 fontes acadêmicas/científicas**;
+- **15 artigos, blogs e portais especializados**;
+- **1 fonte institucional**;
 - **2 fontes internas** produzidas durante a própria investigação.
 
-As 23 fontes externas estão organizadas em três grupos:
+### Navegação rápida
 
-- **7 acadêmicas/científicas**;
-- **15 artigos, blogs e portais especializados**;
-- **1 institucional**.
-
-As 2 fontes internas possuem função diferente: foram produzidas especificamente para estruturar, integrar e aprofundar o conhecimento desenvolvido no projeto.
+- [`📚 Fontes acadêmicas`](./academicas/) — pesquisas, artigos e trabalhos científicos.
+- [`📰 Artigos e portais`](./artigos-e-portais/) — materiais de portais, organizações e veículos especializados.
+- [`🏛️ Fontes institucionais`](./institucionais/) — materiais de instituições oficiais.
+- [`📝 Fontes internas`](./internas/) — documentos produzidos especificamente para estruturar e integrar o projeto.
 
 ---
 
@@ -32,17 +33,16 @@ As 2 fontes internas possuem função diferente: foram produzidas especificament
 - **Autor:** Documento de Integração Interna.
 - **Formato:** Markdown.
 - **Função:** relatório de estruturação teórica e modelagem de juros compostos e taxas reais pela Equação de Fisher.
-- **Arquivo:** [`internas/ecossistema-gestao-financeira-pessoal.md`](./internas/ecossistema-gestao-financeira-pessoal.md)
+- **Arquivo:** [`Abrir documento`](./internas/ecossistema-gestao-financeira-pessoal.md)
 
 ### 2.2 O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual
 
 - **Autor:** Documento de Integração Interna.
 - **Formato:** Markdown.
 - **Função:** relatório estruturante de *Deep Research* que centraliza e cruza as evidências científicas do ecossistema.
-- **Bibliografia interna indicada no inventário:** 48 referências adicionais.
-- **Arquivo:** [`internas/impacto-educacao-financeira-vieses.md`](./internas/impacto-educacao-financeira-vieses.md)
+- **Arquivo:** [`Abrir documento`](./internas/impacto-educacao-financeira-vieses.md)
 
-> As fontes internas não são publicações externas independentes. Elas foram produzidas no próprio projeto para integrar, organizar e sintetizar conhecimentos trabalhados durante a investigação.
+> As fontes internas não são publicações externas independentes. Foram produzidas no próprio projeto para integrar, organizar e sintetizar conhecimentos trabalhados durante a investigação.
 
 ---
 
@@ -58,13 +58,13 @@ As 2 fontes internas possuem função diferente: foram produzidas especificament
 6. **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Annamaria Lusardi e Olivia S. Mitchell.
 7. **Financial Literacy - Oxford University Press** — Olivia S. Mitchell e Annamaria Lusardi.
 
-Os registros estão em [`academicas/`](./academicas/).
+➡️ [`Abrir pasta acadêmicas`](./academicas/)
 
 ### 3.2 Fonte institucional — 1
 
-8. **caderno_cidadania_financeira.pdf** — Banco Central do Brasil (BCB), Departamento de Promoção da Cidadania Financeira.
+**caderno_cidadania_financeira.pdf** — Banco Central do Brasil (BCB), Departamento de Promoção da Cidadania Financeira.
 
-O registro está em [`institucionais/`](./institucionais/).
+➡️ [`Abrir pasta institucionais`](./institucionais/)
 
 ### 3.3 Artigos, blogs de finanças e portais de economia — 15
 
@@ -84,7 +84,7 @@ O registro está em [`institucionais/`](./institucionais/).
 14. **The Psychology Behind Financial Choices: The Role of Cognitive Biases** — HSA Tutoring.
 15. **The Psychology of Money: How Biases Shape Your Financial Decisions** — Harvard Federal Credit Union.
 
-Os registros estão em [`artigos-e-portais/`](./artigos-e-portais/).
+➡️ [`Abrir pasta artigos e portais`](./artigos-e-portais/)
 
 > Três referências que anteriormente estavam nesta categoria foram reclassificadas para `academicas/`: `economic-importance-financial-literacy.md`, `financial-literacy-economic-outcomes.md` e `financial-literacy-oup.md`. Elas não fazem mais parte da contagem desta categoria.
 
@@ -100,17 +100,13 @@ A organização das fontes considera:
 - **complementaridade**, permitindo cruzar perspectivas acadêmicas, institucionais e práticas;
 - **transparência**, evitando inventar URLs, autores, dados bibliográficos ou conteúdos não confirmados.
 
-Quando o endereço específico de uma página não pôde ser confirmado com segurança, a ficha correspondente registra apenas o domínio institucional ou informa explicitamente a limitação.
-
 ---
 
-## 5. Observação sobre a contagem
-
-A contagem desta pasta segue o inventário consolidado desta versão:
+## 5. Contagem consolidada
 
 **7 acadêmicas + 15 artigos/portais + 1 institucional + 2 internas = 25 fontes.**
 
-A referência **Save More Tomorrow — Decode the Future**, mencionada em versões anteriores do README raiz, **não está incluída neste inventário de 25 fontes** e, portanto, não foi adicionada como uma 26ª fonte.
+A referência **Save More Tomorrow — Decode the Future**, mencionada em versões anteriores do README raiz, **não está incluída neste inventário de 25 fontes**.
 
 ---
 
@@ -126,6 +122,4 @@ A referência **Save More Tomorrow — Decode the Future**, mencionada em versõ
 **CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
 **Autora:** Nágyla Silva  
 
-**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*  
-
-*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, desenvolvido com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, curadoria de fontes, avaliação crítica de respostas de IA e organização do conhecimento, contribuindo para o desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
+**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*
