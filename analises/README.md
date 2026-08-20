@@ -1,53 +1,69 @@
 # Análises do projeto
 
-Esta pasta reúne as análises produzidas a partir das fontes, perguntas estratégicas, prompts e respostas obtidas durante o projeto **Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM**.
+Esta pasta reúne a análise crítica do projeto **Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM**.
 
-O objetivo desta seção é separar a **interpretação e avaliação do material** dos resultados brutos. As análises devem indicar quando uma conclusão é sustentada diretamente pelas fontes e quando corresponde a síntese, interpretação ou inferência.
+O objetivo é transformar as respostas e evidências do processo em quatro análises objetivas, mantendo a distinção entre **fato, síntese, interpretação e inferência**.
 
-## Estrutura prevista
+## Conteúdo
 
-```text
-analises/
-├── README.md
-├── convergencia-fontes.md
-├── divergencias-fontes.md
-├── verificacao-afirmacoes.md
-└── sintese-final.md
-```
+| Arquivo | O que apresenta |
+|---|---|
+| [`convergencia-fontes.md`](./convergencia-fontes.md) | Temas e conclusões compatíveis entre diferentes fontes. |
+| [`divergencias-fontes.md`](./divergencias-fontes.md) | Diferenças de foco, método, escopo e interpretação. |
+| [`verificacao-afirmacoes.md`](./verificacao-afirmacoes.md) | Critérios para verificar se uma afirmação é sustentada pelas fontes. |
+| [`sintese-final.md`](./sintese-final.md) | Integração dos principais achados e limitações. |
 
-Os quatro arquivos analíticos serão utilizados para documentar:
-
-- **Convergência entre fontes** — ideias, conceitos e evidências que aparecem de forma consistente em diferentes materiais.
-- **Divergências entre fontes** — diferenças de abordagem, escopo, metodologia, ênfase ou interpretação.
-- **Verificação de afirmações** — avaliação da sustentação das afirmações apresentadas nas respostas.
-- **Síntese final** — integração das evidências e conclusões produzidas ao longo da investigação.
-
-## Relação com o restante do projeto
+## Como a análise foi construída
 
 ```text
-fontes → perguntas → prompts → respostas → análises → resultados
+25 fontes
+   ↓
+perguntas estratégicas
+   ↓
+prompts
+   ↓
+respostas e evidências
+   ↓
+comparação crítica
+   ↓
+convergências + divergências + verificação
+   ↓
+síntese final
 ```
 
-- [`fontes/`](../fontes/) — materiais utilizados na investigação.
-- [`prompts/`](../prompts/) — prompts documentados e refinados.
-- [`evidencias/`](../evidencias/) — registros do processo no NotebookLM.
-- [`resultados/`](../resultados/) — resultados selecionados e entregáveis.
+## Critérios utilizados
 
-## Critérios de análise
+- **Fato:** informação diretamente sustentada por uma fonte identificável.
+- **Síntese:** combinação de informações de duas ou mais fontes.
+- **Interpretação:** explicação construída a partir da leitura e organização do material.
+- **Inferência:** conclusão que vai além do que uma fonte declara explicitamente.
+- **Não confirmado:** informação para a qual não há evidência suficiente no material analisado.
 
-As análises devem preservar:
+## Cuidados metodológicos
 
-1. rastreabilidade até as fontes;
-2. distinção entre fato, síntese, interpretação e inferência;
-3. identificação explícita de limitações;
-4. comparação entre perspectivas quando houver mais de uma fonte relevante;
-5. ausência de afirmações sem evidência suficiente.
+1. Não tratar uma resposta do NotebookLM como fonte primária.
+2. Conferir afirmações relevantes nas fontes utilizadas.
+3. Não transformar associação em causalidade sem evidência adequada.
+4. Não interpretar ausência de um tema como discordância.
+5. Preservar diferenças de escopo, população, método e finalidade das fontes.
+6. Registrar limitações quando a evidência disponível não permitir uma conclusão segura.
 
-> **Nota:** esta pasta foi estruturada para receber as análises formais do projeto. A criação da estrutura não implica afirmar que uma análise foi realizada quando ainda não existe um arquivo correspondente.
+## Relação com outras pastas
+
+- [`../fontes/`](../fontes/) — 25 fontes utilizadas no projeto.
+- [`../prompts/`](../prompts/) — prompts utilizados e documentados.
+- [`../evidencias/`](../evidencias/) — registros do processo no NotebookLM.
+- [`../resultados/`](../resultados/) — respostas e entregáveis selecionados.
+- [`../video/`](../video/) — materiais destinados à apresentação do projeto.
+
+## Resultado
+
+A pasta `analises/` demonstra não apenas **o que a IA respondeu**, mas **como as informações foram comparadas, verificadas e sintetizadas**.
+
+As análises são uma síntese documental do projeto. Não constituem revisão sistemática da literatura e não substituem a consulta às publicações originais.
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
+**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem**  
+**Projeto:** *Gestão Financeira Pessoal com NotebookLM*  
 **Autora:** Nágyla Silva
-
-**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*
