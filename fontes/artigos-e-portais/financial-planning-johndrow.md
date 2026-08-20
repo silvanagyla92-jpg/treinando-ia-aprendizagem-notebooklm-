@@ -3,28 +3,37 @@
 ## Identificação
 
 - **Autores:** Magdalena (Maggie) Johndrow e Evelyne Beaule
-- **Tipo:** artigo de finanças pessoais
-- **Tema:** vieses comportamentais e planejamento financeiro pessoal.
+- **Organização:** Johndrow Wealth Management
+- **Tipo:** artigo de orientação financeira
+- **Tema:** vieses comportamentais aplicados às finanças pessoais.
+
+## Sobre a fonte
+
+O artigo discute como vieses e padrões comportamentais podem interferir em decisões financeiras pessoais. A abordagem procura transformar conceitos de economia comportamental em estratégias práticas para reconhecer e reduzir decisões influenciadas por impulsos, crenças ou percepções distorcidas.
+
+## Principais contribuições
+
+A fonte é útil para mostrar que o processo financeiro inclui uma dimensão de comportamento: identificar padrões, criar regras de decisão, estabelecer objetivos e reduzir a dependência de decisões tomadas sob forte influência emocional.
 
 ## Relevância para o projeto
 
-A fonte aborda estratégias práticas para reconhecer e lidar com vieses no contexto das finanças pessoais.
+Contribui para integrar **planejamento financeiro e comportamento**, dois eixos que o projeto procura analisar conjuntamente.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada para apoiar a análise de **comportamento financeiro, vieses e organização das decisões pessoais**.
+Foi utilizada para apoiar perguntas sobre **vieses, autocontrole, planejamento e estratégias comportamentais para decisões financeiras**.
 
 ## Relação com outras fontes
 
-Complementa pesquisas acadêmicas e materiais sobre loss aversion, present bias e nudge ao trazer uma perspectiva prática.
+Complementa Fidelity, Decision Lab, William & Mary e as fontes sobre viés do presente.
 
-## Limites
+## Limitações
 
-Recomendações profissionais ou editoriais devem ser diferenciadas de evidência acadêmica e verificadas na publicação original.
+É conteúdo de orientação produzido por uma empresa de gestão patrimonial. Suas recomendações são práticas e não substituem evidência acadêmica ou aconselhamento individual.
 
 ## Referência
 
-Magdalena Johndrow; Evelyne Beaule — *How to Combat Behavioral Biases in Your Personal Finance*.
+Fonte indicada no inventário original do projeto: Johndrow Wealth Management — *How to Combat Behavioral Biases in Your Personal Finance*.
 
 ---
 
