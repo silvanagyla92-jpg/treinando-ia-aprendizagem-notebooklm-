@@ -1,58 +1,72 @@
 # Resultados e entregáveis
 
-Esta pasta reúne os resultados documentados a partir da exploração das fontes, das perguntas estratégicas, dos prompts e da análise das respostas produzidas no NotebookLM.
+Esta pasta reúne os **resultados selecionados** do projeto **Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM**.
 
-## Objetivo
-
-Centralizar os materiais que representam **saídas selecionadas do processo de aprendizagem**, mantendo sua relação com as fontes, evidências e análises.
+Os arquivos desta seção representam saídas do processo de investigação depois da curadoria das fontes, elaboração das perguntas, uso dos prompts e análise crítica das respostas.
 
 ## Resultados disponíveis
 
-### 1. Pontos de convergência
+| Resultado | Arquivo | Finalidade |
+|---|---|---|
+| 01 | [`resposta-01-pontos-convergencia.md`](./resposta-01-pontos-convergencia.md) | Registrar os principais pontos de convergência encontrados entre as fontes. |
+| 02 | [`resposta-02-diferencas-divergencias.md`](./resposta-02-diferencas-divergencias.md) | Registrar diferenças de abordagem, ênfase, método e escopo. |
 
-[`resposta-01-pontos-convergencia.md`](./resposta-01-pontos-convergencia.md)
+## O que os resultados representam
 
-Documento que reúne os principais pontos de convergência identificados entre as fontes e organiza os conceitos que apresentam maior consistência no conjunto analisado.
+Os resultados são **documentos selecionados do processo**, e não uma transcrição integral de todas as interações com o NotebookLM.
 
-### 2. Diferenças e divergências
+Eles servem para mostrar:
 
-[`resposta-02-diferencas-divergencias.md`](./resposta-02-diferencas-divergencias.md)
+- o que foi identificado durante a investigação;
+- quais ideias apresentaram convergência;
+- quais diferenças foram percebidas;
+- como as informações foram organizadas para análise posterior.
 
-Documento dedicado à comparação de diferenças de abordagem, ênfase, metodologia e escopo entre as fontes e respostas analisadas.
+## Como interpretar
 
-## Como interpretar os resultados
+Cada resultado deve ser lido considerando a origem da informação:
 
-Os arquivos desta seção não devem ser lidos isoladamente. Eles representam resultados de um processo que envolve curadoria, questionamento, interação com IA e análise crítica.
+- **Fato/evidência:** informação sustentada por uma fonte identificável.
+- **Síntese:** combinação de informações de diferentes fontes.
+- **Interpretação:** explicação construída durante a análise.
+- **Inferência:** conclusão derivada que pode exigir confirmação adicional.
 
-É importante distinguir:
+Uma resposta produzida pela IA **não é automaticamente uma evidência verdadeira**. A confirmação deve considerar as fontes originais e o contexto da afirmação.
 
-- **fato ou evidência** — informação diretamente sustentada por uma fonte;
-- **síntese** — integração de informações presentes em diferentes fontes;
-- **interpretação** — leitura analítica construída a partir das evidências;
-- **inferência** — conclusão derivada que pode exigir confirmação adicional.
-
-## Fluxo do projeto
+## Fluxo de produção
 
 ```text
-fontes → perguntas → prompts → respostas → análises → resultados
+25 fontes
+    ↓
+perguntas estratégicas
+    ↓
+5 prompts
+    ↓
+respostas
+    ↓
+análises
+    ↓
+resultados selecionados
 ```
 
-## Rastreabilidade
+## Relação com as demais pastas
 
-Para reconstruir o processo completo, consulte:
-
-- [`fontes/`](../fontes/) — materiais utilizados;
-- [`prompts/`](../prompts/) — prompts documentados;
-- [`analises/`](../analises/) — avaliações e sínteses;
-- [`evidencias/`](../evidencias/) — registros do processo no NotebookLM.
+- [`../fontes/`](../fontes/) — base documental utilizada.
+- [`../prompts/`](../prompts/) — instruções utilizadas com o NotebookLM.
+- [`../evidencias/`](../evidencias/) — registros do processo e materiais de apoio.
+- [`../analises/`](../analises/) — convergência, divergências, verificação e síntese.
+- [`../video/`](../video/) — material de apresentação do projeto.
 
 ## Limitações
 
-Os resultados documentados representam uma etapa específica da investigação. Eles não devem ser tratados como aconselhamento financeiro individual nem como substitutos das fontes originais.
+Os resultados documentados correspondem ao recorte selecionado para este projeto. Eles não constituem revisão sistemática da literatura, aconselhamento financeiro individual ou substituto das fontes originais.
+
+## Resultado do processo
+
+A seção demonstra a passagem de **informação coletada** para **resultado organizado**, mantendo a possibilidade de rastrear o percurso até as fontes, prompts e evidências.
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
+**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem**  
+**Projeto:** *Gestão Financeira Pessoal com NotebookLM*  
 **Autora:** Nágyla Silva
-
-*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
