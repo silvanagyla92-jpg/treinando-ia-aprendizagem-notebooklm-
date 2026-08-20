@@ -1,63 +1,79 @@
 # Prompts utilizados no projeto
 
-Esta pasta reúne os prompts elaborados, testados e refinados durante a experiência com o **NotebookLM**, no projeto **"Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM"**.
+Esta pasta reúne os **5 prompts** utilizados e documentados durante a experiência com o NotebookLM.
 
-Os prompts documentam a engenharia de prompts aplicada à investigação: exploração, aprofundamento, comparação, análise crítica e síntese.
+Os prompts representam a evolução da investigação: primeiro compreender o tema, depois aprofundar, comparar, analisar criticamente e sintetizar.
 
-## Arquivos
+## Os 5 prompts
 
-| Etapa | Prompt | Finalidade |
+| Nº | Arquivo | Finalidade |
 |---|---|---|
 | 01 | [`prompt-01-exploracao-conceituacao.md`](./prompt-01-exploracao-conceituacao.md) | Explorar e conceituar o tema a partir das fontes. |
 | 02 | [`prompt-02-aprofundamento.md`](./prompt-02-aprofundamento.md) | Aprofundar conceitos e relações identificadas. |
 | 03 | [`prompt-03-comparacao-fontes.md`](./prompt-03-comparacao-fontes.md) | Comparar perspectivas e evidências entre fontes. |
-| 04 | [`prompt-04-analise-critica.md`](./prompt-04-analise-critica.md) | Avaliar criticamente as respostas e suas evidências. |
-| 05 | [`prompt-05-sintese.md`](./prompt-05-sintese.md) | Integrar os achados em uma síntese estruturada. |
+| 04 | [`prompt-04-analise-critica.md`](./prompt-04-analise-critica.md) | Avaliar criticamente respostas e evidências. |
+| 05 | [`prompt-05-sintese.md`](./prompt-05-sintese.md) | Integrar os principais achados em uma síntese. |
 
-## Organização
-
-```text
-prompts/
-├── README.md
-├── prompt-01-exploracao-conceituacao.md
-├── prompt-02-aprofundamento.md
-├── prompt-03-comparacao-fontes.md
-├── prompt-04-analise-critica.md
-└── prompt-05-sintese.md
-```
-
-## Sequência de investigação
-
-**exploração e conceituação → aprofundamento → comparação → análise crítica → síntese**
-
-Os prompts foram construídos a partir das perguntas estratégicas documentadas no [README principal](../README.md).
-
-## Critérios utilizados
-
-- clareza e objetivo explícito;
-- contextualização do tema;
-- especificidade da tarefa;
-- fundamentação nas fontes disponíveis no NotebookLM;
-- distinção entre evidência, síntese, interpretação e inferência;
-- organização esperada da resposta;
-- possibilidade de refinamento e reutilização.
-
-O processo foi iterativo: quando uma resposta não atendia adequadamente ao objetivo, a instrução era reformulada, especialmente quanto ao formato e ao tipo de análise solicitado.
-
-## Relação com o restante do projeto
+## Sequência metodológica
 
 ```text
-fontes → perguntas estratégicas → prompts → respostas → análises → resultados
+01 Explorar
+      ↓
+02 Aprofundar
+      ↓
+03 Comparar
+      ↓
+04 Analisar criticamente
+      ↓
+05 Sintetizar
 ```
 
-- [`fontes/`](../fontes/) — fontes utilizadas na investigação.
-- [`evidencias/`](../evidencias/) — registros das interações e materiais do processo.
-- [`analises/`](../analises/) — análises e validações.
-- [`resultados/`](../resultados/) — resultados documentados.
+Essa sequência mostra que os prompts não foram utilizados como perguntas isoladas. Eles compõem um processo progressivo de investigação e aprendizagem.
+
+## Critérios dos prompts
+
+Os prompts foram estruturados considerando:
+
+- objetivo explícito;
+- contexto suficiente;
+- instrução clara;
+- uso das fontes disponíveis no NotebookLM;
+- solicitação de comparação quando necessária;
+- separação entre evidência e interpretação;
+- formato esperado para a resposta;
+- possibilidade de refinamento.
+
+## Relação com as perguntas estratégicas
+
+As perguntas estratégicas definem **o que investigar**; os prompts definem **como orientar a IA para realizar a investigação**.
+
+```text
+pergunta estratégica
+        ↓
+       prompt
+        ↓
+resposta do NotebookLM
+        ↓
+verificação e análise
+```
+
+## Rastreabilidade
+
+- [`../fontes/`](../fontes/) — materiais utilizados pelo NotebookLM.
+- [`../evidencias/`](../evidencias/) — registros do processo.
+- [`../analises/`](../analises/) — comparação e avaliação das informações.
+- [`../resultados/`](../resultados/) — resultados selecionados.
+
+## Padronização
+
+Os cinco arquivos de prompt seguem o mesmo padrão de apresentação no Markdown. O conteúdo dos prompts foi preservado; a padronização tem como objetivo melhorar a leitura, a comparação e a documentação.
+
+## Resultado
+
+A pasta demonstra a aplicação prática de **engenharia de prompts** em uma investigação baseada em fontes, evidenciando evolução da consulta inicial até a síntese final.
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
-**Autora:** Nágyla Silva  
-
-**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*
+**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem**  
+**Projeto:** *Gestão Financeira Pessoal com NotebookLM*  
+**Autora:** Nágyla Silva
