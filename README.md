@@ -95,9 +95,7 @@ As fontes abrangeram temas como educação e alfabetização financeira, comport
 
 Como parte do processo de curadoria, foram consideradas a relevância temática, a autoridade da publicação, a contribuição para os objetivos do projeto e a capacidade de fundamentar os conceitos estudados.
 
-Das 25 fontes, **5 fontes principais** foram selecionadas para compor a base central de referência do projeto (seção 4.1). As demais 20 fontes externas foram utilizadas como fontes complementares, e os 2 documentos internos (seção 4.2) foram utilizados para organizar, relacionar e aprofundar os conhecimentos explorados.
-
----
+Das 25 fontes, **5 fontes principais** foram selecionadas para compor a base central de referência do projeto (seção 4.1). As demais **18 fontes externas** foram utilizadas como fontes complementares, e os 2 documentos internos (seção 4.2) foram utilizados para organizar, relacionar e aprofundar os conhecimentos explorados.
 
 ### 4.1 Fontes principais selecionadas
 
@@ -109,7 +107,7 @@ Das 25 fontes, **5 fontes principais** foram selecionadas para compor a base cen
 
 4. **Financial Literacy: An Essential Tool for Informed Consumer Choice?** — Annamaria Lusardi. NBER Working Paper sobre alfabetização financeira e decisões relacionadas à poupança, aposentadoria, investimentos e empréstimos.
 
-5. **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving** — Richard H. Thaler e Shlomo Benartzi. Publicado no *Journal of Political Economy*, vol. 112(S1), pp. 164–187 (2004).
+5. **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving** — Richard H. Thaler e Shlomo Benartzi. Conceito e programa de poupança comportamental estudados no projeto por meio da fonte complementar **Save More Tomorrow — Decode the Future**, registrada na pasta [`fontes/`](./fontes/).
 
 ### 4.2 Relatórios de pesquisa
 
@@ -118,7 +116,7 @@ Além das 23 fontes externas, foram utilizados dois documentos internos (relató
 * **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano**
 * **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual**
 
-Esses documentos foram utilizados como materiais de apoio para organizar, relacionar e aprofundar os conhecimentos explorados no NotebookLM. A lista completa das 25 fontes, com links verificados, está na pasta [`fontes/`](./fontes/).
+Esses documentos foram utilizados como materiais de apoio para organizar, relacionar e aprofundar os conhecimentos explorados no NotebookLM. A lista consolidada das 25 fontes está na pasta [`fontes/`](./fontes/).
 
 ---
 
@@ -172,38 +170,9 @@ Os prompts foram elaborados a partir das perguntas estratégicas da Seção 5 e 
 
 > Assuma o papel de um especialista em literacia financeira e políticas públicas. Com base nas fontes, realize uma síntese dos principais consensos teóricos e práticos sobre a importância da aquisição de competências financeiras para o indivíduo e para a sociedade. Detalhe como a educação financeira atua como uma ferramenta de emancipação intelectual e autonomia, seu impacto direto na preparação para a aposentadoria e acúmulo de riqueza e sua função na prevenção de erros econômicos custosos e dívidas de alto risco. Além disso, explique como o letramento financeiro ajuda o tomador de decisão a identificar e mitigar vieses cognitivos e de que forma cidadãos bem-educados financeiramente contribuem para a resiliência da economia global.
 
-## 4. Fontes utilizadas
+**04 — Análise crítica**
 
-Durante a construção do caderno temático no NotebookLM, foram identificadas e exploradas **25 fontes** relacionadas à Gestão Financeira Pessoal, sendo **23 fontes externas** e **2 documentos internos** (relatórios de Deep Research produzidos durante a própria investigação).
-
-As fontes abrangeram temas como educação e alfabetização financeira, comportamento econômico, vieses cognitivos, economia comportamental, organização financeira, investimentos e tomada de decisões.
-
-Como parte do processo de curadoria, foram consideradas a relevância temática, a autoridade da publicação, a contribuição para os objetivos do projeto e a capacidade de fundamentar os conceitos estudados.
-
-Das 25 fontes, **5 fontes principais** foram selecionadas para compor a base central de referência do projeto (seção 4.1). As demais 20 fontes externas foram utilizadas como fontes complementares, e os 2 documentos internos (seção 4.2) foram utilizados para organizar, relacionar e aprofundar os conhecimentos explorados.
-
-### 4.1 Fontes principais selecionadas
-
-1. **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell. Publicado no *Journal of Economic Literature*, da American Economic Association.
-
-2. **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Olivia S. Mitchell e Annamaria Lusardi. Publicação acadêmica sobre alfabetização financeira e seus efeitos sobre decisões e resultados econômicos.
-
-3. **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness** — Annamaria Lusardi e Olivia S. Mitchell. NBER Working Paper sobre conhecimento financeiro e planejamento para a aposentadoria.
-
-4. **Financial Literacy: An Essential Tool for Informed Consumer Choice?** — Annamaria Lusardi. NBER Working Paper sobre alfabetização financeira e decisões relacionadas à poupança, aposentadoria, investimentos e empréstimos.
-
-5. **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving** — Richard H. Thaler e Shlomo Benartzi. Publicado no *Journal of Political Economy*, vol. 112(S1), pp. 164–187 (2004).
-
-### 4.2 Relatórios de pesquisa
-
-Além das 23 fontes externas, foram utilizados dois documentos internos (relatórios de Deep Research) produzidos durante o processo de investigação:
-
-* **O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano**
-* **O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual**
-
-Esses documentos foram utilizados como materiais de apoio para organizar, relacionar e aprofundar os conhecimentos explorados no NotebookLM. A lista completa das **25 fontes**, com links verificados, está na pasta [`fontes/`](./fontes/).
-
----
+> O analista de precisão deve fazer um pente-fino em todas as explicações dadas até agora, comparando cada frase com o que está escrito nos textos originais. Ele precisa apontar claramente o que é um fato direto e comprovado (informação que aparece com todas as letras nos documentos) e o que foi apenas uma conclusão lógica ou um jeito de interpretar o assunto para deixá-lo mais fácil. Ao final, ele deve apresentar a seguinte pergunta e respondê-la de forma rigorosa: Quais afirmações apresentadas nas respostas anteriores estão diretamente fundamentadas nas fontes disponíveis e quais exigem cautela, interpretação ou verificação adicional?
 
 **05 — Síntese**
 
@@ -242,13 +211,9 @@ As fontes convergem em diversos pontos sobre a importância da educação financ
 Os principais pontos identificados foram:
 
 1. **Autonomia e tomada de decisão:** a educação financeira contribui para que os indivíduos compreendam melhor suas escolhas e tomem decisões mais conscientes.
-
 2. **Planejamento e patrimônio:** o conhecimento financeiro está relacionado ao planejamento de longo prazo, à preparação para a aposentadoria e à formação de patrimônio.
-
 3. **Prevenção de erros financeiros:** compreender conceitos como juros, inflação, crédito e investimentos pode ajudar a reduzir decisões financeiras inadequadas.
-
 4. **Comportamento e vieses:** o conhecimento financeiro não atua isoladamente. As decisões também são influenciadas por emoções e vieses cognitivos, como o Viés do Presente e a aversão à perda.
-
 5. **Educação e ambiente de decisão:** além da aquisição de conhecimento, as fontes relacionadas à economia comportamental indicam que a organização do ambiente de escolha pode auxiliar na adoção de comportamentos financeiros desejáveis.
 
 De forma geral, as fontes apresentam a educação financeira como um elemento importante para melhorar a capacidade de compreender, avaliar e tomar decisões econômicas, embora o conhecimento, por si só, não elimine todos os obstáculos comportamentais.
@@ -266,13 +231,9 @@ De forma geral, as fontes apresentam a educação financeira como um elemento im
 As fontes apresentam diferentes ênfases sobre o peso do conhecimento financeiro e dos fatores comportamentais nas decisões econômicas.
 
 1. **Conhecimento financeiro:** estudos acadêmicos destacam a relação entre alfabetização financeira, planejamento, aposentadoria e resultados econômicos.
-
 2. **Limitações do conhecimento:** outras abordagens enfatizam que possuir conhecimento financeiro não garante, por si só, decisões racionais, pois os indivíduos continuam sujeitos a vieses e emoções.
-
 3. **Educação versus ambiente:** algumas perspectivas priorizam a educação e a conscientização individual, enquanto a economia comportamental também destaca a importância de modificar o ambiente de decisão por meio de *nudges*.
-
 4. **Diferenças comportamentais:** algumas fontes analisam como fatores demográficos e contextuais podem estar associados a diferentes padrões de comportamento financeiro.
-
 5. **Questão da causalidade:** existe uma discussão sobre a direção da relação entre conhecimento financeiro e bons resultados econômicos, ou seja, até que ponto o conhecimento produz melhores decisões e até que ponto pessoas que já planejam e possuem mais recursos também buscam maior conhecimento financeiro.
 
 Assim, as fontes não necessariamente se contradizem, mas apresentam diferentes perspectivas sobre a interação entre conhecimento, comportamento, contexto e tomada de decisão.
@@ -292,7 +253,7 @@ As respostas selecionadas na Seção 7 foram fundamentadas principalmente nas fo
 4. Lusardi, Annamaria; Mitchell, Olivia S. — **Financial Literacy and Economic Outcomes: Evidence and Policy Implications.**
    Acessar a fonte — https://pmc.ncbi.nlm.nih.gov/articles/PMC5445906/
 5. Thaler, Richard H.; Benartzi, Shlomo — **Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving.**
-   Acessar a fonte — https://www.journals.uchicago.edu/doi/10.1086/380085
+   Acessar a fonte — https://decodethefuture.org/en/save-more-tomorrow-explained/
 6. **Banco Central do Brasil — Caderno de Educação Financeira.**
    Acessar a fonte — https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
 
