@@ -1,125 +1,90 @@
 # Fontes utilizadas no projeto
 
-Esta pasta reúne as fontes utilizadas no projeto **"Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM"**.
+Esta pasta reúne as **25 fontes** utilizadas no projeto **Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM**.
 
-O conjunto foi organizado para garantir **rastreabilidade, organização e transparência** sobre os materiais utilizados no caderno temático do NotebookLM.
+O objetivo é manter as referências organizadas por natureza, facilitar a navegação e permitir a rastreabilidade entre **fonte → prompt → resposta → análise → resultado**.
 
-As fontes abrangem educação e alfabetização financeira, comportamento econômico, economia comportamental, vieses cognitivos, organização financeira, planejamento, investimentos e tomada de decisões econômicas.
+## Inventário
 
----
+| Categoria | Quantidade | Conteúdo |
+|---|---:|---|
+| [`Acadêmicas`](./academicas/) | 7 | Artigos, estudos e trabalhos científicos. |
+| [`Artigos e portais`](./artigos-e-portais/) | 15 | Materiais de portais, organizações e veículos especializados. |
+| [`Institucionais`](./institucionais/) | 1 | Material de instituição oficial. |
+| [`Internas`](./internas/) | 2 | Documentos produzidos especificamente para integrar o projeto. |
+| **Total** | **25** | **Inventário oficial do projeto.** |
 
-## 1. Inventário geral
+## Navegação
 
-O projeto utiliza **25 fontes**, distribuídas em:
+### 📚 Acadêmicas — 7
 
-- **7 fontes acadêmicas/científicas**;
-- **15 artigos, blogs e portais especializados**;
-- **1 fonte institucional**;
-- **2 fontes internas** produzidas durante a própria investigação.
+[`Abrir pasta`](./academicas/)
 
-### Navegação rápida
+Reúne referências sobre alfabetização financeira, decisões econômicas, preparação para aposentadoria, vieses e importância econômica da educação financeira.
 
-- [`📚 Fontes acadêmicas`](./academicas/) — pesquisas, artigos e trabalhos científicos.
-- [`📰 Artigos e portais`](./artigos-e-portais/) — materiais de portais, organizações e veículos especializados.
-- [`🏛️ Fontes institucionais`](./institucionais/) — materiais de instituições oficiais.
-- [`📝 Fontes internas`](./internas/) — documentos produzidos especificamente para estruturar e integrar o projeto.
+### 📰 Artigos e portais — 15
 
----
+[`Abrir pasta`](./artigos-e-portais/)
 
-## 2. Fontes internas — 2
+Reúne materiais de divulgação, educação financeira, economia comportamental, vieses, Nudge, organização financeira e investimentos.
 
-### 2.1 O Ecossistema da Gestão Financeira Pessoal: Integração Teórica, Modelagem Matemática e Comportamento Humano
+### 🏛️ Institucionais — 1
 
-- **Autor:** Documento de Integração Interna.
-- **Formato:** Markdown.
-- **Função:** relatório de estruturação teórica e modelagem de juros compostos e taxas reais pela Equação de Fisher.
-- **Arquivo:** [`Abrir documento`](./internas/ecossistema-gestao-financeira-pessoal.md)
+[`Abrir pasta`](./institucionais/)
 
-### 2.2 O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais na Decisão Econômica Individual
+Reúne a publicação institucional do Banco Central do Brasil utilizada no projeto.
 
-- **Autor:** Documento de Integração Interna.
-- **Formato:** Markdown.
-- **Função:** relatório estruturante de *Deep Research* que centraliza e cruza as evidências científicas do ecossistema.
-- **Arquivo:** [`Abrir documento`](./internas/impacto-educacao-financeira-vieses.md)
+### 📝 Internas — 2
 
-> As fontes internas não são publicações externas independentes. Foram produzidas no próprio projeto para integrar, organizar e sintetizar conhecimentos trabalhados durante a investigação.
+[`Abrir pasta`](./internas/)
 
----
+Reúne os dois documentos produzidos durante a própria investigação para integrar a fundamentação teórica e comportamental.
 
-## 3. Fontes externas — 23
+## Critérios de seleção
 
-### 3.1 Fontes acadêmicas, científicas e de pesquisa — 7
+As fontes foram organizadas considerando:
 
-1. **Financial Literacy: An Essential Tool for Informed Consumer Choice?** — Annamaria Lusardi.
-2. **GFLEC Working Paper Series** — Olivia S. Mitchell e Annamaria Lusardi.
-3. **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness - NBER** — Annamaria Lusardi e Olivia S. Mitchell.
-4. **The Influence of Cognitive Biases on Personal Financial Decisions: Analyzing Spending, Saving, and Investment Behaviors** — Dra. Lidia Durom.
-5. **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell.
-6. **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Annamaria Lusardi e Olivia S. Mitchell.
-7. **Financial Literacy - Oxford University Press** — Olivia S. Mitchell e Annamaria Lusardi.
+- relevância para Gestão Financeira Pessoal;
+- relação com alfabetização e educação financeira;
+- comportamento e vieses cognitivos;
+- planejamento, organização e decisões econômicas;
+- complementaridade entre perspectivas acadêmicas, institucionais e práticas;
+- possibilidade de rastrear a origem das informações.
 
-➡️ [`Abrir pasta acadêmicas`](./academicas/)
+## Como utilizar esta pasta
 
-### 3.2 Fonte institucional — 1
+As fontes constituem a **base documental** do projeto. Elas não devem ser substituídas pelas respostas do NotebookLM.
 
-**caderno_cidadania_financeira.pdf** — Banco Central do Brasil (BCB), Departamento de Promoção da Cidadania Financeira.
+O fluxo recomendado para conferência é:
 
-➡️ [`Abrir pasta institucionais`](./institucionais/)
+```text
+FONTE ORIGINAL
+     ↓
+pergunta estratégica
+     ↓
+prompt
+     ↓
+resposta do NotebookLM
+     ↓
+verificação
+     ↓
+análise
+     ↓
+resultado
+```
 
-### 3.3 Artigos, blogs de finanças e portais de economia — 15
+## Observação sobre as fontes internas
 
-1. **5 Behavioral Biases That Can Impact Your Investing Decisions - Online Programs** — William & Mary.
-2. **7 Cognitive Biases That Quietly Sabotage Your Financial Life - Fifr** — Daniel Alfi.
-3. **Behavioral Biases in Finances: How to Avoid Present Bias** — Farm Bureau Financial Services.
-4. **Behavioral Economics: Nudge Theory** — Michigan Journal of Economics.
-5. **Educação financeira pessoal: o que é e como começar** — Alelo.
-6. **Organize Suas Finanças Pessoais: Dicas Essenciais e Práticas** — FIA Business School.
-7. **How to Combat Behavioral Biases in Your Personal Finance** — Johndrow Wealth Management.
-8. **Investing biases** — Fidelity Investments.
-9. **Loss aversion** — The Decision Lab.
-10. **Nudge Theory** — The Decision Lab.
-11. **Nudge theory | Economics | Research Starters** — EBSCO Research.
-12. **Nudging: How Behavioral Economics Can Transform Practices** — Voltage Control.
-13. **Organização financeira: 10 dicas para colocar ordem nas suas contas** — Sicredi.
-14. **The Psychology Behind Financial Choices: The Role of Cognitive Biases** — HSA Tutoring.
-15. **The Psychology of Money: How Biases Shape Your Financial Decisions** — Harvard Federal Credit Union.
+As duas fontes internas são documentos de integração produzidos no próprio projeto. Elas servem para organizar e sintetizar conhecimentos e **não devem ser confundidas com publicações externas independentes**.
 
-➡️ [`Abrir pasta artigos e portais`](./artigos-e-portais/)
-
-> Três referências que anteriormente estavam nesta categoria foram reclassificadas para `academicas/`: `economic-importance-financial-literacy.md`, `financial-literacy-economic-outcomes.md` e `financial-literacy-oup.md`. Elas não fazem mais parte da contagem desta categoria.
-
----
-
-## 4. Critérios de organização
-
-A organização das fontes considera:
-
-- **relevância temática** para os objetivos do projeto;
-- **natureza da fonte** (acadêmica, institucional, educacional ou especializada);
-- **rastreabilidade**, preservando título, autoria e referência original sempre que confirmados;
-- **complementaridade**, permitindo cruzar perspectivas acadêmicas, institucionais e práticas;
-- **transparência**, evitando inventar URLs, autores, dados bibliográficos ou conteúdos não confirmados.
-
----
-
-## 5. Contagem consolidada
+## Contagem oficial
 
 **7 acadêmicas + 15 artigos/portais + 1 institucional + 2 internas = 25 fontes.**
 
-A referência **Save More Tomorrow — Decode the Future**, mencionada em versões anteriores do README raiz, **não está incluída neste inventário de 25 fontes**.
+Esta é a contagem oficial utilizada na documentação do projeto.
 
 ---
 
-## 6. Navegação
-
-- [`academicas/`](./academicas/) — fontes acadêmicas e científicas.
-- [`artigos-e-portais/`](./artigos-e-portais/) — artigos, blogs e portais de economia e finanças.
-- [`institucionais/`](./institucionais/) — materiais de instituições oficiais.
-- [`internas/`](./internas/) — documentos produzidos durante o próprio projeto.
-
----
-
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
-**Autora:** Nágyla Silva  
-
-**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*
+**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem**  
+**Projeto:** *Gestão Financeira Pessoal com NotebookLM*  
+**Autora:** Nágyla Silva
