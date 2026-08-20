@@ -2,29 +2,37 @@
 
 ## Identificação
 
-- **Autor institucional:** The Decision Lab
-- **Tipo:** artigo de economia comportamental
-- **Tema:** aversão à perda e tomada de decisão.
+- **Organização:** The Decision Lab
+- **Tipo:** artigo de divulgação em ciência comportamental
+- **Tema:** aversão à perda.
+
+## Sobre a fonte
+
+A aversão à perda descreve a tendência de as perdas terem impacto psicológico maior do que ganhos equivalentes. O conceito é central para a economia comportamental e ajuda a compreender por que pessoas podem evitar riscos ou reagir intensamente à possibilidade de perder recursos.
+
+## Principais contribuições
+
+A fonte explica o conceito e mostra sua relevância para decisões em contextos de risco e incerteza. Em finanças pessoais, a ideia pode ajudar a interpretar comportamentos diante de investimentos, perdas financeiras e escolhas entre alternativas com diferentes perfis de risco.
 
 ## Relevância para o projeto
 
-A fonte contribui para a análise de como perdas e ganhos podem ser percebidos de maneira assimétrica nas decisões, conectando economia comportamental às escolhas financeiras.
+É importante para o eixo **psicologia da decisão financeira**, especialmente na análise de como percepção de perdas pode influenciar escolhas econômicas.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como apoio à investigação sobre **vieses cognitivos e decisões financeiras**.
+Foi utilizada para apoiar a investigação sobre **aversão à perda, risco, investimento e comportamento financeiro**.
 
 ## Relação com outras fontes
 
-Complementa materiais sobre investing biases, comportamento financeiro e Nudge.
+Complementa William & Mary e Fidelity, que apresentam aversão à perda entre os vieses de investimento, e a literatura acadêmica sobre comportamento econômico.
 
-## Limites
+## Limitações
 
-É conteúdo de divulgação especializada; não deve substituir a literatura acadêmica primária quando uma afirmação exigir evidência científica específica.
+É fonte de divulgação, não uma pesquisa original. O conceito deve ser analisado em conjunto com literatura acadêmica quando se pretende fazer afirmações quantitativas ou causais.
 
 ## Referência
 
-The Decision Lab — *Loss aversion*.
+Fonte indicada no inventário original do projeto: The Decision Lab — *Loss aversion*.
 
 ---
 
