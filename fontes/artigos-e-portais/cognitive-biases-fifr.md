@@ -5,27 +5,35 @@
 - **Autor:** Daniel Alfi
 - **Organização:** Fifr
 - **Tipo:** artigo de educação financeira
-- **Tema:** vieses cognitivos e comportamento financeiro.
+- **Tema:** vieses cognitivos e decisões financeiras pessoais.
+
+## Sobre a fonte
+
+O artigo apresenta sete vieses que podem interferir silenciosamente na forma como uma pessoa gasta, poupa, investe e avalia riscos. A proposta é aproximar conceitos de economia comportamental de situações comuns da vida financeira.
+
+## Principais contribuições
+
+A fonte é útil para reconhecer que decisões aparentemente racionais podem ser influenciadas por atalhos mentais, crenças prévias, emoções e percepção distorcida de risco ou recompensa. O valor pedagógico está em transformar conceitos abstratos de vieses em situações que podem ser observadas no cotidiano.
 
 ## Relevância para o projeto
 
-A fonte apresenta uma abordagem prática sobre vieses que podem interferir em escolhas financeiras. Ela contribui para traduzir conceitos comportamentais para situações do cotidiano.
+Contribui diretamente para o eixo **comportamento financeiro**, complementando a literatura acadêmica sobre alfabetização financeira com exemplos de mecanismos cognitivos que podem afetar escolhas.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como fonte complementar na investigação sobre **vieses cognitivos, hábitos financeiros e tomada de decisão**.
+Foi utilizada para apoiar a exploração de **vieses cognitivos, hábitos financeiros e tomada de decisão individual**.
 
 ## Relação com outras fontes
 
-Complementa estudos acadêmicos e institucionais ao oferecer exemplos e linguagem aplicada. Não deve ser tratada como equivalente a pesquisa científica revisada por pares.
+Pode ser comparada com William & Mary, Fidelity, Decision Lab e Farm Bureau, permitindo verificar como diferentes fontes descrevem vieses semelhantes.
 
-## Limites
+## Limitações
 
-As afirmações devem ser interpretadas dentro do escopo editorial da fonte e verificadas na publicação original quando utilizadas como evidência específica.
+É material editorial de educação financeira, não estudo experimental ou revisão acadêmica. Seus exemplos devem ser tratados como contextualização e não como evidência causal por si só.
 
 ## Referência
 
-Daniel Alfi, Fifr — *7 Cognitive Biases That Quietly Sabotage Your Financial Life*.
+Fonte indicada no inventário original do projeto: Fifr — *7 Cognitive Biases That Quietly Sabotage Your Financial Life*.
 
 ---
 
