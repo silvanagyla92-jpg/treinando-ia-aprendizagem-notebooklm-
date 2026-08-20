@@ -1,29 +1,25 @@
 # Fontes acadêmicas
 
-Esta pasta reúne as **4 fontes externas acadêmicas e científicas** utilizadas no projeto **Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM**. Essas referências foram incorporadas ao caderno temático para fornecer fundamentação teórica sobre **alfabetização financeira, tomada de decisão econômica, planejamento de longo prazo e vieses cognitivos**.
+Esta pasta reúne as **7 fontes externas acadêmicas e científicas** utilizadas no projeto **Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM**. As referências fornecem fundamentação para alfabetização financeira, tomada de decisão econômica, planejamento de longo prazo e vieses cognitivos.
 
-A organização desta pasta não pretende substituir os documentos originais. Seu objetivo é funcionar como uma **camada de curadoria e rastreabilidade**, registrando o que cada fonte representa, por que ela é pertinente ao projeto, como se relaciona às demais referências e quais cuidados devem ser considerados na interpretação das informações.
+A pasta funciona como uma camada de **curadoria, organização e rastreabilidade**. Os arquivos são fichas documentais das referências utilizadas no caderno temático; não substituem as publicações originais.
 
 ---
 
-## 1. Papel das fontes acadêmicas no projeto
+## 1. Papel das fontes acadêmicas
 
-As fontes acadêmicas constituem a principal camada de **fundamentação científica externa** da investigação. Elas foram utilizadas para complementar fontes institucionais, artigos especializados e materiais práticos, permitindo comparar diferentes perspectivas sobre a Gestão Financeira Pessoal.
-
-No contexto do projeto, elas contribuem principalmente para quatro dimensões:
+As fontes acadêmicas constituem a principal camada de fundamentação científica externa da investigação. Elas são complementadas por fontes institucionais, materiais especializados e documentos internos do próprio projeto.
 
 | Dimensão | Contribuição |
 |---|---|
-| **Educação financeira** | compreensão da alfabetização financeira e de sua relação com escolhas econômicas; |
-| **Tomada de decisão** | análise de decisões financeiras e de situações econômicas complexas; |
-| **Planejamento** | investigação de decisões de longo prazo, incluindo aposentadoria e poupança; |
-| **Comportamento** | análise da influência de vieses cognitivos sobre gastos, poupança e investimentos. |
-
-Essa combinação é importante porque evita reduzir a Gestão Financeira Pessoal a apenas uma dimensão. O projeto procura observar a interação entre **conhecimento, organização, comportamento e tomada de decisão**.
+| **Educação financeira** | alfabetização financeira e escolhas econômicas; |
+| **Tomada de decisão** | decisões financeiras e situações econômicas complexas; |
+| **Planejamento** | poupança, aposentadoria e decisões de longo prazo; |
+| **Comportamento** | vieses cognitivos e comportamento financeiro. |
 
 ---
 
-## 2. Fontes utilizadas
+## 2. Inventário das fontes
 
 ### 2.1 Financial Literacy: An Essential Tool for Informed Consumer Choice?
 
@@ -32,13 +28,7 @@ Essa combinação é importante porque evita reduzir a Gestão Financeira Pessoa
 **Identificador registrado:** NBER Working Paper 14084  
 **Tema:** alfabetização financeira e escolhas econômicas informadas.
 
-A fonte contribui para a discussão sobre a importância do conhecimento financeiro para decisões relacionadas a poupança, planejamento, crédito, investimento e outros contextos econômicos.
-
-**No projeto:** utilizada como base para a investigação da relação entre **alfabetização financeira e tomada de decisão econômica**.
-
 **Arquivo:** [`financial-literacy-lusardi.md`](./financial-literacy-lusardi.md)
-
----
 
 ### 2.2 GFLEC Working Paper Series
 
@@ -47,15 +37,9 @@ A fonte contribui para a discussão sobre a importância do conhecimento finance
 **Tipo:** série de pesquisas / working papers  
 **Tema:** alfabetização financeira, comportamento econômico, planejamento e resultados financeiros.
 
-A série foi utilizada como referência acadêmica de apoio para contextualizar a alfabetização financeira dentro de uma produção científica mais ampla.
-
-**No projeto:** contribui para a fundamentação e comparação das relações entre **conhecimento financeiro, comportamento e planejamento econômico**.
-
-> **Cuidado metodológico:** este registro representa uma série de publicações, e não um artigo individual. Por isso, não são atribuídas à série conclusões específicas que pertençam exclusivamente a um trabalho não identificado.
+> Este registro representa uma série de publicações, e não um artigo individual. Não são atribuídas à série conclusões específicas que pertençam exclusivamente a um trabalho não identificado.
 
 **Arquivo:** [`gflec-working-paper-series.md`](./gflec-working-paper-series.md)
-
----
 
 ### 2.3 How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness — NBER
 
@@ -65,13 +49,7 @@ A série foi utilizada como referência acadêmica de apoio para contextualizar 
 **Identificador:** NBER Working Paper 15350  
 **Tema:** alfabetização financeira, decisões econômicas complexas e preparação para a aposentadoria.
 
-A fonte aproxima a discussão teórica da realidade de decisões econômicas de longo prazo. Ela é particularmente relevante para compreender como o conhecimento financeiro se relaciona com planejamento e preparação para o futuro.
-
-**No projeto:** utilizada para apoiar a investigação sobre **planejamento financeiro, alfabetização financeira e tomada de decisões de longo prazo**.
-
 **Arquivo:** [`complex-economic-decisions.md`](./complex-economic-decisions.md)
-
----
 
 ### 2.4 The Influence of Cognitive Biases on Personal Financial Decisions: Analyzing Spending, Saving, and Investment Behaviors
 
@@ -80,42 +58,64 @@ A fonte aproxima a discussão teórica da realidade de decisões econômicas de 
 **Tipo:** artigo acadêmico / PDF  
 **Tema:** influência de vieses cognitivos sobre gastos, poupança e investimentos.
 
-Esta referência introduz uma perspectiva comportamental à investigação, permitindo analisar como fatores cognitivos podem influenciar decisões financeiras individuais.
-
-**No projeto:** utilizada para complementar a literatura sobre alfabetização financeira com uma análise dos **vieses cognitivos e do comportamento financeiro**.
-
-> **Limite de rastreabilidade:** o inventário do projeto identifica o artigo e sua instituição, mas o endereço específico da publicação não foi confirmado com segurança. Por isso, esta documentação não inventa um URL de artigo.
+> O endereço específico da publicação não foi confirmado com segurança e, por isso, não é inventado neste inventário.
 
 **Arquivo:** [`cognitive-biases-personal-financial-decisions.md`](./cognitive-biases-personal-financial-decisions.md)
+
+### 2.5 The Economic Importance of Financial Literacy: Theory and Evidence
+
+**Autores:** Annamaria Lusardi e Olivia S. Mitchell  
+**Tipo:** artigo acadêmico de revisão  
+**Tema:** importância econômica da alfabetização financeira e evidências sobre seus efeitos nas decisões econômicas.
+
+**Arquivo:** [`economic-importance-financial-literacy.md`](./economic-importance-financial-literacy.md)
+
+### 2.6 Financial Literacy and Economic Outcomes: Evidence and Policy Implications
+
+**Autores:** Annamaria Lusardi e Olivia S. Mitchell  
+**Tipo:** publicação acadêmica / revisão de evidências  
+**Tema:** relação entre alfabetização financeira, resultados econômicos e implicações para políticas públicas.
+
+**Arquivo:** [`financial-literacy-economic-outcomes.md`](./financial-literacy-economic-outcomes.md)
+
+### 2.7 Financial Literacy — Oxford University Press
+
+**Autores:** Olivia S. Mitchell e Annamaria Lusardi  
+**Instituição:** Oxford University Press  
+**Tipo:** referência acadêmica / material de pesquisa  
+**Tema:** alfabetização financeira e seus fundamentos na literatura econômica.
+
+**Arquivo:** [`financial-literacy-oup.md`](./financial-literacy-oup.md)
 
 ---
 
 ## 3. Relação entre as fontes
 
-As quatro referências cumprem funções complementares dentro da investigação:
+As referências cumprem funções complementares:
 
 **Lusardi → alfabetização financeira**  
-**Mitchell & Lusardi / GFLEC → conhecimento, planejamento e resultados econômicos**  
+**GFLEC → conhecimento, planejamento e resultados econômicos**  
 **Lusardi & Mitchell / NBER → decisões complexas e planejamento de longo prazo**  
-**Durom → vieses cognitivos e comportamento financeiro**
+**Durom → vieses cognitivos e comportamento financeiro**  
+**Lusardi & Mitchell → importância econômica e resultados da alfabetização financeira**  
+**Oxford University Press → referência acadêmica complementar sobre alfabetização financeira**
 
-Essa combinação permitiu construir uma visão mais ampla do problema investigado, relacionando **conhecimento financeiro e comportamento humano**.
-
-É importante observar que complementaridade temática **não significa concordância absoluta**. A comparação entre fontes deve considerar objetivos, métodos, contexto e escopo de cada publicação.
+Complementaridade temática não significa concordância absoluta. A comparação deve considerar objetivo, método, contexto e escopo de cada referência.
 
 ---
 
-## 4. Relação com as perguntas do projeto
+## 4. Relação com o projeto
 
-As fontes acadêmicas serviram de apoio às perguntas estratégicas desenvolvidas para o NotebookLM, especialmente às questões relacionadas a:
+As fontes acadêmicas apoiaram perguntas sobre:
 
-- como a educação financeira influencia decisões econômicas;
-- como fatores psicológicos e vieses cognitivos afetam escolhas financeiras;
-- como o conhecimento financeiro se relaciona ao planejamento de longo prazo;
-- como diferentes fontes convergem ou divergem sobre tomada de decisão;
-- quais afirmações podem ser consideradas diretamente fundamentadas e quais exigem interpretação ou verificação adicional.
+- educação e alfabetização financeira;
+- planejamento e decisões de longo prazo;
+- preparação para aposentadoria;
+- comportamento financeiro e vieses;
+- convergências e divergências entre fontes;
+- distinção entre afirmação diretamente fundamentada, síntese, inferência e interpretação.
 
-A utilização dessas fontes está integrada ao fluxo metodológico do projeto:
+O fluxo metodológico adotado foi:
 
 **Fontes → Perguntas estratégicas → Prompts → Respostas → Análise crítica → Síntese**
 
@@ -123,107 +123,60 @@ A utilização dessas fontes está integrada ao fluxo metodológico do projeto:
 
 ## 5. Critérios de curadoria
 
-Para organização desta pasta, foram considerados os seguintes critérios:
+A organização considera:
 
-### Relevância temática
-
-A fonte deveria apresentar relação direta com pelo menos um dos eixos do projeto: educação financeira, alfabetização financeira, comportamento econômico, vieses cognitivos, planejamento ou tomada de decisão.
-
-### Natureza acadêmica
-
-Foram priorizados estudos, working papers e publicações associadas a instituições acadêmicas ou centros de pesquisa.
-
-### Rastreabilidade
-
-Sempre que possível, são registrados autores, instituições, identificadores e endereços da publicação original.
-
-### Transparência
-
-Quando uma informação bibliográfica não pôde ser confirmada, a limitação é explicitamente registrada em vez de ser preenchida por estimativa.
-
-### Complementaridade
-
-A seleção procura combinar perspectivas sobre **conhecimento financeiro** e **comportamento**, evitando depender de uma única abordagem teórica.
+- **Relevância temática:** relação direta com os objetivos do projeto;
+- **Natureza acadêmica:** estudos, working papers e referências associadas à produção científica;
+- **Rastreabilidade:** registro de autores, instituições e identificadores quando confirmados;
+- **Transparência:** informações não confirmadas não são preenchidas por estimativa;
+- **Complementaridade:** combinação de conhecimento financeiro e comportamento.
 
 ---
 
 ## 6. Limites de interpretação
 
-As fontes acadêmicas oferecem evidências e argumentos relevantes, mas não devem ser tratadas automaticamente como prova de qualquer conclusão produzida pela IA.
+As fontes acadêmicas não devem ser tratadas automaticamente como prova de qualquer conclusão produzida pela IA. Durante a análise, o projeto diferencia:
 
-Durante a análise, é necessário distinguir:
-
-- **Fato fundamentado:** informação diretamente sustentada por uma fonte identificável;
-- **Síntese:** integração de informações provenientes de diferentes fontes;
+- **Fato fundamentado:** informação sustentada por fonte identificável;
+- **Síntese:** integração de informações de diferentes fontes;
 - **Inferência:** conclusão construída a partir das informações disponíveis;
-- **Interpretação:** explicação que depende de análise do conteúdo;
+- **Interpretação:** explicação dependente de análise;
 - **Afirmação não confirmada:** informação que exige consulta adicional à fonte original.
-
-Esse cuidado é especialmente importante quando uma resposta do NotebookLM reúne informações provenientes de várias referências.
 
 ---
 
-## 7. Organização dos arquivos
+## 7. Estrutura dos arquivos
 
 ```text
 fontes/academicas/
 ├── README.md
-├── financial-literacy-lusardi.md
-├── gflec-working-paper-series.md
+├── cognitive-biases-personal-financial-decisions.md
 ├── complex-economic-decisions.md
-└── cognitive-biases-personal-financial-decisions.md
+├── economic-importance-financial-literacy.md
+├── financial-literacy-economic-outcomes.md
+├── financial-literacy-lusardi.md
+├── financial-literacy-oup.md
+└── gflec-working-paper-series.md
 ```
 
-Cada arquivo individual funciona como uma ficha documental da respectiva fonte. O `README.md` apresenta a visão geral e explica como as quatro referências se relacionam com a metodologia do projeto.
-
 ---
 
-## 8. Referências originais e rastreabilidade
-
-Quando o endereço original foi confirmado, ele é mantido na ficha correspondente. Entre as referências documentadas estão os registros do **NBER**, do **GFLEC** e da pesquisa de Lusardi.
-
-A documentação evita apresentar links específicos quando eles não puderam ser confirmados com segurança. Essa decisão faz parte do próprio critério de transparência adotado no projeto.
-
----
-
-## 9. Relação com as demais categorias de fontes
-
-As fontes acadêmicas não constituem todo o conjunto documental do projeto. Elas são complementadas por:
-
-- **fontes institucionais**, como materiais do Banco Central do Brasil;
-- **artigos, blogs e portais especializados**, utilizados para contextualização e aplicações práticas;
-- **fontes internas**, produzidas durante o próprio processo de integração e síntese do conhecimento.
-
-A separação por categoria facilita a identificação da natureza de cada evidência e evita misturar produção científica, material institucional, conteúdo editorial e documentos produzidos no próprio projeto.
-
----
-
-## 10. Contribuição para o projeto
-
-As fontes acadêmicas fortalecem o projeto porque permitem demonstrar que a investigação não foi construída apenas a partir de respostas geradas por IA. O NotebookLM foi utilizado como ferramenta de exploração e aprendizagem sobre um **conjunto previamente curado de referências**.
-
-Assim, a documentação desta pasta evidencia três etapas importantes:
-
-**curadoria das fontes → interação orientada por prompts → avaliação crítica das respostas**.
-
-Essa abordagem é coerente com o objetivo do projeto de demonstrar aprendizagem ativa, engenharia de prompts, organização do conhecimento e avaliação crítica de informações produzidas por Inteligência Artificial.
-
----
-
-## 11. Navegação
+## 8. Navegação
 
 - [`../README.md`](../README.md) — inventário geral das fontes do projeto.
 - [`../institucionais/`](../institucionais/) — fontes institucionais.
 - [`../artigos-e-portais/`](../artigos-e-portais/) — artigos, blogs e portais especializados.
 - [`../internas/`](../internas/) — documentos de integração produzidos no projeto.
-- [`../../prompts/`](../../prompts/) — engenharia de prompts utilizada na investigação.
-- [`../../evidencias/`](../../evidencias/) — registros e evidências do processo realizado no NotebookLM.
+- [`../../prompts/`](../../prompts/) — engenharia de prompts.
+- [`../../analises/`](../../analises/) — análises produzidas no projeto.
+- [`../../resultados/`](../../resultados/) — resultados e respostas selecionadas.
+- [`../../evidencias/`](../../evidencias/) — registros e evidências do processo.
 
 ---
 
-## 12. Nota de atualização
+## 9. Contribuição para o projeto
 
-Esta pasta segue o inventário definido para a versão atual do projeto: **4 fontes acadêmicas**. A classificação deve ser atualizada caso novas fontes sejam efetivamente incorporadas ao caderno do NotebookLM e documentadas no inventário geral.
+As fontes acadêmicas demonstram que a investigação foi construída sobre um conjunto previamente curado de referências, e não apenas sobre respostas geradas pela IA. O NotebookLM foi utilizado como ferramenta de exploração e aprendizagem, enquanto a avaliação humana permaneceu responsável pela análise, comparação e síntese.
 
 ---
 
