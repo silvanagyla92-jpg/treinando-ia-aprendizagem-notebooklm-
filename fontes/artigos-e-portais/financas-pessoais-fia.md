@@ -2,29 +2,37 @@
 
 ## Identificação
 
-- **Autor institucional:** FIA Business School — Fundação Instituto de Administração
-- **Tipo:** artigo/portal educacional
-- **Tema:** organização e gestão das finanças pessoais.
+- **Instituição:** FIA Business School — Fundação Instituto de Administração
+- **Tipo:** conteúdo educacional de finanças pessoais
+- **Tema:** organização financeira, planejamento e práticas de gestão de recursos.
+
+## Sobre a fonte
+
+O material apresenta orientações para organizar as finanças pessoais, enfatizando acompanhamento de receitas e despesas, definição de objetivos e planejamento. Seu caráter é aplicado e direcionado à construção de hábitos financeiros.
+
+## Principais contribuições
+
+A fonte ajuda a traduzir a gestão financeira em práticas concretas: conhecer a situação financeira, organizar o orçamento, priorizar objetivos e acompanhar resultados ao longo do tempo.
 
 ## Relevância para o projeto
 
-A fonte contribui com orientações práticas para organização financeira e complementa a fundamentação acadêmica com uma perspectiva aplicada.
+É pertinente ao eixo **organização de recursos e planejamento financeiro**, complementando as fontes sobre alfabetização financeira e comportamento.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como apoio aos temas de **organização de recursos, planejamento e hábitos financeiros**.
+Foi utilizada para apoiar a investigação sobre **organização financeira pessoal, orçamento e planejamento**.
 
 ## Relação com outras fontes
 
-Pode ser comparada com a fonte do Sicredi e com as referências acadêmicas para distinguir recomendações práticas de evidências científicas.
+Pode ser comparada com Sicredi e Alelo e relacionada aos documentos internos sobre organização de recursos.
 
-## Limites
+## Limitações
 
-Recomendações editoriais não devem ser interpretadas como resultados científicos sem verificação adicional.
+É material educacional institucional e não estudo empírico. Suas orientações não devem ser tratadas como prescrição financeira universal.
 
 ## Referência
 
-FIA Business School — *Organize Suas Finanças Pessoais: Dicas Essenciais e Práticas*.
+Fonte indicada no inventário original do projeto: FIA Business School — *Organize Suas Finanças Pessoais: Dicas Essenciais e Práticas*.
 
 ---
 
