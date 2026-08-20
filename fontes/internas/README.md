@@ -17,3 +17,12 @@ Esta pasta reúne as **2 fontes internas** produzidas durante o desenvolvimento 
 Esses documentos não representam fontes externas independentes. Foram produzidos no próprio projeto para integrar, organizar e sintetizar conhecimentos trabalhados durante a investigação.
 
 A contagem geral do projeto permanece em **25 fontes: 23 externas + 2 internas**.
+
+---
+
+**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
+**Autora:** Nágyla Silva  
+
+**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*  
+
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, desenvolvido com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, curadoria de fontes, avaliação crítica de respostas de IA e organização do conhecimento, contribuindo para o desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
