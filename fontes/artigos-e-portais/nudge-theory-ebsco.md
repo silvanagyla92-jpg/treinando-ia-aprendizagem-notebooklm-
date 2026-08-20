@@ -3,29 +3,37 @@
 ## Identificação
 
 - **Autora:** Janine Ungvarsky
-- **Publicação:** EBSCO Research Starters
-- **Tipo:** referência de pesquisa / conteúdo educacional
-- **Tema:** Nudge Theory e economia comportamental.
+- **Organização:** EBSCO Research
+- **Tipo:** Research Starter / referência de pesquisa
+- **Tema:** teoria do *nudge* na economia comportamental.
+
+## Sobre a fonte
+
+O material apresenta uma visão introdutória e organizada da teoria do *nudge*, explicando sua relação com economia comportamental e arquitetura de escolha. Seu formato é útil para consulta conceitual e contextualização inicial.
+
+## Principais contribuições
+
+A fonte ajuda a estabelecer definições e contextualizar a evolução da ideia de influenciar escolhas por meio do ambiente decisório. Também facilita a distinção entre um estímulo comportamental e uma restrição obrigatória.
 
 ## Relevância para o projeto
 
-A fonte contribui para contextualizar a teoria do Nudge e sua relação com economia comportamental e decisões.
+É útil como referência de **conceituação**, especialmente para as etapas de exploração e comparação de fontes sobre economia comportamental.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como apoio à investigação sobre **arquitetura de escolhas, comportamento e tomada de decisão**.
+Foi utilizada para apoiar perguntas sobre **Nudge Theory, arquitetura de escolha e comportamento econômico**.
 
 ## Relação com outras fontes
 
-Complementa as referências do Decision Lab, Michigan Journal of Economics e Voltage Control.
+Funciona como fonte de contextualização ao lado de Michigan Journal of Economics, Decision Lab e Voltage Control.
 
-## Limites
+## Limitações
 
-É uma fonte de referência/educação. Quando uma afirmação exigir fundamento primário, deve-se consultar a literatura acadêmica original.
+É um material introdutório de referência, não uma pesquisa empírica original. Para conclusões causais ou quantitativas, é necessário consultar estudos primários.
 
 ## Referência
 
-EBSCO Research Starters — Janine Ungvarsky, *Nudge theory | Economics | Research Starters*.
+Fonte indicada no inventário original do projeto: EBSCO Research — *Nudge theory | Economics | Research Starters*.
 
 ---
 
