@@ -2,29 +2,37 @@
 
 ## Identificação
 
-- **Autor institucional:** Sicredi
+- **Organização:** Sicredi
 - **Tipo:** artigo de educação financeira
-- **Tema:** organização das finanças pessoais.
+- **Tema:** organização das finanças pessoais e orçamento.
+
+## Sobre a fonte
+
+O artigo reúne orientações práticas para organizar contas, acompanhar receitas e despesas, estabelecer prioridades e desenvolver maior controle sobre a vida financeira. A abordagem é voltada à aplicação cotidiana.
+
+## Principais contribuições
+
+A fonte ajuda a traduzir a gestão financeira pessoal em comportamentos observáveis: registrar gastos, organizar compromissos, estabelecer prioridades, acompanhar resultados e criar objetivos. Esse tipo de orientação é útil para a dimensão prática do projeto.
 
 ## Relevância para o projeto
 
-A fonte apresenta orientações práticas relacionadas à organização de receitas, despesas e planejamento financeiro.
+Contribui para o eixo **organização de recursos**, que complementa a alfabetização financeira e a análise de vieses comportamentais.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como apoio à investigação sobre **organização de recursos, planejamento e hábitos financeiros**.
+Foi utilizada para apoiar a investigação sobre **orçamento, organização financeira, hábitos e controle de despesas**.
 
 ## Relação com outras fontes
 
-Complementa a FIA e a Alelo na dimensão prática, enquanto estudos acadêmicos sustentam a dimensão científica.
+Pode ser comparada com FIA e Alelo para identificar convergências entre diferentes materiais de educação financeira e com os documentos internos que integram organização e comportamento.
 
-## Limites
+## Limitações
 
-Conteúdo de educação financeira de caráter editorial não substitui evidência acadêmica ou institucional quando necessária.
+É conteúdo editorial produzido por uma instituição financeira cooperativa. Suas dicas são práticas e não constituem uma metodologia universal ou aconselhamento financeiro individual.
 
 ## Referência
 
-Sicredi — *Organização financeira: 10 dicas para colocar ordem nas suas contas*.
+Fonte indicada no inventário original do projeto: Sicredi — *Organização financeira: 10 dicas para colocar ordem nas suas contas*.
 
 ---
 
