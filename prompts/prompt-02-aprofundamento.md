@@ -6,17 +6,15 @@ Aprofundar a investigação sobre tomada de decisão intertemporal, com foco no 
 
 ## Prompt utilizado no NotebookLM
 
-```text
-Assuma o papel de um especialista em finanças comportamentais e, com base nas fontes disponíveis, explique tecnicamente a tomada de decisão intertemporal.
-
-Detalhe como o Viés do Presente e os modelos de desconto temporal ajudam a explicar a preferência por recompensas imediatas em relação a benefícios futuros.
-
-Explique o modelo de desconto quasi-hiperbólico (β-δ) e indique claramente o que representa um modelo teórico e o que pode ser inferido sobre decisões financeiras reais.
-
-Relacione o conceito à poupança e ao planejamento de longo prazo somente quando houver suporte nas fontes.
-
-Por fim, apresente estratégias de arquitetura de escolhas discutidas nas fontes que possam ser utilizadas para lidar com esse tipo de dificuldade comportamental.
-```
+> Assuma o papel de um especialista em finanças comportamentais e, com base nas fontes disponíveis, explique tecnicamente a tomada de decisão intertemporal.
+>
+> Detalhe como o Viés do Presente e os modelos de desconto temporal ajudam a explicar a preferência por recompensas imediatas em relação a benefícios futuros.
+>
+> Explique o modelo de desconto quasi-hiperbólico (β-δ) e indique claramente o que representa um modelo teórico e o que pode ser inferido sobre decisões financeiras reais.
+>
+> Relacione o conceito à poupança e ao planejamento de longo prazo somente quando houver suporte nas fontes.
+>
+> Por fim, apresente estratégias de arquitetura de escolhas discutidas nas fontes que possam ser utilizadas para lidar com esse tipo de dificuldade comportamental.
 
 ## Pergunta estratégica relacionada
 
