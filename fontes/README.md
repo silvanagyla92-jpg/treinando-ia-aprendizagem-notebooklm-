@@ -15,13 +15,13 @@ O projeto utiliza **25 fontes**, distribuídas em:
 - **23 fontes externas**;
 - **2 fontes internas** produzidas durante a própria investigação.
 
-As fontes externas estão organizadas em três grupos:
+As 23 fontes externas estão organizadas em três grupos:
 
-- **4 acadêmicas/científicas**;
-- **18 artigos, blogs e portais**;
+- **7 acadêmicas/científicas**;
+- **15 artigos, blogs e portais especializados**;
 - **1 institucional**.
 
-As fontes internas possuem função diferente: foram produzidas especificamente para estruturar, integrar e aprofundar o conhecimento desenvolvido no projeto.
+As 2 fontes internas possuem função diferente: foram produzidas especificamente para estruturar, integrar e aprofundar o conhecimento desenvolvido no projeto.
 
 ---
 
@@ -48,43 +48,45 @@ As fontes internas possuem função diferente: foram produzidas especificamente 
 
 ## 3. Fontes externas — 23
 
-### 3.1 Fontes acadêmicas, científicas e de pesquisa — 4
+### 3.1 Fontes acadêmicas, científicas e de pesquisa — 7
 
 1. **Financial Literacy: An Essential Tool for Informed Consumer Choice?** — Annamaria Lusardi.
 2. **GFLEC Working Paper Series** — Olivia S. Mitchell e Annamaria Lusardi.
 3. **How Ordinary Consumers Make Complex Economic Decisions: Financial Literacy and Retirement Readiness - NBER** — Annamaria Lusardi e Olivia S. Mitchell.
-4. **The Influence of Cognitive Biases on Personal Financial Decisions: Analyzing Spending, Saving, and Investment Behaviors in - RSIS International** — Dra. Lidia Durom.
+4. **The Influence of Cognitive Biases on Personal Financial Decisions: Analyzing Spending, Saving, and Investment Behaviors** — Dra. Lidia Durom.
+5. **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell.
+6. **Financial Literacy and Economic Outcomes: Evidence and Policy Implications** — Annamaria Lusardi e Olivia S. Mitchell.
+7. **Financial Literacy - Oxford University Press** — Olivia S. Mitchell e Annamaria Lusardi.
 
 Os registros estão em [`academicas/`](./academicas/).
 
 ### 3.2 Fonte institucional — 1
 
-5. **caderno_cidadania_financeira.pdf** — Banco Central do Brasil (BCB), Departamento de Promoção da Cidadania Financeira.
+8. **caderno_cidadania_financeira.pdf** — Banco Central do Brasil (BCB), Departamento de Promoção da Cidadania Financeira.
 
 O registro está em [`institucionais/`](./institucionais/).
 
-### 3.3 Artigos, blogs de finanças e portais de economia — 18
+### 3.3 Artigos, blogs de finanças e portais de economia — 15
 
 1. **5 Behavioral Biases That Can Impact Your Investing Decisions - Online Programs** — William & Mary.
 2. **7 Cognitive Biases That Quietly Sabotage Your Financial Life - Fifr** — Daniel Alfi.
-3. **Behavioral Biases in Finances: How to Avoid Present Bias | Farm Bureau Financial Services** — Farm Bureau Financial Services.
-4. **Behavioral Economics: Nudge Theory** — John Abbot, Michigan Journal of Economics.
+3. **Behavioral Biases in Finances: How to Avoid Present Bias** — Farm Bureau Financial Services.
+4. **Behavioral Economics: Nudge Theory** — Michigan Journal of Economics.
 5. **Educação financeira pessoal: o que é e como começar** — Alelo.
-6. **Financial Literacy - Olivia S. Mitchell; Annamaria Lusardi - Oxford University Press** — Olivia S. Mitchell e Annamaria Lusardi.
-7. **Financial Literacy and Economic Outcomes: Evidence and Policy Implications - PMC** — Annamaria Lusardi e Olivia S. Mitchell.
-8. **How to Combat Behavioral Biases in Your Personal Finance** — Magdalena (Maggie) Johndrow e Evelyne Beaule.
-9. **Investing biases | Fidelity Investments** — Fidelity Investments, com contribuição técnica indicada de Melissa Knoll.
-10. **Loss aversion - The Decision Lab** — The Decision Lab.
-11. **Nudge Theory - The Decision Lab** — Annika Steele.
-12. **Nudge theory | Economics | Research Starters - EBSCO** — Janine Ungvarsky.
-13. **Nudging: How Behavioral Economics Can Transform Practices - Voltage Control** — Voltage Control.
-14. **Organização financeira: 10 dicas para colocar ordem nas suas contas** — Sicredi.
-15. **Organize Suas Finanças Pessoais: Dicas Essenciais e Práticas** — FIA Business School.
-16. **The Economic Importance of Financial Literacy: Theory and Evidence** — Annamaria Lusardi e Olivia S. Mitchell.
-17. **The Psychology Behind Financial Choices: The Role of Cognitive Biases - HSA Tutoring** — Satvik Agarwal.
-18. **The Psychology of Money: How Biases Shape Your Financial Decisions** — Harvard Federal Credit Union.
+6. **Organize Suas Finanças Pessoais: Dicas Essenciais e Práticas** — FIA Business School.
+7. **How to Combat Behavioral Biases in Your Personal Finance** — Johndrow Wealth Management.
+8. **Investing biases** — Fidelity Investments.
+9. **Loss aversion** — The Decision Lab.
+10. **Nudge Theory** — The Decision Lab.
+11. **Nudge theory | Economics | Research Starters** — EBSCO Research.
+12. **Nudging: How Behavioral Economics Can Transform Practices** — Voltage Control.
+13. **Organização financeira: 10 dicas para colocar ordem nas suas contas** — Sicredi.
+14. **The Psychology Behind Financial Choices: The Role of Cognitive Biases** — HSA Tutoring.
+15. **The Psychology of Money: How Biases Shape Your Financial Decisions** — Harvard Federal Credit Union.
 
 Os registros estão em [`artigos-e-portais/`](./artigos-e-portais/).
+
+> Três referências que anteriormente estavam nesta categoria foram reclassificadas para `academicas/`: `economic-importance-financial-literacy.md`, `financial-literacy-economic-outcomes.md` e `financial-literacy-oup.md`. Elas não fazem mais parte da contagem desta categoria.
 
 ---
 
@@ -104,9 +106,11 @@ Quando o endereço específico de uma página não pôde ser confirmado com segu
 
 ## 5. Observação sobre a contagem
 
-A contagem desta pasta segue **exatamente o inventário de fontes fornecido para esta versão do projeto: 23 externas + 2 internas = 25 fontes**.
+A contagem desta pasta segue o inventário consolidado desta versão:
 
-A referência **Save More Tomorrow — Decode the Future**, mencionada em versões anteriores do README raiz, **não está incluída neste inventário de 23 fontes externas** e, portanto, não foi adicionada como uma 26ª fonte.
+**7 acadêmicas + 15 artigos/portais + 1 institucional + 2 internas = 25 fontes.**
+
+A referência **Save More Tomorrow — Decode the Future**, mencionada em versões anteriores do README raiz, **não está incluída neste inventário de 25 fontes** e, portanto, não foi adicionada como uma 26ª fonte.
 
 ---
 
