@@ -6,21 +6,19 @@ Realizar uma etapa de controle de qualidade das respostas produzidas pelo Notebo
 
 ## Prompt utilizado no NotebookLM
 
-```text
-Faça uma revisão crítica das explicações produzidas até agora, comparando as afirmações relevantes com o conteúdo das fontes originais disponíveis no caderno.
-
-Para cada afirmação importante, classifique-a como:
-- fato diretamente fundamentado pela fonte;
-- síntese ou conclusão derivada da combinação de fontes;
-- interpretação ou inferência;
-- informação que exige verificação adicional.
-
-Explique brevemente o motivo da classificação e, quando possível, indique a fonte correspondente.
-
-Não considere coerência ou fluidez da resposta como prova suficiente de veracidade.
-
-Ao final, responda: quais afirmações estão diretamente fundamentadas nas fontes e quais exigem cautela, interpretação ou verificação adicional?
-```
+> Faça uma revisão crítica das explicações produzidas até agora, comparando as afirmações relevantes com o conteúdo das fontes originais disponíveis no caderno.
+>
+> Para cada afirmação importante, classifique-a como:
+> - fato diretamente fundamentado pela fonte;
+> - síntese ou conclusão derivada da combinação de fontes;
+> - interpretação ou inferência;
+> - informação que exige verificação adicional.
+>
+> Explique brevemente o motivo da classificação e, quando possível, indique a fonte correspondente.
+>
+> Não considere coerência ou fluidez da resposta como prova suficiente de veracidade.
+>
+> Ao final, responda: quais afirmações estão diretamente fundamentadas nas fontes e quais exigem cautela, interpretação ou verificação adicional?
 
 ## Pergunta estratégica relacionada
 
