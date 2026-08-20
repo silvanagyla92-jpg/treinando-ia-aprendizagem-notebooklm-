@@ -55,7 +55,6 @@ resultados selecionados
 - [`../prompts/`](../prompts/) — instruções utilizadas com o NotebookLM.
 - [`../evidencias/`](../evidencias/) — registros do processo e materiais de apoio.
 - [`../analises/`](../analises/) — convergência, divergências, verificação e síntese.
-- [`../video/`](../video/) — material de apresentação do projeto.
 
 ## Limitações
 
