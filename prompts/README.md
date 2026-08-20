@@ -4,6 +4,16 @@ Esta pasta reúne os prompts elaborados, testados e refinados durante a experiê
 
 Os prompts documentam a engenharia de prompts aplicada à investigação: exploração, aprofundamento, comparação, análise crítica e síntese.
 
+## Arquivos
+
+| Etapa | Prompt | Finalidade |
+|---|---|---|
+| 01 | [`prompt-01-exploracao-conceituacao.md`](./prompt-01-exploracao-conceituacao.md) | Explorar e conceituar o tema a partir das fontes. |
+| 02 | [`prompt-02-aprofundamento.md`](./prompt-02-aprofundamento.md) | Aprofundar conceitos e relações identificadas. |
+| 03 | [`prompt-03-comparacao-fontes.md`](./prompt-03-comparacao-fontes.md) | Comparar perspectivas e evidências entre fontes. |
+| 04 | [`prompt-04-analise-critica.md`](./prompt-04-analise-critica.md) | Avaliar criticamente as respostas e suas evidências. |
+| 05 | [`prompt-05-sintese.md`](./prompt-05-sintese.md) | Integrar os achados em uma síntese estruturada. |
+
 ## Organização
 
 ```text
@@ -40,7 +50,10 @@ O processo foi iterativo: quando uma resposta não atendia adequadamente ao obje
 fontes → perguntas estratégicas → prompts → respostas → análises → resultados
 ```
 
-As evidências das interações estão documentadas em [`evidencias/`](../evidencias/), as análises em [`analises/`](../analises/) e os resultados em [`resultados/`](../resultados/).
+- [`fontes/`](../fontes/) — fontes utilizadas na investigação.
+- [`evidencias/`](../evidencias/) — registros das interações e materiais do processo.
+- [`analises/`](../analises/) — análises e validações.
+- [`resultados/`](../resultados/) — resultados documentados.
 
 ---
 
