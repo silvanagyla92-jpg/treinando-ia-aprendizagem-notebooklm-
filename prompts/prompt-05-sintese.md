@@ -6,21 +6,19 @@ Integrar os principais conhecimentos construídos nas etapas anteriores, relacio
 
 ## Prompt utilizado no NotebookLM
 
-```text
-Considere as fontes disponíveis e reúna as principais ideias sustentadas por elas sobre como conhecimento financeiro, organização dos recursos, comportamento e hábitos se relacionam com as escolhas econômicas.
-
-Organize a síntese em quatro partes:
-1. conhecimentos e conceitos financeiros;
-2. organização e planejamento;
-3. fatores comportamentais e contextuais;
-4. tomada de decisão e implicações práticas.
-
-Para cada parte, diferencie o que está diretamente apoiado pelas fontes de conclusões que resultam da integração entre elas.
-
-Não apresente como consenso uma ideia que esteja presente apenas em uma fonte.
-
-Ao final, apresente uma síntese curta que integre os elementos sem afirmar causalidade além do que as fontes sustentam.
-```
+> Considere as fontes disponíveis e reúna as principais ideias sustentadas por elas sobre como conhecimento financeiro, organização dos recursos, comportamento e hábitos se relacionam com as escolhas econômicas.
+>
+> Organize a síntese em quatro partes:
+> 1. conhecimentos e conceitos financeiros;
+> 2. organização e planejamento;
+> 3. fatores comportamentais e contextuais;
+> 4. tomada de decisão e implicações práticas.
+>
+> Para cada parte, diferencie o que está diretamente apoiado pelas fontes de conclusões que resultam da integração entre elas.
+>
+> Não apresente como consenso uma ideia que esteja presente apenas em uma fonte.
+>
+> Ao final, apresente uma síntese curta que integre os elementos sem afirmar causalidade além do que as fontes sustentam.
 
 ## Pergunta estratégica relacionada
 
