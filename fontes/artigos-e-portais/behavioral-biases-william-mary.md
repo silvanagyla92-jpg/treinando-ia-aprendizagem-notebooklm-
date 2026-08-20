@@ -3,28 +3,37 @@
 ## Identificação
 
 - **Instituição:** William & Mary — Raymond A. Mason School of Business
-- **Tipo:** artigo/portal educacional
-- **Tema:** vieses comportamentais e decisões de investimento.
+- **Tipo:** artigo educacional sobre finanças comportamentais
+- **Publicação:** 05 de fevereiro de 2025
+- **Tema:** vieses comportamentais que podem afetar decisões de investimento.
+
+## Sobre a fonte
+
+O artigo apresenta cinco vieses comportamentais relevantes para decisões de investimento: **excesso de confiança, comportamento de manada, aversão à perda, ancoragem e viés de confirmação**. A abordagem conecta conceitos de economia comportamental a situações práticas enfrentadas por investidores.
+
+## Principais contribuições
+
+O texto mostra como o investidor pode superestimar sua capacidade, seguir decisões do grupo, reagir de forma desproporcional a perdas, permanecer ancorado em informações iniciais ou procurar apenas evidências que confirmem suas crenças. O artigo também apresenta estratégias práticas, como revisar decisões com critérios objetivos, considerar perspectivas contrárias e estabelecer regras previamente definidas.
 
 ## Relevância para o projeto
 
-A fonte apresenta uma abordagem aplicada sobre como vieses podem influenciar decisões de investimento. No projeto, contribui para a dimensão comportamental da Gestão Financeira Pessoal.
+Esta fonte é particularmente útil para a dimensão **comportamental** da Gestão Financeira Pessoal. Ela ajuda a demonstrar que conhecer conceitos financeiros não elimina automaticamente efeitos psicológicos sobre decisões de investimento.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como apoio à investigação sobre **vieses cognitivos, comportamento financeiro e tomada de decisão**.
+Foi utilizada para apoiar perguntas sobre **vieses cognitivos, investimento, tomada de decisão e mecanismos de redução de decisões impulsivas ou excessivamente emocionais**.
 
 ## Relação com outras fontes
 
-Complementa estudos acadêmicos sobre comportamento e materiais sobre aversão à perda, viés do presente e outros vieses financeiros.
+Complementa Fidelity, Decision Lab e Fifr, que abordam vieses específicos, e os estudos acadêmicos de alfabetização financeira, que fornecem uma perspectiva mais científica sobre conhecimento financeiro.
 
-## Limites
+## Limitações
 
-É uma fonte educacional, não um substituto para evidência acadêmica primária. Afirmações específicas devem ser verificadas no artigo original.
+É uma fonte educacional institucional, não uma revisão sistemática. Suas recomendações devem ser interpretadas como conteúdo de educação financeira e não como aconselhamento individual de investimento.
 
 ## Referência
 
-William & Mary, Raymond A. Mason School of Business — *5 Behavioral Biases That Can Impact Your Investing Decisions*.
+urlWilliam & Mary — 5 Behavioral Biases That Can Impact Your Investing Decisionshttps://online.mason.wm.edu/blog/behavioral-biases-that-can-impact-investing-decisions
 
 ---
 
