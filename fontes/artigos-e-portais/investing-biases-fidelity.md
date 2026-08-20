@@ -1,31 +1,39 @@
-# Investing biases
+# Investing biases | Fidelity Investments
 
 ## Identificação
 
-- **Autor institucional:** Fidelity Investments
+- **Organização:** Fidelity Investments
 - **Contribuição técnica indicada:** Melissa Knoll, Ciências Comportamentais
-- **Tipo:** conteúdo educacional de investimentos
-- **Tema:** vieses que podem afetar decisões de investimento.
+- **Tipo:** conteúdo educacional sobre investimentos
+- **Tema:** vieses que podem influenciar decisões de investimento.
+
+## Sobre a fonte
+
+A página apresenta vieses comportamentais que podem afetar investidores, ajudando a identificar padrões como excesso de confiança, tendência a seguir o grupo, confirmação de crenças e reações emocionais às perdas ou ganhos.
+
+## Principais contribuições
+
+O conteúdo aproxima conceitos de finanças comportamentais de situações práticas de investimento. A utilidade principal para o projeto está em mostrar como decisões financeiras podem ser afetadas por processos cognitivos e emocionais mesmo quando o indivíduo possui informação disponível.
 
 ## Relevância para o projeto
 
-A fonte apresenta exemplos de vieses no contexto de investimentos e ajuda a conectar conceitos comportamentais a decisões financeiras concretas.
+Contribui para o eixo **vieses comportamentais e tomada de decisão**, complementando fontes acadêmicas e materiais de divulgação.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como material complementar na investigação sobre **vieses, comportamento e tomada de decisão financeira**.
+Foi utilizada para apoiar a investigação sobre **vieses de investimento, autoconsciência e avaliação de decisões financeiras**.
 
 ## Relação com outras fontes
 
-Complementa fontes acadêmicas e materiais sobre aversão à perda e outros vieses.
+Relaciona-se diretamente a William & Mary e aos conteúdos do Decision Lab sobre aversão à perda.
 
-## Limites
+## Limitações
 
-Conteúdo educacional de uma instituição financeira não deve ser tratado automaticamente como evidência acadêmica independente. Afirmações específicas devem ser verificadas na publicação original.
+É material educacional de uma instituição financeira. Não constitui recomendação personalizada de investimento nem evidência acadêmica isolada.
 
 ## Referência
 
-Fidelity Investments — *Investing biases*.
+Fonte indicada no inventário original do projeto: Fidelity Investments — *Investing biases*.
 
 ---
 
