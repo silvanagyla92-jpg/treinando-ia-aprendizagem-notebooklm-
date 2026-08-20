@@ -57,7 +57,6 @@ Reúne registros visuais relacionados ao processo, quando disponíveis.
 | `evidencias/notebooklm/` | Preserva registros do processo realizado no NotebookLM. |
 | [`../analises/`](../analises/) | Apresenta a análise crítica do material. |
 | [`../resultados/`](../resultados/) | Reúne os resultados selecionados e documentados. |
-| [`../video/`](../video/) | Destina-se à apresentação audiovisual do projeto. |
 
 Assim, uma resposta armazenada em `evidencias/notebooklm/respostas/` é uma **evidência do processo**, enquanto um documento em `resultados/` representa um **resultado selecionado e organizado para apresentação**.
 
@@ -141,7 +140,6 @@ As evidências documentam o processo e não substituem as fontes originais. A au
 - [`../prompts/`](../prompts/) — prompts documentados.
 - [`../analises/`](../analises/) — análises produzidas.
 - [`../resultados/`](../resultados/) — resultados selecionados.
-- [`../video/`](../video/) — documentação audiovisual.
 
 ---
 
