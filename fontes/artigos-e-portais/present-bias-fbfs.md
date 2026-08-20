@@ -2,29 +2,37 @@
 
 ## Identificação
 
-- **Autor institucional:** Farm Bureau Financial Services (FBFS)
+- **Organização:** Farm Bureau Financial Services (FBFS)
 - **Tipo:** artigo de educação financeira
-- **Tema:** viés do presente e decisões financeiras.
+- **Tema:** viés do presente (*present bias*) e decisões financeiras.
+
+## Sobre a fonte
+
+O artigo aborda o viés do presente, tendência de atribuir peso excessivo a recompensas imediatas em comparação com benefícios futuros. Em finanças pessoais, esse mecanismo ajuda a compreender por que uma pessoa pode priorizar consumo atual em detrimento de poupança ou planejamento.
+
+## Principais contribuições
+
+A fonte relaciona o viés do presente a comportamentos como adiamento da poupança, dificuldade de manter objetivos financeiros e preferência por benefícios imediatos. A discussão também aponta a importância de transformar objetivos futuros em ações concretas e de criar mecanismos que reduzam decisões impulsivas.
 
 ## Relevância para o projeto
 
-A fonte contribui para explicar como a preferência por recompensas imediatas pode influenciar decisões de poupança e planejamento de longo prazo.
+É particularmente pertinente ao eixo que conecta **organização financeira, planejamento e comportamento humano**. Ajuda a explicar por que conhecimento sobre finanças não garante, sozinho, execução consistente de um plano.
 
-## Uso no NotebookLM
+## Uso no projeto
 
-Utilizada como apoio à investigação sobre **present bias, comportamento financeiro e dificuldade de poupar para objetivos futuros**.
+Foi utilizada para apoiar a análise de **preferência temporal, autocontrole, poupança e planejamento financeiro**.
 
 ## Relação com outras fontes
 
-Complementa as fontes acadêmicas sobre planejamento e as referências sobre vieses cognitivos.
+Complementa os materiais sobre vieses cognitivos e pode ser comparada à literatura de economia comportamental sobre desconto temporal e tomada de decisão intertemporal.
 
-## Limites
+## Limitações
 
-É material de educação financeira; não substitui estudos acadêmicos sobre desconto hiperbólico ou preferência temporal.
+Trata-se de conteúdo de educação financeira produzido por uma organização do setor de serviços financeiros. É útil para contextualização, mas não deve ser confundido com evidência acadêmica causal.
 
 ## Referência
 
-Farm Bureau Financial Services — *Behavioral Biases in Finances: How to Avoid Present Bias*.
+Fonte indicada no inventário original do projeto: Farm Bureau Financial Services — *Behavioral Biases in Finances: How to Avoid Present Bias*.
 
 ---
 
