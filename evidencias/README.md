@@ -1,108 +1,147 @@
 # Evidências do projeto
 
-Esta pasta reúne os registros que comprovam e documentam o **processo de aprendizagem realizado com o NotebookLM** no projeto **Gestão Financeira Pessoal**.
+Esta pasta reúne os registros que documentam o **processo de aprendizagem realizado com o NotebookLM** no projeto **Gestão Financeira Pessoal**.
 
-O objetivo é permitir reconstruir o percurso do projeto, desde a seleção das fontes até os resultados.
+O objetivo é permitir reconstruir o percurso do projeto: **fontes → perguntas → prompts → respostas → análise → verificação → síntese → resultados**.
 
-## Estrutura
+## Estrutura atual
 
 ```text
 evidencias/
 ├── README.md
-├── notebooklm/
-│   ├── fontes/
-│   ├── perguntas/
-│   ├── prompts/
-│   ├── respostas/
-│   └── relatorios/
-└── imagens/
+└── notebooklm/
+    ├── fontes/
+    ├── imagens/
+    ├── perguntas/
+    ├── prompts/
+    ├── relatorios/
+    └── respostas/
 ```
 
-## O que existe em cada seção
+As subpastas dentro de `notebooklm/` são mantidas porque representam diferentes tipos de evidência do processo. Elas não são duplicações das pastas principais do projeto.
 
-| Seção | Função |
+## Conteúdo de cada seção
+
+### `notebooklm/fontes/`
+
+Reúne registros relacionados às fontes utilizadas no caderno do NotebookLM. Serve para documentar a etapa de curadoria e organização das referências.
+
+### `notebooklm/perguntas/`
+
+Registra as perguntas estratégicas utilizadas para explorar o conteúdo das fontes e direcionar a investigação.
+
+### `notebooklm/prompts/`
+
+Documenta os prompts utilizados para orientar as interações com a IA. Permite relacionar cada instrução ao tipo de resposta procurada.
+
+### `notebooklm/respostas/`
+
+Reúne respostas selecionadas do NotebookLM que servem como evidência do processo e como material para análise posterior.
+
+### `notebooklm/relatorios/`
+
+Contém relatórios produzidos durante o desenvolvimento do projeto, utilizados para organizar e sintetizar informações.
+
+### `notebooklm/imagens/`
+
+Reúne registros visuais relacionados ao processo, quando disponíveis.
+
+## Evidência do processo × resultado final
+
+É importante diferenciar as funções das pastas:
+
+| Local | Função |
 |---|---|
-| [`notebooklm/fontes/`](./notebooklm/fontes/) | Registros relacionados às fontes utilizadas no caderno. |
-| [`notebooklm/perguntas/`](./notebooklm/perguntas/) | Evidências das perguntas estratégicas. |
-| [`notebooklm/prompts/`](./notebooklm/prompts/) | Registros dos prompts utilizados. |
-| [`notebooklm/respostas/`](./notebooklm/respostas/) | Respostas selecionadas para documentação e análise. |
-| [`notebooklm/relatorios/`](./notebooklm/relatorios/) | Relatórios produzidos como apoio à investigação. |
-| [`imagens/`](./imagens/) | Registros visuais do processo. |
+| [`../fontes/`](../fontes/) | Reúne as fontes utilizadas no projeto. |
+| [`../prompts/`](../prompts/) | Documenta os prompts utilizados. |
+| `evidencias/notebooklm/` | Preserva registros do processo realizado no NotebookLM. |
+| [`../analises/`](../analises/) | Apresenta a análise crítica do material. |
+| [`../resultados/`](../resultados/) | Reúne os resultados selecionados e documentados. |
+| [`../video/`](../video/) | Destina-se à apresentação audiovisual do projeto. |
+
+Assim, uma resposta armazenada em `evidencias/notebooklm/respostas/` é uma **evidência do processo**, enquanto um documento em `resultados/` representa um **resultado selecionado e organizado para apresentação**.
 
 ## Processo documentado
 
-As evidências acompanham o seguinte percurso:
-
 ```text
-fontes
-  ↓
-perguntas
-  ↓
+25 fontes
+    ↓
+perguntas estratégicas
+    ↓
 prompts
-  ↓
+    ↓
+interações no NotebookLM
+    ↓
 respostas
-  ↓
-análise
-  ↓
+    ↓
+comparação e análise
+    ↓
 verificação
-  ↓
+    ↓
 síntese
-  ↓
-resultado
+    ↓
+resultados
 ```
 
 ## 25 fontes
 
-O projeto trabalha com **25 fontes**, distribuídas em 7 acadêmicas, 15 artigos e portais, 1 institucional e 2 internas.
+O projeto utiliza **25 fontes**, distribuídas da seguinte forma:
 
-As evidências do NotebookLM documentam o uso desse conjunto durante a investigação. A relação definitiva das fontes está em [`../fontes/`](../fontes/).
+- **7** acadêmicas;
+- **15** artigos e portais;
+- **1** institucional;
+- **2** internas.
 
-## Para que servem as evidências
+Total: **25 fontes**.
 
-As evidências não existem apenas para mostrar que a ferramenta foi aberta. Elas documentam **como a ferramenta foi utilizada**.
+A relação oficial está em [`../fontes/`](../fontes/).
 
-Elas ajudam a demonstrar:
+## O que as evidências demonstram
+
+As evidências foram organizadas para demonstrar:
 
 - curadoria de informações;
-- elaboração de perguntas;
+- seleção e organização das fontes;
+- formulação de perguntas estratégicas;
 - engenharia de prompts;
-- análise das respostas;
+- interação com o NotebookLM;
+- obtenção e seleção de respostas;
 - comparação de informações;
+- análise crítica;
 - verificação de afirmações;
-- organização do conhecimento;
+- síntese do conhecimento;
 - aprendizagem ativa apoiada por IA.
 
-## Evidência não é validação automática
+## Evidência não significa validação automática
 
-Uma captura de tela ou uma resposta do NotebookLM comprova que determinada interação ocorreu, mas **não comprova automaticamente que o conteúdo apresentado esteja correto**.
+Uma captura de tela, uma resposta ou um relatório comprova que determinado material faz parte do processo documentado, mas **não comprova automaticamente a correção de seu conteúdo**.
 
-Por isso, o projeto mantém a distinção entre:
+Por isso, o projeto mantém separadas quatro funções:
 
-- evidência da interação;
-- fonte utilizada;
-- resposta da IA;
-- análise humana;
-- conclusão do projeto.
-
-## Rastreabilidade
-
-Para acompanhar o projeto de ponta a ponta:
-
-- [`../fontes/`](../fontes/) — referências utilizadas;
-- [`../prompts/`](../prompts/) — instruções utilizadas;
-- [`../analises/`](../analises/) — análise crítica;
-- [`../resultados/`](../resultados/) — resultados selecionados;
-- [`../video/`](../video/) — apresentação do projeto.
+1. **Fonte** — de onde a informação é obtida.
+2. **Evidência** — registro de como o processo ocorreu.
+3. **Análise** — avaliação crítica do material.
+4. **Resultado** — síntese selecionada e organizada para o projeto.
 
 ## Critérios de documentação
 
-As evidências devem ser reais, identificáveis e relacionadas ao processo. Não devem ser criadas capturas ou registros fictícios apenas para preencher a estrutura.
+As evidências devem ser reais, identificáveis e relacionadas ao processo realizado.
 
-Quando uma evidência não estiver disponível, isso deve ser informado claramente.
+Não devem ser criadas capturas, respostas ou registros fictícios apenas para preencher a estrutura.
+
+Quando determinado registro não estiver disponível, essa ausência deve ser indicada claramente.
 
 ## Limitações
 
-As evidências documentam o processo realizado e não substituem as fontes originais. A ausência de uma captura ou registro não deve ser interpretada como prova de que uma etapa não ocorreu; significa apenas que ela não está documentada neste diretório.
+As evidências documentam o processo e não substituem as fontes originais. A ausência de um registro não prova que uma etapa não ocorreu; significa apenas que ela não está documentada neste diretório.
+
+## Navegação
+
+- [`../fontes/`](../fontes/) — fontes utilizadas.
+- [`../prompts/`](../prompts/) — prompts documentados.
+- [`../analises/`](../analises/) — análises produzidas.
+- [`../resultados/`](../resultados/) — resultados selecionados.
+- [`../video/`](../video/) — documentação audiovisual.
 
 ---
 
