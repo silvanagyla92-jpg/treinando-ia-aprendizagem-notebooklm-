@@ -35,17 +35,22 @@ As competências profissionais demonstradas estão detalhadas na seção 2.
 
 ### 1.4 Visão rápida do projeto
 
+```text
 PROJETO
 |
 +-- FONTES
 |   |
 |   +-- Curadoria e fundamentação
 |
++-- CATALOGACAO
+|   |
+|   +-- Perguntas e correlação temática
+|
 +-- PROMPTS
 |   |
 |   +-- Perguntas e instruções
 |
-+-- EVIDÊNCIAS
++-- EVIDENCIAS
 |   |
 |   +-- Registros do processo
 |
@@ -53,7 +58,7 @@ PROJETO
 |   |
 |   +-- Exploração e interação
 |
-+-- ANÁLISES
++-- ANALISES
 |   |
 |   +-- Convergências
 |   +-- Divergências
@@ -61,9 +66,10 @@ PROJETO
 |   +-- Rastreabilidade
 |   +-- Síntese
 |
-+-- GLOSSÁRIO
++-- GLOSSARIO
     |
     +-- Conceitos e definições
+```
 
 A arquitetura mostra a separação entre insumos, processo, evidências e documentação analítica, facilitando a compreensão do projeto por quem acessa o repositório pela primeira vez.
 
@@ -92,6 +98,7 @@ A arquitetura mostra a separação entre insumos, processo, evidências e docume
 
 ### O que este projeto evidencia profissionalmente
 
+```text
 Curadoria
 |
 +-- Prompt Engineering
@@ -105,6 +112,7 @@ Curadoria
 +-- Rastreabilidade
 |
 +-- Documentação técnica
+```
 
 O projeto não pretende demonstrar apenas conhecimento sobre Gestão Financeira Pessoal. Ele demonstra a capacidade de **estruturar uma investigação com IA, avaliar informações produzidas durante o processo e transformar esse processo em documentação reutilizável**.
 
@@ -229,6 +237,7 @@ A pasta [`evidencias/`](./evidencias/) preserva os registros disponíveis do pro
 
 Sua estrutura inclui:
 
+```text
 evidencias/
 └── notebooklm/
     ├── fontes/
@@ -237,6 +246,7 @@ evidencias/
     ├── prompts/
     ├── relatorios/
     └── respostas/
+```
 
 Esses registros documentam o processo de curadoria, questionamento, interação e organização do material.
 
