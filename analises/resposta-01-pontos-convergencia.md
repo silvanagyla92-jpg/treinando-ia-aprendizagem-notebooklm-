@@ -10,37 +10,37 @@ Esta resposta registra a síntese dos principais pontos de convergência identif
 
 As fontes selecionadas para o projeto permitem relacionar conhecimento e competências financeiras à compreensão de informações e à tomada de decisões econômicas. A forma e a intensidade dessa relação variam conforme a fonte e seu objetivo.
 
-**Fontes relacionadas:** [A01](../fontes/academicas/financial-literacy-oxford.md), [A03](../fontes/academicas/financial-literacy-lusardi-mitchell.md), [A05](../fontes/academicas/financial-literacy-economic-importance.md), [A06](../fontes/academicas/financial-literacy-economic-outcomes-pmc.md), [A07](../fontes/academicas/financial-literacy-oecd.md).
+**Fontes relacionadas:** [A01](../fontes/academicas/financial-literacy-lusardi.md), [A02](../fontes/academicas/gflec-working-paper-series.md), [A03](../fontes/academicas/complex-economic-decisions.md), [A05](../fontes/academicas/economic-importance-financial-literacy.md), [A06](../fontes/academicas/financial-literacy-economic-outcomes.md), [A07](../fontes/academicas/financial-literacy-oup.md).
 
 ### 2. Planejamento e organização
 
 Os materiais utilizados permitem relacionar planejamento, organização dos recursos e consideração de objetivos futuros à gestão financeira pessoal. Essa relação deve ser entendida conforme o escopo de cada fonte, sem presumir que todas estudaram os mesmos resultados.
 
-**Fontes relacionadas:** [P06](../fontes/artigos-e-portais/organizacao-financeira-sicredi.md), [P07](../fontes/artigos-e-portais/financas-pessoais-fia.md), [P08](../fontes/artigos-e-portais/educacao-financeira-pessoal-alelo.md), [I01](../fontes/institucionais/educacao-financeira-bcb.md), [INT01](../fontes/internas/ecossistema-gestao-financeira-pessoal.md).
+**Fontes relacionadas:** [P13](../fontes/artigos-e-portais/educacao-financeira-alelo.md), [P14](../fontes/artigos-e-portais/financas-pessoais-fia.md), [P15](../fontes/artigos-e-portais/organizacao-financeira-sicredi.md), [I01](../fontes/institucionais/banco-central-educacao-financeira.md), [INT01](../fontes/internas/ecossistema-gestao-financeira-pessoal.md).
 
 ### 3. Longo prazo
 
 A preparação para objetivos futuros aparece como dimensão relevante da investigação, especialmente nos conteúdos relacionados a aposentadoria, poupança e acumulação de recursos.
 
-**Fontes relacionadas:** [A03](../fontes/academicas/financial-literacy-lusardi-mitchell.md), [A05](../fontes/academicas/financial-literacy-economic-importance.md), [P03](../fontes/artigos-e-portais/present-bias-farm-bureau.md), [P04](../fontes/artigos-e-portais/nudge-theory-michigan-journal.md), [INT02](../fontes/internas/impacto-educacao-financeira.md).
+**Fontes relacionadas:** [A02](../fontes/academicas/gflec-working-paper-series.md), [A03](../fontes/academicas/complex-economic-decisions.md), [A05](../fontes/academicas/economic-importance-financial-literacy.md), [P08](../fontes/artigos-e-portais/present-bias-fbfs.md), [INT02](../fontes/internas/impacto-educacao-financeira-vieses.md).
 
 ### 4. Comportamento e tomada de decisão
 
 As fontes e conceitos estudados no projeto mostram que a análise das decisões financeiras pode incluir fatores comportamentais, além de conhecimento e cálculo.
 
-**Fontes relacionadas:** [A04](../fontes/academicas/behavioral-finance-biases.md), [P01](../fontes/artigos-e-portais/behavioral-biases-investing-william-mary.md), [P02](../fontes/artigos-e-portais/cognitive-biases-fifr.md), [P05](../fontes/artigos-e-portais/combat-behavioral-biases-johndrow.md), [P10](../fontes/artigos-e-portais/psychology-behind-financial-choices-hsa.md), [P11](../fontes/artigos-e-portais/psychology-of-money-harvard-fcu.md).
+**Fontes relacionadas:** [A04](../fontes/academicas/cognitive-biases-personal-financial-decisions.md), [P01](../fontes/artigos-e-portais/behavioral-biases-william-mary.md), [P02](../fontes/artigos-e-portais/cognitive-biases-fifr.md), [P04](../fontes/artigos-e-portais/financial-planning-johndrow.md), [P05](../fontes/artigos-e-portais/psychology-financial-choices-hsa.md), [P06](../fontes/artigos-e-portais/psychology-of-money-harvard-fcu.md).
 
 ### 5. Vieses e preferências temporais
 
 A investigação abordou conceitos como aversão à perda, ancoragem e Viés do Presente. Esses conceitos ajudam a construir uma perspectiva comportamental sobre decisões econômicas, mas não devem ser apresentados como explicação universal para qualquer decisão financeira.
 
-**Fontes relacionadas:** [P01](../fontes/artigos-e-portais/behavioral-biases-investing-william-mary.md), [P02](../fontes/artigos-e-portais/cognitive-biases-fifr.md), [P03](../fontes/artigos-e-portais/present-bias-farm-bureau.md), [P05](../fontes/artigos-e-portais/combat-behavioral-biases-johndrow.md), [P09](../fontes/artigos-e-portais/investing-biases-fidelity.md), [P12](../fontes/artigos-e-portais/loss-aversion-decision-lab.md), [P13](../fontes/artigos-e-portais/nudge-theory-decision-lab.md), [P14](../fontes/artigos-e-portais/nudge-theory-ebsco.md), [P15](../fontes/artigos-e-portais/nudging-voltage-control.md).
+**Fontes relacionadas:** [A04](../fontes/academicas/cognitive-biases-personal-financial-decisions.md), [P01](../fontes/artigos-e-portais/behavioral-biases-william-mary.md), [P02](../fontes/artigos-e-portais/cognitive-biases-fifr.md), [P03](../fontes/artigos-e-portais/investing-biases-fidelity.md), [P04](../fontes/artigos-e-portais/financial-planning-johndrow.md), [P07](../fontes/artigos-e-portais/loss-aversion-decision-lab.md), [P08](../fontes/artigos-e-portais/present-bias-fbfs.md), [P09](../fontes/artigos-e-portais/nudge-theory-michigan.md), [P10](../fontes/artigos-e-portais/nudge-theory-decision-lab.md), [P11](../fontes/artigos-e-portais/nudge-theory-ebsco.md), [P12](../fontes/artigos-e-portais/nudging-voltage-control.md).
 
 ### 6. Complementaridade entre perspectivas
 
 Um ponto importante da comparação é que educação financeira, planejamento e economia comportamental podem tratar dimensões diferentes do mesmo fenômeno. Uma diferença de foco não constitui, por si só, uma contradição.
 
-**Fontes relacionadas:** [A01](../fontes/academicas/financial-literacy-oxford.md), [A02](../fontes/academicas/cognitive-biases-fifr.md), [A04](../fontes/academicas/behavioral-finance-biases.md), [I01](../fontes/institucionais/educacao-financeira-bcb.md), [INT01](../fontes/internas/ecossistema-gestao-financeira-pessoal.md), [INT02](../fontes/internas/impacto-educacao-financeira.md).
+**Fontes relacionadas:** [A01](../fontes/academicas/financial-literacy-lusardi.md), [A04](../fontes/academicas/cognitive-biases-personal-financial-decisions.md), [I01](../fontes/institucionais/banco-central-educacao-financeira.md), [INT01](../fontes/internas/ecossistema-gestao-financeira-pessoal.md), [INT02](../fontes/internas/impacto-educacao-financeira-vieses.md).
 
 ## Relação entre os elementos
 
