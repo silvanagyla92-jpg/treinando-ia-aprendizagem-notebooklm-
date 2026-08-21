@@ -128,7 +128,7 @@ A sequência permite passar da exploração inicial para aprofundamento, compara
 
 ## 7. Respostas selecionadas e resultados
 
-Duas respostas foram selecionadas para documentação detalhada:
+Duas respostas foram selecionadas para documentação detalhada. Após a consolidação estrutural, elas estão documentadas oficialmente em `analises/`.
 
 ### 7.1 Pontos de convergência
 
@@ -136,7 +136,7 @@ Pergunta:
 
 > Quais são os principais pontos de convergência entre as fontes sobre a importância da educação financeira para a tomada de decisões econômicas?
 
-Resultado: [`resultados/resposta-01-pontos-convergencia.md`](./resultados/resposta-01-pontos-convergencia.md)
+Resultado: [`analises/resposta-01-pontos-convergencia.md`](./analises/resposta-01-pontos-convergencia.md)
 
 ### 7.2 Diferenças e divergências
 
@@ -144,11 +144,11 @@ Pergunta:
 
 > Quais diferenças ou divergências relevantes existem entre as fontes quanto à influência do conhecimento financeiro, do comportamento e dos vieses cognitivos sobre as decisões econômicas?
 
-Resultado: [`resultados/resposta-02-diferencas-divergencias.md`](./resultados/resposta-02-diferencas-divergencias.md)
+Resultado: [`analises/resposta-02-diferencas-divergencias.md`](./analises/resposta-02-diferencas-divergencias.md)
 
 > **Nota de rastreabilidade:** o Prompt 03 documentado solicita explicitamente uma síntese de consensos/convergências. A resposta sobre diferenças e divergências deve ser considerada um resultado documentado do processo, mas o prompt específico que originou essa resposta não está identificado de forma independente nos cinco arquivos atuais. Não foi criado um prompt fictício para preencher essa lacuna.
 
-Os resultados completos estão em [`resultados/`](./resultados/).
+A análise e a fundamentação das respostas estão reunidas em [`analises/`](./analises/).
 
 ---
 
@@ -162,6 +162,7 @@ Ela contém:
 - [`divergencias-fontes.md`](./analises/divergencias-fontes.md) — diferenças de foco, método, escopo e interpretação.
 - [`verificacao-afirmacoes.md`](./analises/verificacao-afirmacoes.md) — critérios para verificar a sustentação das afirmações.
 - [`sintese-final.md`](./analises/sintese-final.md) — integração dos principais achados e limitações.
+- [`rastreabilidade-fontes.md`](./analises/rastreabilidade-fontes.md) — relação das 25 fontes com os documentos analíticos.
 
 A análise diferencia **fato, síntese, interpretação, inferência e informação não confirmada**.
 
