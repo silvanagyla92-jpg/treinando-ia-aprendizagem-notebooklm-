@@ -67,18 +67,20 @@ síntese
 analises consolidadas
 ```
 
-## 25 fontes
+## Inventário de fontes documentadas
 
-O inventário oficial do projeto contém **25 fontes**:
+O inventário oficial do projeto contém **25 fontes**, organizadas nas seguintes categorias:
 
-- **7** acadêmicas;
-- **15** artigos e portais;
-- **1** institucional;
-- **2** internas.
+- **7** fontes acadêmicas;
+- **15** fontes de artigos e portais;
+- **1** fonte institucional;
+- **2** fontes internas.
 
 **Total: 25 fontes.**
 
-A relação completa está em [`../fontes/`](../fontes/).
+A relação completa das fontes, com sua organização e identificação, está disponível em [`../fontes/`](../fontes).
+
+Esta seção apresenta apenas a composição do inventário. A existência de uma fonte no inventário não significa, isoladamente, que ela tenha sido utilizada em cada pergunta, prompt ou análise. A relação entre perguntas e fontes está documentada em [`../catalogacao/`](../catalogacao).
 
 ## O que as evidências demonstram
 
@@ -119,6 +121,7 @@ A ausência de um arquivo não prova que uma etapa não ocorreu; significa apena
 ## Navegação
 
 - [`../fontes/`](../fontes/) — fontes utilizadas.
+- [`../catalogacao/`](../catalogacao/) — relação entre perguntas e fontes.
 - [`../prompts/`](../prompts/) — prompts documentados.
 - [`../analises/`](../analises/) — respostas, análises, verificações e sínteses.
 - [`../glossario/`](../glossario/) — conceitos utilizados no projeto.
