@@ -4,6 +4,10 @@
 
 Identificar diferenças de abordagem, ênfase, metodologia e escopo entre as fontes utilizadas no projeto, evitando classificar como “contradição” aquilo que representa apenas uma perspectiva diferente.
 
+## Relação com o Prompt 03
+
+Esta resposta está vinculada ao **Prompt 03 — Comparação entre fontes**. O prompt orienta a comparação das fontes, a identificação de pontos recorrentes e complementares e a preparação da análise de diferenças e divergências. A presente resposta documenta esse desdobramento da comparação.
+
 ## 1. Diferenças de finalidade
 
 As fontes utilizadas não possuem necessariamente a mesma finalidade. Materiais acadêmicos podem priorizar teoria e evidências empíricas; materiais institucionais podem enfatizar educação e aplicação prática; materiais educacionais podem privilegiar linguagem acessível.
@@ -76,7 +80,7 @@ A Resposta 01 identificou pontos de convergência. Esta resposta complementa aqu
 
 Juntas, as duas respostas sustentam uma leitura mais cuidadosa das fontes:
 
-**convergência temática ≠ identidade de argumentos ≠ ausência de diferenças.**
+**convergência temática não significa identidade de argumentos nem ausência de diferenças.**
 
 ## Conclusão
 
@@ -89,11 +93,6 @@ Esta resposta funciona como síntese derivada das análises de convergência, di
 **Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
 **Plataforma:** NotebookLM  
 **Desafio:** DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM  
-**Autora:** Nágyla Silva
-
----
-
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
 **Autora:** Nágyla Silva
 
 *Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
