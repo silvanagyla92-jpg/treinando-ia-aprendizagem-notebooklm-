@@ -12,7 +12,7 @@ O vídeo apresenta de forma visual e sintética os principais elementos da exper
 
 ### A Mente e as Finanças
 
-**Arquivo:** `A_Mente_e_as_Finanças.mp4`
+**Arquivo:** [`A_Mente_e_as_Finanças.mp4`](./A_Mente_e_as_Finanças.mp4)
 
 **Formato:** MP4  
 **Finalidade:** apresentação audiovisual do projeto  
@@ -131,11 +131,20 @@ O arquivo original permanece preservado localmente como versão de maior qualida
 
 ## 🔗 Projeto completo
 
-**Repositório:** `silvanagyla92-jpg/treinando-ia-aprendizagem-notebooklm-`
+**Repositório:** [Treinando uma IA de Aprendizagem — Gestão Financeira Pessoal com NotebookLM](https://github.com/silvanagyla92-jpg/treinando-ia-aprendizagem-notebooklm-/)
 
 **Projeto:** Treinando uma IA de Aprendizagem  
 **Tema:** Gestão Financeira Pessoal com NotebookLM  
 **Autora:** Nágyla Silva
+
+### Navegação do projeto
+
+- [README principal](../README.md)
+- [Fontes](../fontes/README.md)
+- [Catalogação](../catalogacao/README.md)
+- [Prompts](../prompts/README.md)
+- [Análises](../analises/README.md)
+- [Evidências](../evidencias/README.md)
 
 ---
 
