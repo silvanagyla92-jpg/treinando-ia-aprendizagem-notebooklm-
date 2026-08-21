@@ -4,6 +4,8 @@ Esta pasta reúne os **5 prompts** utilizados e documentados durante a experiên
 
 Os prompts representam a evolução da investigação: primeiro compreender o tema, depois aprofundar, comparar, analisar criticamente e sintetizar.
 
+No contexto do portfólio profissional, esta pasta demonstra a aplicação prática de **engenharia de prompts**, incluindo definição de objetivo, contextualização, orientação da resposta, comparação de informações e refinamento da investigação.
+
 ## Os 5 prompts
 
 | Nº | Arquivo | Finalidade |
@@ -62,15 +64,19 @@ verificação e análise
 - [`../fontes/`](../fontes/) — materiais utilizados pelo NotebookLM.
 - [`../evidencias/`](../evidencias/) — registros do processo.
 - [`../analises/`](../analises/) — comparação e avaliação das informações.
-- [`../resultados/`](../resultados/) — resultados selecionados.
+- [`../glossario/`](../glossario/) — conceitos utilizados no projeto.
+
+Os resultados analíticos consolidados estão em `analises/`; não existe mais uma pasta separada de `resultados/`.
 
 ## Padronização
 
 Os cinco arquivos de prompt seguem o mesmo padrão de apresentação no Markdown. O conteúdo dos prompts foi preservado; a padronização tem como objetivo melhorar a leitura, a comparação e a documentação.
 
-## Resultado
+## Resultado profissional demonstrado
 
 A pasta demonstra a aplicação prática de **engenharia de prompts** em uma investigação baseada em fontes, evidenciando evolução da consulta inicial até a síntese final.
+
+Também demonstra competências transferíveis para atividades de **AI Response Evaluation, AI Training, Data Annotation e Quality Assurance**, especialmente na definição de critérios, orientação de respostas, comparação de resultados e documentação do processo.
 
 ---
 
