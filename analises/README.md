@@ -43,10 +43,14 @@ Assim, `analises/` não é apenas uma coleção de textos sobre finanças pessoa
 | [`verificacao-afirmacoes.md`](./verificacao-afirmacoes.md) | Critérios para verificar se uma afirmação é sustentada pelas fontes. |
 | [`sintese-final.md`](./sintese-final.md) | Integração dos principais achados e limitações. |
 | [`rastreabilidade-fontes.md`](./rastreabilidade-fontes.md) | Matriz individual das 25 fontes e sua relação com as análises. |
+| [`resposta-01-pontos-convergencia.md`](./resposta-01-pontos-convergencia.md) | Resposta consolidada sobre os principais pontos de convergência. |
+| [`resposta-02-diferencas-divergencias.md`](./resposta-02-diferencas-divergencias.md) | Resposta consolidada sobre diferenças de abordagem e divergências. |
 
 ## Rastreabilidade das fontes
 
 O arquivo [`rastreabilidade-fontes.md`](./rastreabilidade-fontes.md) identifica individualmente as **25 referências** utilizadas no projeto e fornece links para suas fichas em `fontes/`.
+
+As respostas consolidadas também apresentam referências diretas nos eixos em que as fontes são utilizadas. A matriz funciona como índice geral de rastreabilidade; a publicação original continua sendo a referência necessária para confirmação científica de uma afirmação específica.
 
 A matriz está organizada em:
 
@@ -54,8 +58,6 @@ A matriz está organizada em:
 - **15 artigos e portais especializados**;
 - **1 fonte institucional**;
 - **2 fontes internas**.
-
-As análises também utilizam links diretos para as fontes relevantes em cada eixo. A matriz funciona como índice geral de rastreabilidade; a publicação original continua sendo a referência necessária para confirmação científica de uma afirmação específica.
 
 ## Critérios utilizados
 
@@ -80,7 +82,9 @@ As análises também utilizam links diretos para as fontes relevantes em cada ei
 - [`../fontes/`](../fontes/) — 25 fontes utilizadas no projeto.
 - [`../prompts/`](../prompts/) — prompts utilizados e documentados.
 - [`../evidencias/`](../evidencias/) — registros do processo no NotebookLM.
-- [`../resultados/`](../resultados/) — respostas e entregáveis selecionados.
+- [`../resultados/`](../resultados/) — cópias originais das respostas preservadas temporariamente durante a consolidação desta pasta.
+
+> **Estado da consolidação:** as respostas 01 e 02 já possuem versões consolidadas em `analises/`. Os arquivos correspondentes em `resultados/` ainda não foram apagados nesta etapa, para preservar o conteúdo original até a auditoria final.
 
 ## Resultado
 
