@@ -5,7 +5,7 @@
 - **Autora:** Annamaria Lusardi
 - **Ano:** 2008
 - **Tipo:** Working Paper / estudo acadêmico
-- **Instituições relacionadas:** Joint Center for Housing Studies, Harvard University; National Bureau of Economic Research (NBER)
+- **Instituições relacionadas:** Harvard Joint Center for Housing Studies; National Bureau of Economic Research (NBER)
 - **Identificador:** NBER Working Paper 14084
 - **DOI:** 10.3386/w14084
 
@@ -34,10 +34,12 @@ A fonte pode ser analisada em conjunto com os trabalhos de **Lusardi e Mitchell*
 
 Foi utilizada como uma das bases acadêmicas do caderno temático para apoiar perguntas e respostas relacionadas à **educação financeira, tomada de decisão e planejamento econômico**.
 
-## Referência original
+## Referência original verificada
 
-- Harvard JCHS: https://www.jchs.harvard.edu/research-areas/working-papers/financial-literacy-essential-tool-informed-consumer-choice
-- NBER: https://www.nber.org/papers/w14084
+- [NBER — Working Paper 14084](https://www.nber.org/papers/w14084)
+- [DOI — 10.3386/w14084](https://doi.org/10.3386/w14084)
+
+O registro do NBER confirma o título, autora, número do working paper, ano de 2008 e DOI da publicação.
 
 ## Rastreabilidade e limites
 
