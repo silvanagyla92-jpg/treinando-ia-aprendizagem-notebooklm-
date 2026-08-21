@@ -98,6 +98,7 @@ A matriz [`rastreabilidade-fontes.md`](./rastreabilidade-fontes.md) permanece co
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem**  
 **Projeto:** Gestão Financeira Pessoal com NotebookLM  
 **Autora:** Nágyla Silva
+
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em engenharia de prompts, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
