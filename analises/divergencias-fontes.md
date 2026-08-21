@@ -2,57 +2,89 @@
 
 ## Objetivo
 
-Distinguir divergência explícita de diferença de foco, método, finalidade ou profundidade entre as fontes do projeto.
+Distinguir divergência explícita de diferença de foco, método, finalidade ou profundidade entre as fontes do projeto. Diferença de abordagem não é tratada automaticamente como contradição.
 
-As citações indicam as referências que fundamentam cada eixo comparado. Diferença de abordagem não é tratada automaticamente como contradição.
+## 1. Diferenças de finalidade e tipo de evidência
 
-## 1. Diferenças de finalidade
+As referências possuem finalidades distintas, e essa diferença precisa ser preservada na comparação.
 
-As fontes não foram produzidas com o mesmo propósito. Os trabalhos acadêmicos A01–A07 priorizam fundamentação e evidência; a fonte institucional I01 tem função de orientação no contexto brasileiro; os artigos e portais P01–P15 apresentam abordagens predominantemente aplicadas ou de divulgação; INT01 e INT02 são documentos internos de integração do projeto. [A01–A07 e I01](./rastreabilidade-fontes.md) · [P01–P15](./rastreabilidade-fontes.md) · [INT01–INT02](./rastreabilidade-fontes.md)
+- [A01 — Financial Literacy: An Essential Tool for Informed Consumer Choice?](../fontes/academicas/financial-literacy-lusardi.md) — representa investigação acadêmica sobre alfabetização financeira e escolhas do consumidor.
+- [A02 — GFLEC Working Paper Series](../fontes/academicas/gflec-working-paper-series.md) — representa produção acadêmica voltada a alfabetização financeira, planejamento e resultados econômicos.
+- [A03 — How Ordinary Consumers Make Complex Economic Decisions](../fontes/academicas/complex-economic-decisions.md) — aborda decisões econômicas complexas e preparação para aposentadoria.
+- [A04 — The Influence of Cognitive Biases on Personal Financial Decisions](../fontes/academicas/cognitive-biases-personal-financial-decisions.md) — aborda vieses cognitivos em decisões financeiras pessoais.
+- [A05 — The Economic Importance of Financial Literacy](../fontes/academicas/economic-importance-financial-literacy.md) — fornece fundamentação teórica e evidências sobre a importância econômica da alfabetização financeira.
+- [A06 — Financial Literacy and Economic Outcomes](../fontes/academicas/financial-literacy-economic-outcomes.md) — relaciona alfabetização financeira a resultados econômicos e implicações de política.
+- [A07 — Financial Literacy — Oxford University Press](../fontes/academicas/financial-literacy-oup.md) — oferece fundamentação acadêmica sobre alfabetização financeira.
+- [I01 — Caderno de Cidadania Financeira](../fontes/institucionais/banco-central-educacao-financeira.md) — representa a perspectiva institucional brasileira.
+- [INT01 — O Ecossistema da Gestão Financeira Pessoal](../fontes/internas/ecossistema-gestao-financeira-pessoal.md) — integra teoricamente os conteúdos selecionados no projeto.
+- [INT02 — O Impacto Crítico da Educação Financeira, Organização de Recursos e Vieses Comportamentais](../fontes/internas/impacto-educacao-financeira-vieses.md) — realiza uma síntese interna sobre educação, organização e comportamento.
 
-Essa diferença de finalidade não constitui, por si só, contradição.
+A diferença de finalidade não constitui, por si só, contradição. Uma fonte acadêmica e uma orientação prática podem tratar do mesmo assunto respondendo a perguntas diferentes.
 
 ## 2. Conhecimento financeiro e aplicação prática
 
-A literatura de alfabetização financeira enfatiza conhecimento, competências e resultados econômicos, especialmente nas fontes A01, A03, A05, A06 e A07. [A01](../fontes/academicas/financial-literacy-lusardi.md) · [A03](../fontes/academicas/complex-economic-decisions.md) · [A05](../fontes/academicas/economic-importance-financial-literacy.md) · [A06](../fontes/academicas/financial-literacy-economic-outcomes.md) · [A07](../fontes/academicas/financial-literacy-oup.md)
+A literatura acadêmica prioriza conceitos, relações e evidências, enquanto materiais aplicados apresentam orientações de uso cotidiano.
 
-Os materiais P13, P14 e P15 acrescentam orientação prática sobre educação e organização financeira. [P13](../fontes/artigos-e-portais/educacao-financeira-alelo.md) · [P14](../fontes/artigos-e-portais/financas-pessoais-fia.md) · [P15](../fontes/artigos-e-portais/organizacao-financeira-sicredi.md)
+- [A01 — Financial Literacy: An Essential Tool for Informed Consumer Choice?](../fontes/academicas/financial-literacy-lusardi.md) — contribui para discutir alfabetização financeira como base para escolhas informadas.
+- [A03 — How Ordinary Consumers Make Complex Economic Decisions](../fontes/academicas/complex-economic-decisions.md) — acrescenta o problema das decisões econômicas complexas e da preparação para aposentadoria.
+- [A05 — The Economic Importance of Financial Literacy](../fontes/academicas/economic-importance-financial-literacy.md) — sustenta a dimensão econômica do conhecimento financeiro.
+- [A06 — Financial Literacy and Economic Outcomes](../fontes/academicas/financial-literacy-economic-outcomes.md) — acrescenta a discussão sobre resultados econômicos e política.
+- [A07 — Financial Literacy — Oxford University Press](../fontes/academicas/financial-literacy-oup.md) — complementa a fundamentação do conceito.
+- [P13 — Educação financeira pessoal: o que é e como começar](../fontes/artigos-e-portais/educacao-financeira-alelo.md) — oferece orientação introdutória e prática.
+- [P14 — Organize Suas Finanças Pessoais](../fontes/artigos-e-portais/financas-pessoais-fia.md) — apresenta práticas de organização financeira.
+- [P15 — Organização financeira](../fontes/artigos-e-portais/organizacao-financeira-sicredi.md) — apresenta orientações práticas para organização das contas.
 
-Assim, compreender conceitos financeiros e conseguir aplicá-los em situações reais devem ser tratados como dimensões relacionadas, mas não idênticas.
+A diferença relevante é de finalidade e profundidade. Não é correto tratar uma orientação prática como se tivesse o mesmo desenho metodológico de um estudo acadêmico.
 
 ## 3. Planejamento versus comportamento
 
-Fontes voltadas a alfabetização, planejamento e resultados de longo prazo, como A02, A03, A05 e A06, podem enfatizar conhecimento, preparação e objetivos futuros. [A02](../fontes/academicas/gflec-working-paper-series.md) · [A03](../fontes/academicas/complex-economic-decisions.md) · [A05](../fontes/academicas/economic-importance-financial-literacy.md) · [A06](../fontes/academicas/financial-literacy-economic-outcomes.md)
+O eixo de planejamento é representado principalmente por fontes que discutem alfabetização, preparação e horizonte futuro; o eixo comportamental acrescenta mecanismos de decisão.
 
-As referências comportamentais A04 e P01–P08 acrescentam fatores relacionados à tomada de decisão, vieses e contexto. [A04](../fontes/academicas/cognitive-biases-personal-financial-decisions.md) · [P01–P08](./rastreabilidade-fontes.md)
+- [A02 — GFLEC Working Paper Series](../fontes/academicas/gflec-working-paper-series.md) — contribui para o eixo de alfabetização financeira e planejamento.
+- [A03 — How Ordinary Consumers Make Complex Economic Decisions](../fontes/academicas/complex-economic-decisions.md) — contribui para o eixo de decisões complexas e preparação para o futuro.
+- [A04 — The Influence of Cognitive Biases on Personal Financial Decisions](../fontes/academicas/cognitive-biases-personal-financial-decisions.md) — desloca a análise para a influência de vieses cognitivos sobre decisões financeiras.
+- [P01 — 5 Behavioral Biases That Can Impact Your Investing Decisions](../fontes/artigos-e-portais/behavioral-biases-william-mary.md) — focaliza vieses em decisões de investimento.
+- [P02 — 7 Cognitive Biases That Quietly Sabotage Your Financial Life](../fontes/artigos-e-portais/cognitive-biases-fifr.md) — aborda vieses cognitivos na vida financeira.
+- [P03 — Investing biases](../fontes/artigos-e-portais/investing-biases-fidelity.md) — concentra-se no contexto de investimentos.
+- [P04 — How to Combat Behavioral Biases in Your Personal Finance](../fontes/artigos-e-portais/financial-planning-johndrow.md) — acrescenta estratégias práticas para lidar com vieses.
+- [P05 — The Psychology Behind Financial Choices](../fontes/artigos-e-portais/psychology-financial-choices-hsa.md) — enfatiza a dimensão psicológica das escolhas financeiras.
+- [P06 — The Psychology of Money](../fontes/artigos-e-portais/psychology-of-money-harvard-fcu.md) — aborda como vieses podem influenciar decisões financeiras.
 
-Essas perspectivas são melhor compreendidas como complementares do que como posições incompatíveis.
+Essas perspectivas são complementares. Uma fonte que enfatiza planejamento não está necessariamente rejeitando explicações comportamentais.
 
-## 4. Vieses e contexto
+## 4. Vieses específicos: aversão à perda e Viés do Presente
 
-O projeto aborda conceitos como Viés do Presente, aversão à perda e outros vieses. A04 trata de vieses cognitivos em decisões financeiras; P01–P06 tratam de vieses comportamentais em decisões e finanças; P07 trata de aversão à perda; P08 aborda especificamente Viés do Presente. [A04](../fontes/academicas/cognitive-biases-personal-financial-decisions.md) · [P01](../fontes/artigos-e-portais/behavioral-biases-william-mary.md) · [P02](../fontes/artigos-e-portais/cognitive-biases-fifr.md) · [P03](../fontes/artigos-e-portais/investing-biases-fidelity.md) · [P04](../fontes/artigos-e-portais/financial-planning-johndrow.md) · [P05](../fontes/artigos-e-portais/psychology-financial-choices-hsa.md) · [P06](../fontes/artigos-e-portais/psychology-of-money-harvard-fcu.md) · [P07](../fontes/artigos-e-portais/loss-aversion-decision-lab.md) · [P08](../fontes/artigos-e-portais/present-bias-fbfs.md)
+As fontes comportamentais não devem ser agrupadas como se fossem equivalentes. Algumas tratam de vieses de maneira geral; outras focalizam mecanismos específicos.
 
-As fontes não necessariamente abordam todos esses conceitos nem atribuem a eles o mesmo peso. A ausência de um viés em uma fonte não foi interpretada como rejeição desse viés.
+- [P07 — Loss aversion](../fontes/artigos-e-portais/loss-aversion-decision-lab.md) — é utilizada especificamente para o conceito de aversão à perda.
+- [P08 — Behavioral Biases in Finances: How to Avoid Present Bias](../fontes/artigos-e-portais/present-bias-fbfs.md) — é utilizada especificamente para o Viés do Presente em finanças.
+
+A diferença de foco é importante: aversão à perda e Viés do Presente são conceitos distintos e não devem ser tratados como sinônimos.
 
 ## 5. Nudge e arquitetura de escolhas
 
-As referências P09–P12 tratam de Nudge, economia comportamental e arquitetura de escolhas. [P09](../fontes/artigos-e-portais/nudge-theory-michigan.md) · [P10](../fontes/artigos-e-portais/nudge-theory-decision-lab.md) · [P11](../fontes/artigos-e-portais/nudge-theory-ebsco.md) · [P12](../fontes/artigos-e-portais/nudging-voltage-control.md)
+As quatro referências a seguir sustentam o eixo de Nudge, mas têm origens e finalidades diferentes:
 
-A arquitetura de escolhas pode ser utilizada para analisar como o ambiente decisório influencia escolhas. A eficácia de uma intervenção específica depende do contexto e da evidência correspondente. Portanto, não foi generalizada uma conclusão sobre uma intervenção para todas as situações financeiras.
+- [P09 — Behavioral Economics: Nudge Theory](../fontes/artigos-e-portais/nudge-theory-michigan.md) — apresenta Nudge no contexto de economia comportamental.
+- [P10 — Nudge Theory](../fontes/artigos-e-portais/nudge-theory-decision-lab.md) — apresenta o conceito e sua relação com arquitetura de escolhas.
+- [P11 — Nudge theory | Economics | Research Starters](../fontes/artigos-e-portais/nudge-theory-ebsco.md) — fornece uma referência de caráter explicativo sobre o conceito.
+- [P12 — Nudging: How Behavioral Economics Can Transform Practices](../fontes/artigos-e-portais/nudging-voltage-control.md) — discute aplicações práticas de nudging.
 
-## 6. Categorias utilizadas
+Essas fontes permitem comparar apresentação conceitual e aplicação, mas não sustentam, isoladamente, uma conclusão universal sobre a eficácia de qualquer intervenção.
 
-- **Divergência explícita:** posições incompatíveis sobre o mesmo ponto.
+## 6. Categorias utilizadas para comparar as fontes
+
+- **Divergência explícita:** posições incompatíveis sobre o mesmo ponto, demonstradas nas fontes.
 - **Diferença de ênfase:** mesmo tema com prioridades diferentes.
-- **Diferença metodológica:** formas distintas de investigar o fenômeno.
-- **Complementaridade:** perspectivas que tratam dimensões diferentes.
+- **Diferença metodológica:** formas distintas de investigar ou apresentar o fenômeno.
+- **Complementaridade:** perspectivas que tratam dimensões diferentes do problema.
 - **Lacuna:** aspecto não suficientemente abordado por uma fonte.
 
 ## Conclusão
 
 A comparação realizada no projeto indica predominância de diferenças de foco e complementaridade, e não de contradições diretas. Uma divergência explícita deve ser declarada somente quando as posições incompatíveis estiverem demonstradas nas fontes correspondentes.
 
-A matriz [`rastreabilidade-fontes.md`](./rastreabilidade-fontes.md) reúne as 25 referências e seus temas de uso na análise.
+A matriz [`rastreabilidade-fontes.md`](./rastreabilidade-fontes.md) permanece como índice geral, mas as referências relevantes agora estão identificadas individualmente e contextualizadas neste documento.
 
 ---
 
