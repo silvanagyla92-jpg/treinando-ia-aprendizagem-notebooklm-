@@ -24,11 +24,15 @@ As fontes acadêmicas constituem a principal camada de fundamentação científi
 ### 2.1 Financial Literacy: An Essential Tool for Informed Consumer Choice?
 
 **Autora:** Annamaria Lusardi  
+**Ano:** 2008  
 **Tipo:** estudo acadêmico / working paper  
-**Identificador registrado:** NBER Working Paper 14084  
+**Identificador:** NBER Working Paper 14084  
+**DOI:** 10.3386/w14084  
 **Tema:** alfabetização financeira e escolhas econômicas informadas.
 
 **Arquivo:** [`financial-literacy-lusardi.md`](./financial-literacy-lusardi.md)
+
+**Fonte bibliográfica verificada:** [NBER Working Paper 14084](https://www.nber.org/papers/w14084)
 
 ### 2.2 GFLEC Working Paper Series
 
@@ -51,41 +55,57 @@ As fontes acadêmicas constituem a principal camada de fundamentação científi
 
 **Arquivo:** [`complex-economic-decisions.md`](./complex-economic-decisions.md)
 
-### 2.4 The Influence of Cognitive Biases on Personal Financial Decisions: Analyzing Spending, Saving, and Investment Behaviors
+**Fonte bibliográfica verificada:** [NBER Working Paper 15350](https://www.nber.org/papers/w15350)
+
+### 2.4 The Influence of Cognitive Biases on Personal Financial Decisions: Analyzing Spending, Saving, and Investment Behaviors in Behavioral Finance
 
 **Autora:** Dra. Lidia Durom  
-**Instituição indicada:** St. Xavier's College for Women, Aluva, Kerala, Índia  
-**Tipo:** artigo acadêmico / PDF  
+**Instituição:** St. Xavier's College for Women (Autonomous), Aluva, Kerala, Índia  
+**Tipo:** artigo acadêmico  
+**DOI:** 10.51244/IJRSI.2026.1307000008  
 **Tema:** influência de vieses cognitivos sobre gastos, poupança e investimentos.
 
-> O endereço específico da publicação não foi confirmado com segurança e, por isso, não é inventado neste inventário.
-
 **Arquivo:** [`cognitive-biases-personal-financial-decisions.md`](./cognitive-biases-personal-financial-decisions.md)
+
+**Fonte bibliográfica verificada:** [IJRSI — artigo e DOI](https://rsisinternational.org/journals/ijrsi/article.php?id=13658)
 
 ### 2.5 The Economic Importance of Financial Literacy: Theory and Evidence
 
 **Autores:** Annamaria Lusardi e Olivia S. Mitchell  
+**Publicação:** *Journal of Economic Literature*, vol. 52, no. 1, 2014, p. 5–44  
 **Tipo:** artigo acadêmico de revisão  
+**DOI:** 10.1257/jel.52.1.5  
 **Tema:** importância econômica da alfabetização financeira e evidências sobre seus efeitos nas decisões econômicas.
 
 **Arquivo:** [`economic-importance-financial-literacy.md`](./economic-importance-financial-literacy.md)
 
+**Fonte bibliográfica verificada:** [American Economic Association — Journal of Economic Literature](https://www.aeaweb.org/articles?id=10.1257/jel.52.1.5)
+
 ### 2.6 Financial Literacy and Economic Outcomes: Evidence and Policy Implications
 
-**Autores:** Annamaria Lusardi e Olivia S. Mitchell  
-**Tipo:** publicação acadêmica / revisão de evidências  
-**Tema:** relação entre alfabetização financeira, resultados econômicos e implicações para políticas públicas.
+**Autores:** Olivia S. Mitchell e Annamaria Lusardi  
+**Publicação:** *The Journal of Retirement*, vol. 3, no. 1, 2015, p. 107–114  
+**Tipo:** artigo acadêmico de revisão  
+**DOI:** 10.3905/jor.2015.3.1.107  
+**Tema:** relação entre alfabetização financeira, decisões financeiras, resultados econômicos e implicações de políticas públicas.
 
 **Arquivo:** [`financial-literacy-economic-outcomes.md`](./financial-literacy-economic-outcomes.md)
 
-### 2.7 Financial Literacy — Oxford University Press
+**Fonte bibliográfica verificada:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/28553655/) · [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5445906/)
 
-**Autores:** Olivia S. Mitchell e Annamaria Lusardi  
-**Instituição:** Oxford University Press  
-**Tipo:** referência acadêmica / material de pesquisa  
-**Tema:** alfabetização financeira e seus fundamentos na literatura econômica.
+### 2.7 Financial Literacy: Implications for Retirement Security and the Financial Marketplace
+
+**Editores:** Olivia S. Mitchell e Annamaria Lusardi  
+**Editora:** Oxford University Press  
+**Ano:** 2011  
+**Tipo:** livro acadêmico organizado / coletânea de capítulos  
+**ISBN:** 9780199696819  
+**DOI do livro:** 10.1093/acprof:oso/9780199696819.001.0001  
+**Tema:** alfabetização financeira, tomada de decisão e segurança financeira na aposentadoria.
 
 **Arquivo:** [`financial-literacy-oup.md`](./financial-literacy-oup.md)
+
+**Fonte bibliográfica verificada:** [Oxford Academic](https://academic.oup.com/book/37034) · [Pension Research Council](https://pensionresearchcouncil.wharton.upenn.edu/publications/books/financial-literacy-implications-for-retirement-security-and-the-financial-marketplace/)
 
 ---
 
@@ -170,6 +190,7 @@ fontes/academicas/
 - [`../../prompts/`](../../prompts/) — engenharia de prompts.
 - [`../../analises/`](../../analises/) — análises produzidas no projeto.
 - [`../../evidencias/`](../../evidencias/) — registros e evidências do processo.
+- [`../../video/`](../../video/) — síntese audiovisual da experiência.
 
 ---
 
