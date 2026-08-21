@@ -28,7 +28,7 @@ Este projeto demonstra, de forma prática, como uma IA pode ser utilizada em um 
 | Prompts documentados | **5** |
 | Perguntas estratégicas | **5** |
 | Documentos analíticos | **7** |
-| Evidências do processo | Registros e imagens preservados |
+| Evidências do processo | Registros, imagens e vídeo preservados |
 | Glossário | Conceitos financeiros, comportamentais e de IA |
 
 As competências profissionais demonstradas estão detalhadas na seção 2.
@@ -65,6 +65,10 @@ PROJETO
 |   +-- Verificação
 |   +-- Rastreabilidade
 |   +-- Síntese
+|
++-- VIDEO
+|   |
+|   +-- Síntese audiovisual da experiência
 |
 +-- GLOSSARIO
     |
@@ -136,6 +140,7 @@ O processo foi organizado em uma sequência de aprendizagem ativa:
 8. Verificação de afirmações e identificação de limitações.
 9. Síntese dos principais aprendizados.
 10. Documentação do processo e dos resultados.
+11. Comunicação audiovisual da experiência por meio do vídeo do projeto.
 
 As informações produzidas pela IA não são tratadas automaticamente como fatos. A análise considera a fonte, o contexto, o escopo da afirmação e a necessidade de verificação.
 
@@ -158,6 +163,19 @@ A organização completa está em [`fontes/`](./fontes/).
 As fontes foram selecionadas considerando relevância temática, contribuição para os objetivos do projeto, autoridade da publicação e capacidade de fundamentar os conceitos estudados.
 
 As **2 fontes internas** são documentos estruturantes produzidos durante a investigação. Elas não devem ser apresentadas como publicações externas independentes.
+
+### 4.1 Verificação bibliográfica
+
+As referências acadêmicas e institucionais foram confrontadas com registros bibliográficos e páginas das próprias instituições/publicações quando disponíveis. Entre as verificações realizadas estão NBER, PubMed/PMC, Oxford Academic e Banco Central do Brasil.
+
+- [`Financial Literacy: An Essential Tool for Informed Consumer Choice?`](./fontes/academicas/financial-literacy-lusardi.md) — NBER Working Paper 14084, DOI 10.3386/w14084.
+- [`How Ordinary Consumers Make Complex Economic Decisions`](./fontes/academicas/complex-economic-decisions.md) — NBER Working Paper 15350.
+- [`The Economic Importance of Financial Literacy: Theory and Evidence`](./fontes/academicas/economic-importance-financial-literacy.md) — Journal of Economic Literature, 2014, DOI 10.1257/jel.52.1.5.
+- [`Financial Literacy and Economic Outcomes: Evidence and Policy Implications`](./fontes/academicas/financial-literacy-economic-outcomes.md) — *The Journal of Retirement*, 2015, DOI 10.3905/jor.2015.3.1.107.
+- [`Financial Literacy: Implications for Retirement Security and the Financial Marketplace`](./fontes/academicas/financial-literacy-oup.md) — Oxford University Press, 2011, DOI 10.1093/acprof:oso/9780199696819.001.0001.
+- [`Caderno de Educação Financeira`](./fontes/institucionais/banco-central-educacao-financeira.md) — Banco Central do Brasil.
+
+A verificação bibliográfica não significa que todas as fontes possuam o mesmo nível de evidência. O projeto mantém separadas as categorias acadêmica, institucional, especializada/editorial e interna.
 
 ---
 
@@ -205,7 +223,7 @@ Os prompts completos e documentados estão em [`prompts/`](./prompts/).
 
 A sequência permite passar da exploração inicial para aprofundamento, comparação, análise crítica e síntese.
 
-> **Nota metodológica:** os prompts documentados preservam o conteúdo utilizado no processo. Quando houve refinamento, ele é tratado como parte da documentação da experiência e não como evidência de uma resposta automaticamente correta.
+> **Nota metodológica:** os arquivos de prompts preservam o registro do processo e distinguem, quando aplicável, o texto original utilizado em uma etapa das versões posteriormente refinadas. Refinamento não deve ser confundido com o prompt original.
 
 ---
 
@@ -254,7 +272,20 @@ Esses registros documentam o processo de curadoria, questionamento, interação 
 
 ---
 
-## 9. Conclusão e aprendizados
+## 9. Vídeo do projeto
+
+A experiência também possui uma **síntese audiovisual**, apresentada no vídeo **A Mente e as Finanças**.
+
+O arquivo está disponível em [`video/`](./video/):
+
+- [`A_Mente_e_as_Finanças (1).mp4`](./video/A_Mente_e_as_Finanças%20%281%29.mp4) — versão otimizada publicada no GitHub, com aproximadamente **23,86 MB**.
+- [`README da pasta video`](./video/README.md) — descrição, objetivo, relação metodológica e navegação do material audiovisual.
+
+O vídeo complementa, e não substitui, as fontes, evidências e análises documentadas no repositório.
+
+---
+
+## 10. Conclusão e aprendizados
 
 A experiência demonstrou que o NotebookLM pode funcionar como apoio à aprendizagem ativa quando utilizado com fontes selecionadas, perguntas bem definidas e supervisão humana.
 
@@ -271,7 +302,7 @@ Profissionalmente, o projeto evidencia a aplicação prática de critérios de a
 
 ---
 
-## 10. Glossário
+## 11. Glossário
 
 O projeto possui um glossário próprio para consulta rápida dos principais conceitos de **Gestão Financeira Pessoal, educação financeira, economia comportamental, tomada de decisão e Inteligência Artificial**.
 
@@ -283,7 +314,7 @@ As definições foram organizadas para apoiar a compreensão e a documentação 
 
 ---
 
-## 11. Contato
+## 12. Contato
 
 **Autora:** Nágyla Silva  
 **Projeto:** Gestão Financeira Pessoal com NotebookLM  
