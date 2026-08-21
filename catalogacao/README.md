@@ -1,24 +1,22 @@
-# Catalogação das fontes do caderno
+# Catalogação das fontes e perguntas do caderno
 
-Esta pasta centraliza a etapa de identificação e conferência das fontes efetivamente utilizadas no caderno do NotebookLM.
+Esta pasta centraliza a documentação de catalogação das perguntas estratégicas e sua correlação com o inventário de fontes do projeto.
 
-O inventário oficial do projeto contém **25 fontes**. Esta etapa tem como objetivo identificar quais **5 fontes** foram efetivamente utilizadas no caderno e confirmar sua relação com esse inventário.
+O inventário oficial contém **25 fontes**. As cinco perguntas estratégicas estão documentadas e relacionadas tematicamente às fontes que melhor sustentam cada eixo da investigação.
 
 ## Documentação
 
-- [`perguntas-fontes-caderno.md`](./perguntas-fontes-caderno.md) - perguntas, critérios e campos necessários para concluir a catalogação.
+- [`perguntas-estrategicas-fontes.md`](./perguntas-estrategicas-fontes.md) - cinco perguntas estratégicas e correlação temática com as fontes.
 
-## Resultado esperado
+## Estrutura
 
-Ao finalizar a conferência, deverá ser possível informar:
+```text
+catalogacao/
+├── README.md
+└── perguntas-estrategicas-fontes.md
+```
 
-1. se as 5 fontes estão incluídas nas 25 fontes oficiais;
-2. quais são as 5 fontes, individualmente;
-3. a categoria de cada fonte;
-4. qual evidência comprova sua utilização;
-5. a distribuição das 5 fontes por categoria.
-
-Nenhuma distribuição será presumida antes da confirmação documental.
+A correlação registrada nesta pasta é temática e analítica. Ela não deve ser interpretada isoladamente como prova histórica de quais fontes foram carregadas originalmente no NotebookLM.
 
 ---
 
