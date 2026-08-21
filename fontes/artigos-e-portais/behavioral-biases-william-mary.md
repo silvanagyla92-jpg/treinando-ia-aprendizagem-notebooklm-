@@ -33,11 +33,11 @@ Complementa Fidelity, Decision Lab e Fifr, que abordam vieses específicos, e os
 
 ## Referência
 
-urlWilliam & Mary — 5 Behavioral Biases That Can Impact Your Investing Decisionshttps://online.mason.wm.edu/blog/behavioral-biases-that-can-impact-investing-decisions
+[William & Mary — 5 Behavioral Biases That Can Impact Your Investing Decisions](https://online.mason.wm.edu/blog/behavioral-biases-that-can-impact-investing-decisions)
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
+**DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
 **Autora:** Nágyla Silva  
 
 **Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*  
