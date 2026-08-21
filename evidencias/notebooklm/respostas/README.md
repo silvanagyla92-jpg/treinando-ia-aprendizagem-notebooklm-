@@ -41,7 +41,7 @@ A resposta está documentada no arquivo analítico selecionado e relacionada ao 
 
 ### Relação com o processo
 
-A resposta é tratada como resultado documentado da investigação. O prompt específico que originou esta resposta não está identificado de forma independente nos cinco arquivos atuais de `prompts/`; por isso, essa relação não é apresentada como uma correspondência comprovada.
+A Resposta 02 está relacionada ao **Prompt 03 — Comparação entre fontes**. O Prompt 03 orienta a comparação das fontes, a identificação de pontos recorrentes e complementares e a análise de diferenças e divergências. Portanto, existe correspondência documentada entre o prompt e esta resposta.
 
 ## Critério de análise
 
@@ -65,6 +65,7 @@ Os registros visuais disponíveis em [`../imagens/`](../imagens/) complementam a
 
 ---
 
-**DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
-**Autora:** Nágyla Silva  
-**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*
+**Projeto:** Gestão Financeira Pessoal com NotebookLM  
+**Autora:** Nágyla Silva
+
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em engenharia de prompts, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
