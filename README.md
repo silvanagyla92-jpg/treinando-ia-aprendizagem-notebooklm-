@@ -146,33 +146,29 @@ As **2 fontes internas** são documentos estruturantes produzidos durante a inve
 
 ## 5. Perguntas estratégicas
 
-O projeto registra 12 perguntas no planejamento da investigação. Destas, 5 estão diretamente vinculadas aos cinco prompts documentados e possuem registro correspondente na pasta de evidências. As demais são questões complementares de análise e integração registradas no planejamento do projeto. Elas não são apresentadas como sete evidências adicionais independentes do NotebookLM.
+O projeto utiliza **5 perguntas estratégicas**, cada uma vinculada diretamente a um dos **5 prompts documentados** e aos respectivos registros na pasta de evidências. A relação é mantida de forma individual para preservar a rastreabilidade entre pergunta, prompt, resposta e análise.
 
-### Educação financeira e comportamento
+### Prompt 01 - Exploração e conceituação
 
-1. Como os vieses cognitivos e a psicologia afetam nossas decisões econômicas?
-2. Qual é a distinção fundamental entre educação financeira e organização financeira pessoal?
-3. De que forma o Viés do Presente explica a dificuldade em poupar para objetivos de longo prazo?
+**Pergunta:** Como os vieses cognitivos e a psicologia afetam nossas decisões econômicas?
 
-### Economia comportamental
+### Prompt 02 - Aprofundamento
 
-4. Qual é a diferença entre o modelo do Homo Economicus e o comportamento real descrito pela economia comportamental?
-5. O que define um Nudge e por que ele deve ser fácil de evitar?
-6. Qual é o papel do Arquiteto de Escolhas na estruturação do ambiente de decisão?
+**Pergunta:** De que forma o Viés do Presente explica a dificuldade em poupar para objetivos de longo prazo?
 
-### Organização, investimentos e planejamento
+### Prompt 03 - Comparação entre fontes
 
-7. Quais são os três componentes fundamentais de qualquer investimento e por que não estão simultaneamente em níveis máximos?
-8. Quais são os cinco passos necessários para transformar um sonho em um projeto financeiro concreto?
+**Pergunta:** Quais são os principais pontos de convergência entre as fontes sobre a importância da educação financeira para a tomada de decisões econômicas?
 
-### Análise crítica e integração
+### Prompt 04 - Análise crítica
 
-9. Quais são os principais pontos de convergência entre as fontes sobre educação financeira?
-10. Quais diferenças ou divergências existem quanto à influência do conhecimento, comportamento e vieses?
-11. Quais afirmações estão diretamente fundamentadas nas fontes e quais exigem cautela ou verificação?
-12. Como conhecimento, organização, comportamento e tomada de decisão podem ser integrados?
+**Pergunta:** Quais informações produzidas pela IA estão diretamente fundamentadas nas fontes utilizadas e quais representam interpretações ou necessitam de verificação adicional?
 
-Os cinco registros de perguntas vinculados aos prompts estão em [`evidencias/notebooklm/perguntas/`](./evidencias/notebooklm/perguntas/).
+### Prompt 05 - Síntese
+
+**Pergunta:** Como conhecimento financeiro, organização dos recursos, comportamento e hábitos influenciam conjuntamente as escolhas que as pessoas fazem em relação ao dinheiro?
+
+Os cinco registros estão em [`evidencias/notebooklm/perguntas/`](./evidencias/notebooklm/perguntas/).
 
 ---
 
@@ -216,7 +212,7 @@ Pergunta:
 
 Resultado: [`analises/resposta-02-diferencas-divergencias.md`](./analises/resposta-02-diferencas-divergencias.md)
 
-> **Nota de rastreabilidade:** o Prompt 03 documentado solicita explicitamente uma síntese de consensos e convergências. A resposta sobre diferenças e divergências é um resultado documentado do processo, mas o prompt específico que originou essa resposta não está identificado de forma independente nos cinco arquivos atuais. Não foi criado um prompt fictício para preencher essa lacuna.
+A **Resposta 02 está relacionada ao Prompt 03 - Comparação entre fontes**. O Prompt 03 orienta a comparação das fontes, a identificação de pontos recorrentes e complementares e a preparação da análise de diferenças e divergências. A Resposta 02 documenta esse desdobramento da comparação, sem criar um prompt adicional ou fictício.
 
 A análise, a verificação e a fundamentação das respostas estão reunidas em [`analises/`](./analises/).
 
