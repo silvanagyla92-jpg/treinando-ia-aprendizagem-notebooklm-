@@ -26,6 +26,7 @@ Este projeto demonstra, de forma prática, como uma IA pode ser utilizada em um 
 | Ferramenta | NotebookLM |
 | Fontes organizadas | **25** |
 | Prompts documentados | **5** |
+| Perguntas estratégicas | **5** |
 | Documentos analíticos | **7** |
 | Evidências do processo | Registros e imagens preservados |
 | Glossário | Conceitos financeiros, comportamentais e de IA |
@@ -34,24 +35,37 @@ As competências profissionais demonstradas estão detalhadas na seção 2.
 
 ### 1.4 Visão rápida do projeto
 
-```text
 PROJETO
-   |
-   +-- FONTES
-   |
-   +-- PROMPTS
-   |
-   +-- EVIDÊNCIAS
-   |
-   +-- NOTEBOOKLM
-          |
-          +-- ANÁLISES
-                  |
-                  +-- SÍNTESE
-                        +-- GLOSSÁRIO
-```
+|
++-- FONTES
+|   |
+|   +-- Curadoria e fundamentação
+|
++-- PROMPTS
+|   |
+|   +-- Perguntas e instruções
+|
++-- EVIDÊNCIAS
+|   |
+|   +-- Registros do processo
+|
++-- NOTEBOOKLM
+|   |
+|   +-- Exploração e interação
+|
++-- ANÁLISES
+|   |
+|   +-- Convergências
+|   +-- Divergências
+|   +-- Verificação
+|   +-- Rastreabilidade
+|   +-- Síntese
+|
++-- GLOSSÁRIO
+    |
+    +-- Conceitos e definições
 
-A arquitetura mostra a separação entre insumos, processo, evidências e resultados analíticos, facilitando a compreensão do projeto por quem acessa o repositório pela primeira vez.
+A arquitetura mostra a separação entre insumos, processo, evidências e documentação analítica, facilitando a compreensão do projeto por quem acessa o repositório pela primeira vez.
 
 ---
 
@@ -63,13 +77,13 @@ A arquitetura mostra a separação entre insumos, processo, evidências e result
 - **Engenharia de prompts:** criação, teste e refinamento de instruções para a IA.
 - **Avaliação de respostas de IA:** análise de clareza, relevância, coerência, completude e fundamentação.
 - **Análise crítica:** identificação de limitações, generalizações e afirmações que exigem verificação.
-- **Rastreabilidade:** documentação de fontes, perguntas, prompts, respostas, análises e resultados.
+- **Rastreabilidade:** documentação de fontes, perguntas, prompts, análises e resultados.
 - **Letramento em IA:** compreensão das possibilidades e limitações do NotebookLM.
 
 ### Competências transferíveis para atuação profissional
 
 - **Quality Assurance:** definição de critérios, identificação de inconsistências e verificação de conteúdo.
-- **AI Response Evaluation:** comparação de respostas, análise de qualidade e identificação de informações que exigem cautela.
+- **AI Response Evaluation:** análise da qualidade das respostas e identificação de informações que exigem cautela.
 - **AI Training / Data Annotation:** organização de informações, classificação conceitual e documentação estruturada.
 - **Pesquisa e investigação:** elaboração de perguntas e exploração de diferentes perspectivas.
 - **Síntese:** integração de informações provenientes de diferentes fontes.
@@ -78,23 +92,21 @@ A arquitetura mostra a separação entre insumos, processo, evidências e result
 
 ### O que este projeto evidencia profissionalmente
 
-```text
 Curadoria
-   |
-   +-- Prompt Engineering
-   |
-   +-- Interação com IA
-   |
-   +-- Avaliação de respostas
-   |
-   +-- Verificação e análise crítica
-   |
-   +-- Rastreabilidade
-   |
-   +-- Documentação técnica
-```
+|
++-- Prompt Engineering
+|
++-- Interação com IA
+|
++-- Avaliação de respostas
+|
++-- Verificação e análise crítica
+|
++-- Rastreabilidade
+|
++-- Documentação técnica
 
-O projeto não pretende demonstrar apenas conhecimento sobre Gestão Financeira Pessoal. Ele demonstra a capacidade de **estruturar uma investigação com IA, avaliar seus resultados e transformar o processo em documentação reutilizável**.
+O projeto não pretende demonstrar apenas conhecimento sobre Gestão Financeira Pessoal. Ele demonstra a capacidade de **estruturar uma investigação com IA, avaliar informações produzidas durante o processo e transformar esse processo em documentação reutilizável**.
 
 ---
 
@@ -111,13 +123,13 @@ O processo foi organizado em uma sequência de aprendizagem ativa:
 3. Formulação das perguntas estratégicas.
 4. Elaboração e refinamento dos prompts.
 5. Interação com o NotebookLM.
-6. Seleção e análise das respostas.
+6. Registro e análise do material produzido.
 7. Comparação entre fontes.
 8. Verificação de afirmações e identificação de limitações.
 9. Síntese dos principais aprendizados.
 10. Documentação do processo e dos resultados.
 
-A resposta produzida por IA não é tratada automaticamente como fato. A análise considera a fonte, o contexto, o escopo da afirmação e a necessidade de verificação.
+As informações produzidas pela IA não são tratadas automaticamente como fatos. A análise considera a fonte, o contexto, o escopo da afirmação e a necessidade de verificação.
 
 ---
 
@@ -143,7 +155,7 @@ As **2 fontes internas** são documentos estruturantes produzidos durante a inve
 
 ## 5. Perguntas estratégicas
 
-O projeto utiliza **5 perguntas estratégicas**, cada uma vinculada diretamente a um dos **5 prompts documentados** e aos respectivos registros na pasta de evidências. A relação é mantida de forma individual para preservar a rastreabilidade entre pergunta, prompt, resposta e análise.
+O projeto utiliza **5 perguntas estratégicas**, cada uma vinculada diretamente a um dos **5 prompts documentados** e aos respectivos registros na pasta de evidências.
 
 ### Prompt 01 - Exploração e conceituação
 
@@ -183,80 +195,56 @@ Foram documentados **5 prompts**, organizados de acordo com a progressão da inv
 
 Os prompts completos e documentados estão em [`prompts/`](./prompts/).
 
-A sequência permite passar da exploração inicial para aprofundamento, comparação, controle crítico e síntese.
+A sequência permite passar da exploração inicial para aprofundamento, comparação, análise crítica e síntese.
 
-> **Nota metodológica:** os prompts documentados preservam o conteúdo utilizado no processo. Quando houve refinamento, ele é tratado como parte da documentação da experiência e não como evidência de uma resposta automática correta.
-
----
-
-## 7. Respostas selecionadas e análises
-
-Duas respostas foram selecionadas para documentação detalhada. Após a consolidação estrutural, elas estão documentadas oficialmente em `analises/`.
-
-### 7.1 Pontos de convergência
-
-Pergunta:
-
-> Quais são os principais pontos de convergência entre as fontes sobre a importância da educação financeira para a tomada de decisões econômicas?
-
-Resultado: [`analises/resposta-01-pontos-convergencia.md`](./analises/resposta-01-pontos-convergencia.md)
-
-### 7.2 Diferenças e divergências
-
-Pergunta:
-
-> Quais diferenças ou divergências relevantes existem entre as fontes quanto à influência do conhecimento financeiro, do comportamento e dos vieses cognitivos sobre as decisões econômicas?
-
-Resultado: [`analises/resposta-02-diferencas-divergencias.md`](./analises/resposta-02-diferencas-divergencias.md)
-
-A **Resposta 02 está relacionada ao Prompt 03 - Comparação entre fontes**. O Prompt 03 orienta a comparação das fontes, a identificação de pontos recorrentes e complementares e a preparação da análise de diferenças e divergências. A Resposta 02 documenta esse desdobramento da comparação, sem criar um prompt adicional ou fictício.
-
-A análise, a verificação e a fundamentação das respostas estão reunidas em [`analises/`](./analises/).
+> **Nota metodológica:** os prompts documentados preservam o conteúdo utilizado no processo. Quando houve refinamento, ele é tratado como parte da documentação da experiência e não como evidência de uma resposta automaticamente correta.
 
 ---
 
-## 8. Análises
+## 7. Análises do processo
 
-A pasta [`analises/`](./analises/) transforma os resultados e as fontes em análise crítica.
+As análises documentam a interpretação crítica do material produzido durante a investigação e sua relação com as fontes utilizadas.
 
-Ela contém os sete documentos analíticos:
+A documentação está organizada em [`analises/`](./analises/).
 
-- [`resposta-01-pontos-convergencia.md`](./analises/resposta-01-pontos-convergencia.md) - resposta selecionada sobre convergências.
-- [`resposta-02-diferencas-divergencias.md`](./analises/resposta-02-diferencas-divergencias.md) - resposta selecionada sobre diferenças e divergências.
-- [`convergencia-fontes.md`](./analises/convergencia-fontes.md) - temas e perspectivas compatíveis entre as fontes.
-- [`divergencias-fontes.md`](./analises/divergencias-fontes.md) - diferenças de foco, método, escopo e interpretação.
-- [`verificacao-afirmacoes.md`](./analises/verificacao-afirmacoes.md) - critérios para verificar a sustentação das afirmações.
+Entre os documentos estão:
+
+- [`resposta-01-pontos-convergencia.md`](./analises/resposta-01-pontos-convergencia.md) - registro analisado sobre pontos de convergência entre as fontes.
+- [`resposta-02-diferencas-divergencias.md`](./analises/resposta-02-diferencas-divergencias.md) - registro analisado sobre diferenças e divergências entre as fontes.
+- [`convergencia-fontes.md`](./analises/convergencia-fontes.md) - análise dos temas e perspectivas compatíveis entre as fontes.
+- [`divergencias-fontes.md`](./analises/divergencias-fontes.md) - análise das diferenças de foco, método, escopo e interpretação.
+- [`verificacao-afirmacoes.md`](./analises/verificacao-afirmacoes.md) - análise da sustentação das afirmações.
 - [`rastreabilidade-fontes.md`](./analises/rastreabilidade-fontes.md) - relação das 25 fontes com os documentos analíticos.
 - [`sintese-final.md`](./analises/sintese-final.md) - integração dos principais achados e limitações.
+
+Os dois primeiros documentos preservam registros específicos produzidos durante a investigação. Eles fazem parte da documentação analítica e não representam uma pasta ou categoria independente de resultados.
 
 A análise diferencia **fato, síntese, interpretação, inferência e informação não confirmada**.
 
 ---
 
-## 9. Evidências do processo
+## 8. Evidências do processo
 
-A pasta [`evidencias/`](./evidencias/) preserva os registros do processo realizado no NotebookLM.
+A pasta [`evidencias/`](./evidencias/) preserva os registros disponíveis do processo realizado no NotebookLM.
 
 Sua estrutura inclui:
 
-```text
 evidencias/
-    notebooklm/
-        fontes/
-        imagens/
-        perguntas/
-        prompts/
-        relatorios/
-        respostas/
-```
+└── notebooklm/
+    ├── fontes/
+    ├── imagens/
+    ├── perguntas/
+    ├── prompts/
+    ├── relatorios/
+    └── respostas/
 
-Esses registros documentam o processo de curadoria, questionamento, interação, obtenção de respostas e organização do material.
+Esses registros documentam o processo de curadoria, questionamento, interação e organização do material.
 
-**Evidência não significa validação automática:** uma resposta ou registro comprova que determinado material fez parte do processo, mas sua correção deve ser avaliada em relação às fontes.
+**Evidência não significa validação automática:** um registro comprova que determinado material fez parte do processo, mas sua correção deve ser avaliada em relação às fontes.
 
 ---
 
-## 10. Conclusão e aprendizados
+## 9. Conclusão e aprendizados
 
 A experiência demonstrou que o NotebookLM pode funcionar como apoio à aprendizagem ativa quando utilizado com fontes selecionadas, perguntas bem definidas e supervisão humana.
 
@@ -269,11 +257,11 @@ Os principais aprendizados foram:
 - comparar fontes ajuda a identificar convergências, diferenças e limitações;
 - a IA é mais útil quando atua como apoio à investigação, e não como substituta da avaliação humana.
 
-Profissionalmente, o projeto evidencia a aplicação prática de critérios de avaliação, organização de informação, análise crítica e documentação em atividades relacionadas a IA. As competências específicas estão detalhadas na seção 2.
+Profissionalmente, o projeto evidencia a aplicação prática de critérios de avaliação, organização de informação, análise crítica e documentação em atividades relacionadas à Inteligência Artificial. As competências específicas estão detalhadas na seção 2.
 
 ---
 
-## 11. Glossário
+## 10. Glossário
 
 O projeto possui um glossário próprio para consulta rápida dos principais conceitos de **Gestão Financeira Pessoal, educação financeira, economia comportamental, tomada de decisão e Inteligência Artificial**.
 
@@ -285,7 +273,7 @@ As definições foram organizadas para apoiar a compreensão e a documentação 
 
 ---
 
-## 12. Contato
+## 11. Contato
 
 **Autora:** Nágyla Silva  
 **Projeto:** Gestão Financeira Pessoal com NotebookLM  
