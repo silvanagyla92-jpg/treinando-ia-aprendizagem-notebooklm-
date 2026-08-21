@@ -2,7 +2,7 @@
 
 Esta pasta reúne os registros que documentam o **processo de aprendizagem realizado com o NotebookLM** no projeto **Gestão Financeira Pessoal**.
 
-O objetivo é permitir reconstruir o percurso do projeto: **fontes → perguntas → prompts → respostas → análise → verificação → síntese → resultados**.
+O objetivo é organizar o que está efetivamente preservado no repositório e permitir compreender o percurso do projeto: **fontes → perguntas → prompts → interações → análise → verificação → síntese → resultados**.
 
 ## Estrutura atual
 
@@ -18,47 +18,30 @@ evidencias/
     └── respostas/
 ```
 
-As subpastas dentro de `notebooklm/` são mantidas porque representam diferentes tipos de evidência do processo. Elas não são duplicações das pastas principais do projeto.
+As subpastas são mantidas porque representam diferentes tipos de registro do processo. Elas não são duplicações das pastas principais do projeto.
 
-## Conteúdo de cada seção
+## Conteúdo efetivamente disponível
 
-### `notebooklm/fontes/`
+| Subpasta | Situação atual | Função |
+|---|---|---|
+| `notebooklm/fontes/` | README de documentação | Explica o registro das fontes utilizadas no caderno. |
+| `notebooklm/perguntas/` | README de documentação | Explica as perguntas estratégicas utilizadas. |
+| `notebooklm/prompts/` | README de documentação | Explica o registro dos prompts utilizados. |
+| `notebooklm/respostas/` | README de documentação; as duas respostas selecionadas estão em `resultados/` | Documenta a relação entre perguntas, prompts e respostas. |
+| `notebooklm/relatorios/` | README de documentação | Registra a finalidade dos relatórios e uma inconsistência de contagem observada. |
+| `notebooklm/imagens/` | **Imagens de evidência disponíveis** | Preserva registros visuais do processo no NotebookLM. |
 
-Reúne registros relacionados às fontes utilizadas no caderno do NotebookLM. Serve para documentar a etapa de curadoria e organização das referências.
+Essa distinção é importante: **a existência de uma subpasta não significa que existam arquivos de evidência originais dentro dela**.
 
-### `notebooklm/perguntas/`
+## Relação entre evidência e resultado
 
-Registra as perguntas estratégicas utilizadas para explorar o conteúdo das fontes e direcionar a investigação.
+As duas respostas selecionadas para o projeto estão documentadas em [`../resultados/`](../resultados/), e não como arquivos duplicados em `evidencias/notebooklm/respostas/`.
 
-### `notebooklm/prompts/`
+Assim:
 
-Documenta os prompts utilizados para orientar as interações com a IA. Permite relacionar cada instrução ao tipo de resposta procurada.
-
-### `notebooklm/respostas/`
-
-Reúne respostas selecionadas do NotebookLM que servem como evidência do processo e como material para análise posterior.
-
-### `notebooklm/relatorios/`
-
-Contém relatórios produzidos durante o desenvolvimento do projeto, utilizados para organizar e sintetizar informações.
-
-### `notebooklm/imagens/`
-
-Reúne registros visuais relacionados ao processo, quando disponíveis.
-
-## Evidência do processo × resultado final
-
-É importante diferenciar as funções das pastas:
-
-| Local | Função |
-|---|---|
-| [`../fontes/`](../fontes/) | Reúne as fontes utilizadas no projeto. |
-| [`../prompts/`](../prompts/) | Documenta os prompts utilizados. |
-| `evidencias/notebooklm/` | Preserva registros do processo realizado no NotebookLM. |
-| [`../analises/`](../analises/) | Apresenta a análise crítica do material. |
-| [`../resultados/`](../resultados/) | Reúne os resultados selecionados e documentados. |
-
-Assim, uma resposta armazenada em `evidencias/notebooklm/respostas/` é uma **evidência do processo**, enquanto um documento em `resultados/` representa um **resultado selecionado e organizado para apresentação**.
+- `evidencias/` documenta o **processo e os registros preservados**;
+- `resultados/` reúne os **resultados textuais selecionados**;
+- `analises/` reúne a **avaliação crítica** desses materiais.
 
 ## Processo documentado
 
@@ -67,11 +50,11 @@ Assim, uma resposta armazenada em `evidencias/notebooklm/respostas/` é uma **ev
     ↓
 perguntas estratégicas
     ↓
-prompts
+5 prompts
     ↓
 interações no NotebookLM
     ↓
-respostas
+registros preservados
     ↓
 comparação e análise
     ↓
@@ -84,38 +67,37 @@ resultados
 
 ## 25 fontes
 
-O projeto utiliza **25 fontes**, distribuídas da seguinte forma:
+O inventário oficial do projeto contém **25 fontes**:
 
 - **7** acadêmicas;
 - **15** artigos e portais;
 - **1** institucional;
 - **2** internas.
 
-Total: **25 fontes**.
+**Total: 25 fontes.**
 
-A relação oficial está em [`../fontes/`](../fontes/).
+A relação completa está em [`../fontes/`](../fontes/).
+
+### Observação sobre a contagem
+
+Um relatório citado no material do projeto apresenta **26 fontes**, enquanto o inventário final organizado no repositório contém **25**. A diferença é mantida documentada como uma inconsistência histórica do processo e não é tratada como uma 26ª fonte sem confirmação independente.
 
 ## O que as evidências demonstram
 
-As evidências foram organizadas para demonstrar:
+Os registros disponíveis ajudam a documentar:
 
-- curadoria de informações;
-- seleção e organização das fontes;
-- formulação de perguntas estratégicas;
-- engenharia de prompts;
+- curadoria e organização das fontes;
 - interação com o NotebookLM;
-- obtenção e seleção de respostas;
-- comparação de informações;
-- análise crítica;
-- verificação de afirmações;
-- síntese do conhecimento;
-- aprendizagem ativa apoiada por IA.
+- uso de perguntas estratégicas;
+- utilização de prompts;
+- registros visuais do processo;
+- organização das etapas de análise e síntese.
 
 ## Evidência não significa validação automática
 
-Uma captura de tela, uma resposta ou um relatório comprova que determinado material faz parte do processo documentado, mas **não comprova automaticamente a correção de seu conteúdo**.
+Uma captura de tela, uma resposta ou um relatório comprova que determinado material fez parte do processo, mas **não comprova automaticamente a correção de seu conteúdo**.
 
-Por isso, o projeto mantém separadas quatro funções:
+Por isso, o projeto separa quatro funções:
 
 1. **Fonte** — de onde a informação é obtida.
 2. **Evidência** — registro de como o processo ocorreu.
@@ -126,13 +108,15 @@ Por isso, o projeto mantém separadas quatro funções:
 
 As evidências devem ser reais, identificáveis e relacionadas ao processo realizado.
 
-Não devem ser criadas capturas, respostas ou registros fictícios apenas para preencher a estrutura.
+Não devem ser criadas capturas, respostas ou relatórios fictícios apenas para preencher a estrutura.
 
-Quando determinado registro não estiver disponível, essa ausência deve ser indicada claramente.
+Quando determinado registro original não estiver disponível no repositório, essa ausência deve ser indicada claramente.
 
 ## Limitações
 
-As evidências documentam o processo e não substituem as fontes originais. A ausência de um registro não prova que uma etapa não ocorreu; significa apenas que ela não está documentada neste diretório.
+A pasta `evidencias/` não contém uma transcrição integral de todas as interações realizadas no NotebookLM. Ela preserva apenas os registros que foram efetivamente incorporados ao repositório.
+
+A ausência de um arquivo não prova que uma etapa não ocorreu; significa apenas que ela **não está preservada como arquivo nesta versão do repositório**.
 
 ## Navegação
 
