@@ -26,7 +26,6 @@ Este projeto demonstra, de forma prática, como uma IA pode ser utilizada em um 
 | Ferramenta | NotebookLM |
 | Fontes organizadas | **25** |
 | Prompts documentados | **5** |
-| Respostas selecionadas | **2** |
 | Documentos analíticos | **7** |
 | Evidências do processo | Registros e imagens preservados |
 | Glossário | Conceitos financeiros, comportamentais e de IA |
@@ -46,11 +45,9 @@ PROJETO
    |
    +-- NOTEBOOKLM
           |
-          +-- RESPOSTAS
-                 |
-                 +-- ANÁLISES
-                        |
-                        +-- SÍNTESE
+          +-- ANÁLISES
+                  |
+                  +-- SÍNTESE
                         +-- GLOSSÁRIO
 ```
 
