@@ -2,7 +2,37 @@
 
 Esta pasta reúne a análise crítica do projeto **Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM**.
 
-O objetivo é transformar as respostas e evidências do processo em análises objetivas, mantendo a distinção entre **fato, síntese, interpretação e inferência**.
+## Descrição do desafio
+
+O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório. A partir desse material, são definidos objetivos de estudo, elaboradas perguntas estratégicas e testadas variações de prompts, registrando as respostas e suas referências. O resultado esperado é um miniguia de estudo com resumos estruturados, glossário de conceitos e um conjunto de prompts reutilizáveis que apoiem futuras revisões. A atividade enfatiza o uso da IA como ferramenta de aprendizagem ativa, aliando pensamento crítico, curadoria de fontes e organização do conhecimento.
+
+> **Nota sobre o escopo deste projeto:** a documentação atual do repositório registra **25 fontes** no conjunto de trabalho. Portanto, a descrição acima define o propósito do desafio, enquanto a contagem de 25 corresponde ao acervo documental efetivamente organizado neste repositório.
+
+## Como esta pasta atende ao desafio
+
+A análise foi organizada para documentar o percurso metodológico do projeto:
+
+```text
+curadoria de fontes
+       ↓
+objetivos de estudo
+       ↓
+perguntas estratégicas
+       ↓
+variações de prompts
+       ↓
+respostas e referências
+       ↓
+comparação crítica
+       ↓
+verificação das afirmações
+       ↓
+síntese e organização do conhecimento
+       ↓
+resultados para estudo e revisão
+```
+
+Assim, `analises/` não é apenas uma coleção de textos sobre finanças pessoais. Ela registra como o conteúdo obtido no processo foi **comparado, verificado, interpretado e sintetizado**.
 
 ## Conteúdo
 
@@ -13,24 +43,6 @@ O objetivo é transformar as respostas e evidências do processo em análises ob
 | [`verificacao-afirmacoes.md`](./verificacao-afirmacoes.md) | Critérios para verificar se uma afirmação é sustentada pelas fontes. |
 | [`sintese-final.md`](./sintese-final.md) | Integração dos principais achados e limitações. |
 | [`rastreabilidade-fontes.md`](./rastreabilidade-fontes.md) | Matriz individual das 25 fontes e sua relação com as análises. |
-
-## Como a análise foi construída
-
-```text
-25 fontes
-   ↓
-perguntas estratégicas
-   ↓
-prompts
-   ↓
-respostas e evidências
-   ↓
-comparação crítica
-   ↓
-convergências + divergências + verificação
-   ↓
-síntese final
-```
 
 ## Rastreabilidade das fontes
 
@@ -43,7 +55,7 @@ A matriz está organizada em:
 - **1 fonte institucional**;
 - **2 fontes internas**.
 
-Isso permite localizar a origem documental de cada dimensão temática sem tratar todas as fontes como equivalentes em autoridade ou evidência.
+As análises também utilizam links diretos para as fontes relevantes em cada eixo. A matriz funciona como índice geral de rastreabilidade; a publicação original continua sendo a referência necessária para confirmação científica de uma afirmação específica.
 
 ## Critérios utilizados
 
@@ -72,7 +84,7 @@ Isso permite localizar a origem documental de cada dimensão temática sem trata
 
 ## Resultado
 
-A pasta `analises/` demonstra não apenas **o que a IA respondeu**, mas **como as informações foram comparadas, verificadas, rastreadas e sintetizadas**.
+A pasta `analises/` demonstra não apenas **o que a IA respondeu**, mas **como as informações foram comparadas, verificadas, rastreadas e sintetizadas** dentro de uma atividade de aprendizagem ativa.
 
 As análises são uma síntese documental do projeto. Não constituem revisão sistemática da literatura e não substituem a consulta às publicações originais.
 
