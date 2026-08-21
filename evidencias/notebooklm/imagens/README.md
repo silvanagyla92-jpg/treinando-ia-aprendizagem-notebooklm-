@@ -16,8 +16,6 @@ As imagens atualmente preservadas nesta pasta são:
 - [Relatório de fontes do NotebookLM](./notebooklm-relatorio-fontes.png) — registro visual relacionado ao relatório das fontes.
 - [Fontes e conversa no NotebookLM](./evidencia-notebooklm-fontes-conversa.png) — registro visual da interação com as fontes e a conversa.
 
-> Os links acima apontam para os arquivos reais atualmente presentes no repositório. A versão `notebooklm-25-fontes.png.png` foi mantida porque não foi possível confirmar que ela seja uma duplicata da nova `notebooklm-25-fontes.png`; portanto, ela não foi excluída.
-
 ## Tipos de evidência
 
 As imagens documentam, conforme aplicável:
