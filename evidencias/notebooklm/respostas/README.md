@@ -2,11 +2,11 @@
 
 Esta pasta documenta como as respostas do NotebookLM se relacionam com as perguntas, prompts e fontes utilizadas no projeto.
 
-> **Situação atual:** os dois arquivos de resultado textual selecionados não estão armazenados nesta pasta. Eles estão preservados em [`../../../resultados/`](../../../resultados/). Portanto, este diretório funciona como documentação da evidência de respostas, e não como cópia dos resultados.
+> **Situação atual:** os dois arquivos de resultado textual selecionados não estão armazenados nesta pasta. Eles estão preservados em [`../../../analises/`](../../../analises/). Portanto, este diretório funciona como documentação da evidência de respostas, e não como cópia dos resultados.
 
 ## Resposta 01 — Pontos de convergência
 
-**Arquivo de resultado:** [`../../../resultados/resposta-01-pontos-convergencia.md`](../../../resultados/resposta-01-pontos-convergencia.md)
+**Arquivo de resultado:** [`../../../analises/resposta-01-pontos-convergencia.md`](../../../analises/resposta-01-pontos-convergencia.md)
 
 **Objetivo:** registrar a síntese dos principais pontos de convergência identificados na comparação das fontes.
 
@@ -21,11 +21,11 @@ Esta pasta documenta como as respostas do NotebookLM se relacionam com as pergun
 
 ### Relação com o processo
 
-A resposta está documentada no resultado selecionado e relacionada ao fluxo de investigação descrito no projeto. O conteúdo deve ser interpretado como uma síntese da comparação, e não como prova de que todas as fontes apresentam exatamente as mesmas afirmações, métodos ou relações causais.
+A resposta está documentada no arquivo analítico selecionado e relacionada ao fluxo de investigação descrito no projeto. O conteúdo deve ser interpretado como uma síntese da comparação, e não como prova de que todas as fontes apresentam exatamente as mesmas afirmações, métodos ou relações causais.
 
 ## Resposta 02 — Diferenças e divergências
 
-**Arquivo de resultado:** [`../../../resultados/resposta-02-diferencas-divergencias.md`](../../../resultados/resposta-02-diferencas-divergencias.md)
+**Arquivo de resultado:** [`../../../analises/resposta-02-diferencas-divergencias.md`](../../../analises/resposta-02-diferencas-divergencias.md)
 
 **Objetivo:** identificar diferenças de finalidade, abordagem, metodologia, ênfase e escopo entre as fontes, distinguindo diferenças de perspectiva de contradições efetivas.
 
@@ -65,6 +65,6 @@ Os registros visuais disponíveis em [`../imagens/`](../imagens/) complementam a
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
+**DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
 **Autora:** Nágyla Silva  
 **Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*
