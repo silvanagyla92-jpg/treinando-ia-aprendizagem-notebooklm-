@@ -48,7 +48,9 @@ Esta pasta reúne os registros relacionados à aplicação dos cinco prompts uti
 
 Os cinco prompts já estão documentados individualmente na pasta `prompts/`. Este diretório de evidências estabelece a relação entre cada prompt e sua respectiva etapa da investigação.
 
-**Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
-**Plataforma:** NotebookLM  
-**Desafio:** DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM  
+---
+
+**Projeto:** Gestão Financeira Pessoal com NotebookLM  
 **Autora:** Nágyla Silva
+
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em engenharia de prompts, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
