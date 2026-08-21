@@ -210,19 +210,13 @@ O projeto, portanto, não se limita ao conteúdo de Gestão Financeira Pessoal. 
 
 ## 11. Glossário
 
-- **Alfabetização financeira:** conhecimento e capacidade de compreender e utilizar informações financeiras.
-- **Aversão à perda:** tendência de atribuir maior peso às perdas do que a ganhos semelhantes.
-- **Arquitetura de escolhas:** organização do ambiente no qual as decisões são tomadas.
-- **Desconto hiperbólico:** modelo utilizado para representar a valorização relativa de recompensas presentes em relação a futuras.
-- **Economia comportamental:** área que integra economia e psicologia para estudar decisões reais.
-- **Educação financeira:** desenvolvimento de conhecimentos, habilidades e competências relacionadas a informações e decisões financeiras.
-- **Homo Economicus:** representação teórica de um agente econômico plenamente racional.
-- **Nudge:** intervenção na arquitetura de escolhas que influencia comportamentos sem eliminar alternativas.
-- **Organização financeira pessoal:** práticas de organização de renda, despesas, dívidas, reservas e objetivos.
-- **Prompt:** instrução fornecida a um sistema de IA para orientar sua resposta.
-- **Tomada de decisão intertemporal:** escolha entre custos ou benefícios que ocorrem em momentos diferentes.
-- **Viés cognitivo:** padrão sistemático de julgamento que pode influenciar decisões.
-- **Viés do Presente:** tendência de atribuir maior peso à satisfação imediata em comparação com benefícios futuros.
+O projeto possui um glossário próprio para consulta rápida dos principais conceitos de **Gestão Financeira Pessoal, educação financeira, economia comportamental, tomada de decisão e Inteligência Artificial**.
+
+Entre os termos abordados estão alfabetização financeira, aversão à perda, arquitetura de escolhas, economia comportamental, educação financeira, Homo Economicus, Nudge, organização financeira pessoal, prompt, tomada de decisão intertemporal, viés cognitivo e Viés do Presente.
+
+👉 **Consulte o glossário completo:** [`glossario/`](./glossario/)
+
+As definições foram organizadas para fins de estudo e revisão. Para aprofundamento acadêmico ou técnico, consulte as fontes originais utilizadas no projeto.
 
 ---
 
