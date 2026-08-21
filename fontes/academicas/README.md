@@ -169,7 +169,6 @@ fontes/academicas/
 - [`../internas/`](../internas/) — documentos de integração produzidos no projeto.
 - [`../../prompts/`](../../prompts/) — engenharia de prompts.
 - [`../../analises/`](../../analises/) — análises produzidas no projeto.
-- [`../../resultados/`](../../resultados/) — resultados e respostas selecionadas.
 - [`../../evidencias/`](../../evidencias/) — registros e evidências do processo.
 
 ---
@@ -180,7 +179,7 @@ As fontes acadêmicas demonstram que a investigação foi construída sobre um c
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
+**DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
 **Autora:** Nágyla Silva  
 
 **Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*  
