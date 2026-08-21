@@ -1,39 +1,46 @@
-# Financial Literacy — Olivia S. Mitchell; Annamaria Lusardi
+# Financial Literacy: Implications for Retirement Security and the Financial Marketplace
 
 ## Identificação
 
-- **Autores:** Olivia S. Mitchell e Annamaria Lusardi
-- **Instituição/editora:** Oxford University Press
-- **Tipo:** referência acadêmica / compilação
-- **Tema:** alfabetização financeira.
+- **Editores:** Olivia S. Mitchell e Annamaria Lusardi
+- **Editora:** Oxford University Press
+- **Ano:** 2011
+- **Tipo:** livro acadêmico organizado / coletânea de capítulos
+- **ISBN impresso:** 9780199696819
+- **DOI do livro:** 10.1093/acprof:oso/9780199696819.001.0001
+- **Tema:** alfabetização financeira, tomada de decisão e segurança financeira na aposentadoria.
 
 ## Sobre a fonte
 
-A referência reúne produção acadêmica dedicada ao conceito de alfabetização financeira e às suas relações com comportamento econômico. O tema ocupa posição central na investigação porque permite discutir o conhecimento necessário para compreender produtos, riscos, planejamento e decisões financeiras.
+A obra reúne capítulos acadêmicos sobre alfabetização financeira, planejamento para aposentadoria, participação em investimentos, empréstimos e outras dimensões das decisões financeiras. A obra é organizada por Olivia S. Mitchell e Annamaria Lusardi e publicada pela Oxford University Press.
 
 ## Principais contribuições
 
-A literatura associada a Mitchell e Lusardi ajuda a tratar alfabetização financeira como um componente observável da capacidade de compreender conceitos econômicos relevantes. Também permite conectar conhecimento financeiro a decisões de poupança, investimento, aposentadoria e gestão de recursos.
+A coletânea permite relacionar alfabetização financeira a planejamento, decisões de aposentadoria e comportamento financeiro, reunindo diferentes estudos e perspectivas em uma mesma obra acadêmica.
 
 ## Relevância para o projeto
 
-Funciona como ponte entre a categoria de **fontes acadêmicas** e os conteúdos editoriais da pasta, oferecendo uma referência de maior densidade teórica para o conceito de alfabetização financeira.
+Funciona como referência acadêmica complementar para o eixo **alfabetização financeira, planejamento e tomada de decisão**, oferecendo contexto teórico para a investigação.
 
 ## Uso no projeto
 
-Foi utilizada para apoiar a investigação sobre **educação financeira, conhecimento financeiro e resultados econômicos**.
+Foi utilizada para apoiar a investigação sobre **educação financeira, conhecimento financeiro, planejamento e resultados econômicos**.
 
 ## Relação com outras fontes
 
-Relaciona-se diretamente aos trabalhos de Lusardi e Mitchell presentes entre as fontes acadêmicas e ao artigo *The Economic Importance of Financial Literacy: Theory and Evidence*.
+Relaciona-se diretamente aos trabalhos de Lusardi e Mitchell presentes entre as fontes acadêmicas, especialmente *The Economic Importance of Financial Literacy: Theory and Evidence* e *How Ordinary Consumers Make Complex Economic Decisions*.
 
 ## Limitações
 
-A entrada representa uma referência/compilação, e não deve ser tratada como se fosse um único estudo com uma única metodologia ou conclusão.
+A entrada representa uma **obra coletiva com múltiplos capítulos e autores**, e não um único estudo com uma única metodologia ou conclusão. Quando uma afirmação específica for atribuída a um capítulo, a referência deve apontar para o capítulo correspondente.
 
-## Referência
+## Referência bibliográfica verificada
 
-Fonte indicada no inventário original do projeto: Oxford University Press — *Financial Literacy*, de Olivia S. Mitchell e Annamaria Lusardi.
+- [Oxford Academic — Financial Literacy: Implications for Retirement Security and the Financial Marketplace](https://academic.oup.com/book/37034)
+- [Pension Research Council — referência da obra](https://pensionresearchcouncil.wharton.upenn.edu/publications/books/financial-literacy-implications-for-retirement-security-and-the-financial-marketplace/)
+- [DOI — 10.1093/acprof:oso/9780199696819.001.0001](https://doi.org/10.1093/acprof:oso/9780199696819.001.0001)
+
+Os registros da Oxford Academic e do Pension Research Council confirmam título, editores, editora, ano e identificação da obra.
 
 ---
 
