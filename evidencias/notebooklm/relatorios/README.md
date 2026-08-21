@@ -1,38 +1,47 @@
 # Evidências — Relatórios
 
-Esta pasta reúne os **relatórios produzidos durante a investigação no NotebookLM** e os registros que comprovem sua geração ou utilização no projeto.
+Esta pasta documenta a finalidade dos relatórios produzidos ou consultados durante a investigação no NotebookLM.
+
+> **Situação atual:** não há arquivo de relatório original preservado nesta pasta. O README registra a existência histórica mencionada no processo, mas não reconstrói um relatório que não esteja disponível como arquivo.
 
 ## Objetivo
 
-Preservar as evidências das etapas de análise e síntese realizadas a partir das fontes disponíveis no caderno temático.
-
-## O que pode ser registrado
-
-- relatórios gerados pelo NotebookLM;
-- exportações autorizadas dos relatórios;
-- capturas de tela da geração ou visualização dos relatórios;
-- registros de títulos, datas ou contexto de produção, quando disponíveis;
-- observações sobre a relação entre cada relatório e os prompts utilizados.
+Preservar a referência aos relatórios utilizados nas etapas de análise e síntese e deixar registrada qualquer inconsistência relevante observada durante o projeto.
 
 ## Relatório citado no projeto
 
-Um dos registros documentados na investigação é o relatório **"Viés Comportamental e Alfabetização Financeira: Um Guia sobre Tomada de Decisão Econômica"**, utilizado como material de análise e síntese.
+Um dos materiais mencionados na documentação é o relatório **“Viés Comportamental e Alfabetização Financeira: Um Guia sobre Tomada de Decisão Econômica”**, utilizado como material de análise e síntese.
 
-Quando houver arquivo ou captura correspondente, ele deve ser adicionado aqui sem alterar seu conteúdo original.
+O arquivo original ou uma captura específica desse relatório não está atualmente preservado nesta pasta. Por isso, seu conteúdo não é reproduzido aqui como se fosse uma evidência original.
 
-## Contagem das fontes
+## Inconsistência de contagem
 
-O projeto registra uma diferença entre a contagem principal de **25 fontes** e a indicação de **26 fontes** apresentada por um relatório específico do NotebookLM. Essa diferença deve permanecer documentada como uma inconsistência de contagem enquanto a referência adicional não puder ser confirmada.
+A documentação do projeto registra uma diferença entre a contagem principal de **25 fontes** e a indicação de **26 fontes** apresentada por um relatório específico do NotebookLM.
+
+O inventário final do repositório contém **25 fontes verificáveis**:
+
+- 7 acadêmicas;
+- 15 artigos e portais;
+- 1 institucional;
+- 2 internas.
+
+A indicação de 26 permanece registrada como uma **inconsistência histórica não resolvida**, e não como uma 26ª fonte confirmada.
 
 ## Critério de autenticidade
 
-Somente relatórios efetivamente produzidos ou registrados durante o projeto devem ser adicionados. O conteúdo não deve ser reconstruído como se fosse uma evidência original quando o registro não estiver disponível.
+Somente relatórios efetivamente preservados ou registrados durante o projeto devem ser apresentados como evidência.
+
+Não se deve reconstruir um relatório ausente nem atribuir ao arquivo conteúdo que não possa ser confirmado.
+
+## Relação com outras pastas
+
+- [`../../../fontes/`](../../../fontes/) — inventário das 25 fontes.
+- [`../../../prompts/`](../../../prompts/) — prompts documentados.
+- [`../../../analises/`](../../../analises/) — análises produzidas.
+- [`../../../resultados/`](../../../resultados/) — resultados textuais selecionados.
 
 ---
 
 **CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
 **Autora:** Nágyla Silva  
-
-**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*  
-
-*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, desenvolvido com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, curadoria de fontes, avaliação crítica de respostas de IA e organização do conhecimento, contribuindo para o desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
+**Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*
