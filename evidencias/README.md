@@ -2,7 +2,7 @@
 
 Esta pasta reúne os registros que documentam o **processo de aprendizagem realizado com o NotebookLM** no projeto **Gestão Financeira Pessoal**.
 
-O objetivo é organizar o que está efetivamente preservado no repositório e permitir compreender o percurso do projeto: **fontes → perguntas → prompts → interações → análise → verificação → síntese → resultados**.
+O objetivo é organizar o que está efetivamente preservado no repositório e permitir compreender o percurso do projeto: **fontes → perguntas → prompts → interações → análise → verificação → síntese**.
 
 ## Estrutura atual
 
@@ -27,21 +27,23 @@ As subpastas são mantidas porque representam diferentes tipos de registro do pr
 | `notebooklm/fontes/` | README de documentação | Explica o registro das fontes utilizadas no caderno. |
 | `notebooklm/perguntas/` | README de documentação | Explica as perguntas estratégicas utilizadas. |
 | `notebooklm/prompts/` | README de documentação | Explica o registro dos prompts utilizados. |
-| `notebooklm/respostas/` | README de documentação; as duas respostas selecionadas estão em `resultados/` | Documenta a relação entre perguntas, prompts e respostas. |
+| `notebooklm/respostas/` | README de documentação | Documenta a relação entre perguntas, prompts e respostas. |
 | `notebooklm/relatorios/` | README de documentação | Registra a finalidade dos relatórios e uma inconsistência de contagem observada. |
 | `notebooklm/imagens/` | **Imagens de evidência disponíveis** | Preserva registros visuais do processo no NotebookLM. |
 
 Essa distinção é importante: **a existência de uma subpasta não significa que existam arquivos de evidência originais dentro dela**.
 
-## Relação entre evidência e resultado
+## Relação entre evidência e análise
 
-As duas respostas selecionadas para o projeto estão documentadas em [`../resultados/`](../resultados/), e não como arquivos duplicados em `evidencias/notebooklm/respostas/`.
+As duas respostas selecionadas e seus documentos analíticos consolidados estão em [`../analises/`](../analises/).
 
 Assim:
 
 - `evidencias/` documenta o **processo e os registros preservados**;
-- `resultados/` reúne os **resultados textuais selecionados**;
-- `analises/` reúne a **avaliação crítica** desses materiais.
+- `analises/` reúne as **respostas selecionadas, avaliações, verificações e sínteses**;
+- `glossario/` organiza conceitos para consulta rápida.
+
+A antiga pasta `resultados/` foi removida após a consolidação do conteúdo em `analises/`. Não existem resultados textuais dependentes de uma pasta separada.
 
 ## Processo documentado
 
@@ -62,7 +64,7 @@ verificação
     ↓
 síntese
     ↓
-resultados
+analises consolidadas
 ```
 
 ## 25 fontes
@@ -102,7 +104,7 @@ Por isso, o projeto separa quatro funções:
 1. **Fonte** — de onde a informação é obtida.
 2. **Evidência** — registro de como o processo ocorreu.
 3. **Análise** — avaliação crítica do material.
-4. **Resultado** — síntese selecionada e organizada para o projeto.
+4. **Síntese** — consolidação organizada dos resultados analisados.
 
 ## Critérios de documentação
 
@@ -122,8 +124,8 @@ A ausência de um arquivo não prova que uma etapa não ocorreu; significa apena
 
 - [`../fontes/`](../fontes/) — fontes utilizadas.
 - [`../prompts/`](../prompts/) — prompts documentados.
-- [`../analises/`](../analises/) — análises produzidas.
-- [`../resultados/`](../resultados/) — resultados selecionados.
+- [`../analises/`](../analises/) — respostas, análises, verificações e sínteses.
+- [`../glossario/`](../glossario/) — conceitos utilizados no projeto.
 
 ---
 
