@@ -1,34 +1,38 @@
 # Evidências — Imagens
 
-Esta pasta é destinada às **capturas de tela e registros visuais** que documentam a execução do projeto no NotebookLM.
+Esta pasta reúne as **capturas de tela e registros visuais** que documentam a execução do projeto no NotebookLM.
 
 ## Objetivo
 
 Utilizar imagens como evidência visual das principais etapas do processo, complementando os arquivos textuais do repositório.
 
+## Evidências disponíveis
+
+As imagens atualmente preservadas nesta pasta são:
+
+- [Evidência do NotebookLM](./evidencia-notebooklm.png) — registro visual da utilização do NotebookLM.
+- [NotebookLM — 25 fontes](./notebooklm-25-fontes.png) — registro visual do conjunto de fontes utilizado no projeto.
+- [NotebookLM — 25 fontes (versão adicional)](./notebooklm-25-fontes.png.png) — captura adicional preservada para manter o registro original disponível.
+- [Relatório de fontes do NotebookLM](./notebooklm-relatorio-fontes.png) — registro visual relacionado ao relatório das fontes.
+- [Fontes e conversa no NotebookLM](./evidencia-notebooklm-fontes-conversa.png) — registro visual da interação com as fontes e a conversa.
+
+> Os links acima apontam para os arquivos reais atualmente presentes no repositório. A versão `notebooklm-25-fontes.png.png` foi mantida porque não foi possível confirmar que ela seja uma duplicata da nova `notebooklm-25-fontes.png`; portanto, ela não foi excluída.
+
 ## Tipos de evidência
 
-Podem ser adicionadas imagens que documentem, por exemplo:
+As imagens documentam, conforme aplicável:
 
-- tela inicial ou configuração do caderno temático;
 - conjunto de fontes utilizado;
 - perguntas formuladas;
 - prompts aplicados;
 - respostas produzidas;
 - relatórios gerados;
-- etapas relevantes da investigação e análise.
+- etapas relevantes da investigação e análise;
+- interação entre fontes e conversa no NotebookLM.
 
-## Organização sugerida
+## Organização
 
-As imagens podem seguir uma nomenclatura sequencial e descritiva, por exemplo:
-
-- `01-fontes-notebooklm.png`;
-- `02-perguntas-notebooklm.png`;
-- `03-prompt-01.png`;
-- `04-resposta-01.png`;
-- `05-relatorio.png`.
-
-Os nomes acima são apenas exemplos de organização. Somente imagens realmente capturadas durante o projeto devem ser adicionadas.
+Os nomes dos arquivos devem ser descritivos e, sempre que possível, utilizar extensão correspondente ao formato real da imagem. Quando houver versões adicionais ou registros históricos diferentes, eles podem ser preservados com identificação clara para evitar perda de evidência.
 
 ## Cuidados
 
