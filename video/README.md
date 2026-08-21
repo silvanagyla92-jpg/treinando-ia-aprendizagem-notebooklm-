@@ -12,14 +12,15 @@ O vídeo apresenta de forma visual e sintética os principais elementos da exper
 
 ### A Mente e as Finanças
 
-**Arquivo:** [`A_Mente_e_as_Finanças.mp4`](./A_Mente_e_as_Finanças.mp4)
+**Arquivo:** [`A_Mente_e_as_Finanças (1).mp4`](./A_Mente_e_as_Finanças%20%281%29.mp4)
 
 **Formato:** MP4  
+**Tamanho:** 23,86 MB  
 **Finalidade:** apresentação audiovisual do projeto  
 **Tema:** Gestão Financeira Pessoal e tomada de decisões financeiras  
 **Ferramenta utilizada:** NotebookLM
 
-> O arquivo de vídeo será disponibilizado nesta pasta em uma versão otimizada para compatibilidade com os limites de armazenamento e upload do GitHub.
+> O vídeo foi otimizado para publicação no GitHub e está disponível nesta pasta.
 
 ---
 
@@ -117,15 +118,13 @@ As evidências textuais e os registros do processo permanecem organizados nas re
 
 ## 📁 Estrutura da pasta
 
-Após a otimização, a estrutura desta pasta será:
-
 ```text
 video/
 ├── README.md
-└── A_Mente_e_as_Finanças.mp4
+└── A_Mente_e_as_Finanças (1).mp4
 ```
 
-O arquivo original permanece preservado localmente como versão de maior qualidade, enquanto a versão otimizada será utilizada para publicação no GitHub.
+O arquivo publicado é a versão otimizada do vídeo original, preservado localmente como versão de maior qualidade.
 
 ---
 
