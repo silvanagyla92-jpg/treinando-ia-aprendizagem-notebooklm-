@@ -16,20 +16,91 @@ O tema escolhido é **Gestão Financeira Pessoal**, com foco na relação entre 
 
 O estudo aborda, entre outros temas, alfabetização financeira, planejamento, poupança, investimentos, juros compostos, inflação, rentabilidade real, economia comportamental, aversão à perda, viés do presente, ancoragem e Nudge Theory.
 
+### 1.3 Resumo executivo
+
+Este projeto demonstra, de forma prática, como uma IA pode ser utilizada em um processo estruturado de investigação baseado em fontes.
+
+| Elemento | Entrega |
+|---|---|
+| Tema | Gestão Financeira Pessoal |
+| Ferramenta | NotebookLM |
+| Fontes organizadas | **25** |
+| Prompts documentados | **5** |
+| Respostas selecionadas | **2** |
+| Documentos analíticos | **7** |
+| Evidências do processo | Registros e imagens preservados |
+| Glossário | Conceitos financeiros, comportamentais e de IA |
+
+**Competências demonstradas:** curadoria de informação, engenharia de prompts, avaliação de respostas de IA, análise crítica, verificação, rastreabilidade, organização documental e documentação técnica.
+
+### 1.4 Visão rápida do projeto
+
+```text
+                    PROJETO
+                       │
+        ┌──────────────┼──────────────┐
+        ↓              ↓              ↓
+      FONTES        PROMPTS       EVIDÊNCIAS
+        │              │              │
+        └──────────────┼──────────────┘
+                       ↓
+                   NOTEBOOKLM
+                       │
+                       ↓
+                    RESPOSTAS
+                       │
+                       ↓
+                    ANÁLISES
+                       │
+          ┌────────────┴────────────┐
+          ↓                         ↓
+       SÍNTESE                  GLOSSÁRIO
+```
+
+A arquitetura mostra a separação entre **insumos**, **processo**, **evidências** e **resultados analíticos**, facilitando a compreensão do projeto por quem acessa o repositório pela primeira vez.
+
 ---
 
-## 2. Competências desenvolvidas
+## 2. Competências desenvolvidas e demonstradas
+
+### Competências de IA e dados
 
 - **Curadoria de informações:** seleção e organização de fontes relevantes.
-- **Pesquisa e investigação:** elaboração de perguntas e exploração de diferentes perspectivas.
 - **Engenharia de prompts:** criação, teste e refinamento de instruções para a IA.
-- **Pensamento crítico:** identificação de limitações, generalizações e afirmações que exigem verificação.
 - **Avaliação de respostas de IA:** análise de clareza, relevância, coerência, completude e fundamentação.
-- **Aprendizagem ativa:** uso da IA para explorar, comparar, questionar e consolidar conhecimentos.
-- **Síntese:** integração de informações provenientes de diferentes fontes.
+- **Análise crítica:** identificação de limitações, generalizações e afirmações que exigem verificação.
 - **Rastreabilidade:** documentação de fontes, perguntas, prompts, respostas, análises e resultados.
 - **Letramento em IA:** compreensão das possibilidades e limitações do NotebookLM.
+
+### Competências transferíveis para atuação profissional
+
+- **Quality Assurance:** definição de critérios, identificação de inconsistências e verificação de conteúdo.
+- **AI Response Evaluation:** comparação de respostas, análise de qualidade e identificação de informações que exigem cautela.
+- **AI Training / Data Annotation:** organização de informações, classificação conceitual e documentação estruturada.
+- **Pesquisa e investigação:** elaboração de perguntas e exploração de diferentes perspectivas.
+- **Síntese:** integração de informações provenientes de diferentes fontes.
 - **Documentação técnica:** organização do processo e dos resultados em Markdown.
+- **Pensamento crítico:** avaliação humana antes de considerar uma saída de IA como informação confiável.
+
+### O que este projeto evidencia profissionalmente
+
+```text
+Curadoria
+   ↓
+Prompt Engineering
+   ↓
+Interação com IA
+   ↓
+Avaliação de respostas
+   ↓
+Verificação e análise crítica
+   ↓
+Rastreabilidade
+   ↓
+Documentação técnica
+```
+
+O projeto não pretende demonstrar apenas conhecimento sobre Gestão Financeira Pessoal. Ele demonstra a capacidade de **estruturar uma investigação com IA, avaliar seus resultados e transformar o processo em documentação reutilizável**.
 
 ---
 
@@ -126,7 +197,7 @@ A sequência permite passar da exploração inicial para aprofundamento, compara
 
 ---
 
-## 7. Respostas selecionadas e resultados
+## 7. Respostas selecionadas e análises
 
 Duas respostas foram selecionadas para documentação detalhada. Após a consolidação estrutural, elas estão documentadas oficialmente em `analises/`.
 
@@ -148,7 +219,7 @@ Resultado: [`analises/resposta-02-diferencas-divergencias.md`](./analises/respos
 
 > **Nota de rastreabilidade:** o Prompt 03 documentado solicita explicitamente uma síntese de consensos/convergências. A resposta sobre diferenças e divergências deve ser considerada um resultado documentado do processo, mas o prompt específico que originou essa resposta não está identificado de forma independente nos cinco arquivos atuais. Não foi criado um prompt fictício para preencher essa lacuna.
 
-A análise e a fundamentação das respostas estão reunidas em [`analises/`](./analises/).
+A análise, a verificação e a fundamentação das respostas estão reunidas em [`analises/`](./analises/).
 
 ---
 
@@ -204,7 +275,7 @@ Os principais aprendizados foram:
 - comparar fontes ajuda a identificar convergências, diferenças e limitações;
 - a IA é mais útil quando atua como apoio à investigação, e não como substituta da avaliação humana.
 
-O projeto, portanto, não se limita ao conteúdo de Gestão Financeira Pessoal. Ele também documenta um método de uso crítico e estruturado da IA para aprender, investigar e organizar conhecimento.
+O projeto também demonstra competências profissionais aplicáveis a atividades de **avaliação de respostas de IA, treinamento de modelos, anotação de dados, engenharia de prompts e garantia de qualidade**, especialmente no que envolve organização, critérios de avaliação, análise crítica e documentação.
 
 ---
 
@@ -216,7 +287,7 @@ Entre os termos abordados estão alfabetização financeira, aversão à perda, 
 
 👉 **Consulte o glossário completo:** [`glossario/`](./glossario/)
 
-As definições foram organizadas para fins de estudo e revisão. Para aprofundamento acadêmico ou técnico, consulte as fontes originais utilizadas no projeto.
+As definições foram organizadas para apoiar a compreensão e a documentação do projeto. Para aprofundamento, consulte as fontes originais utilizadas como referência.
 
 ---
 
