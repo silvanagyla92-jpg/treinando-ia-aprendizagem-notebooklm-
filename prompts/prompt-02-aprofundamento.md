@@ -48,9 +48,9 @@ A versão revisada mantém o conceito comportamental e o modelo econômico, mas 
 
 Este prompt representa a segunda etapa do ciclo: **aprofundar um conceito identificado na exploração inicial antes de compará-lo e avaliá-lo criticamente**.
 
-**Projeto:** Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM  
-**Plataforma:** NotebookLM  
-**Desafio:** DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM  
+---
+
+**Projeto:** Gestão Financeira Pessoal com NotebookLM  
 **Autora:** Nágyla Silva
 
-*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em Educação Financeira, Engenharia de Prompts, Aprendizagem Ativa, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em engenharia de prompts, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
