@@ -4,7 +4,7 @@ Este glossário reúne e explica os principais conceitos utilizados no projeto *
 
 O objetivo é servir como material de consulta e revisão, conectando conceitos de **educação financeira, organização financeira pessoal, economia comportamental, tomada de decisão e Inteligência Artificial** às perguntas, fontes, prompts e análises desenvolvidos no projeto.
 
-As definições abaixo são apresentadas em linguagem introdutória, mas procuram explicar não apenas **o que cada conceito significa**, como também **por que ele é relevante para a gestão financeira pessoal e para o estudo realizado**.
+As definições abaixo são apresentadas em linguagem introdutória, mas procuram explicar não apenas **o que cada conceito significa**, como também **por que ele é relevante para a gestão financeira pessoal e para o projeto**.
 
 ## 1. Educação financeira e organização
 
@@ -82,7 +82,7 @@ No projeto, os prompts são utilizados como instrumentos metodológicos: ajudam 
 ### NotebookLM
 É uma ferramenta de apoio à pesquisa e aprendizagem baseada em fontes fornecidas pelo usuário. No contexto deste projeto, foi utilizado para organizar materiais, formular perguntas e explorar respostas fundamentadas no conjunto documental selecionado.
 
-Seu papel no projeto é de **ferramenta de apoio à investigação**, e não de substituto da leitura crítica das fontes. As respostas geradas precisam ser avaliadas quanto ao contexto, fundamentação e correspondência com os documentos utilizados.
+Seu papel no projeto é de **ferramenta de apoio à investigação**, e não de substituto da avaliação humana. As respostas geradas precisam ser avaliadas quanto ao contexto, fundamentação e correspondência com os documentos utilizados.
 
 ## 5. Conceitos complementares para interpretação financeira
 
@@ -151,9 +151,9 @@ Essa estrutura reforça um princípio central do projeto: **informação, conhec
 
 Os conceitos deste glossário aparecem nas fontes, perguntas estratégicas, prompts, evidências e análises desenvolvidos durante o projeto.
 
-Para aprofundamento, consulte:
+Para aprofundamento e consulta, utilize:
 
-- [`../fontes/`](../fontes/) — fontes utilizadas no estudo;
+- [`../fontes/`](../fontes/) — fontes utilizadas no projeto;
 - [`../prompts/`](../prompts/) — prompts documentados;
 - [`../evidencias/`](../evidencias/) — registros do processo no NotebookLM;
 - [`../analises/`](../analises/) — análises, verificações e sínteses do projeto.
@@ -165,12 +165,13 @@ O glossário pode ser utilizado para:
 1. revisar conceitos antes de consultar as análises;
 2. esclarecer termos presentes nas perguntas e prompts;
 3. compreender a relação entre educação financeira e comportamento;
-4. preparar revisões futuras do conteúdo estudado;
-5. identificar conceitos que precisam de aprofundamento nas fontes originais.
+4. preparar revisões futuras do conteúdo;
+5. identificar conceitos que precisam de aprofundamento nas fontes originais;
+6. contextualizar termos utilizados nas análises e na documentação do projeto.
 
 ## 9. Observação metodológica
 
-As definições apresentadas são **sínteses introdutórias para fins educacionais**. Elas não substituem as publicações originais nem constituem, isoladamente, uma revisão sistemática da literatura.
+As definições apresentadas são **sínteses introdutórias para apoiar a compreensão e a documentação do projeto**. Elas não substituem as fontes originais utilizadas como referência.
 
 Quando uma definição for utilizada para sustentar uma afirmação específica, a fonte correspondente deve ser consultada. Especialmente em temas financeiros, conceitos podem possuir definições técnicas diferentes conforme o contexto, a metodologia e a finalidade da análise.
 
