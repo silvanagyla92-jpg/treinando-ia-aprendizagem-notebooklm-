@@ -53,9 +53,6 @@ O resultado desta etapa serve como base para o aprofundamento do **Viés do Pres
 
 ## 8. Identificação do projeto
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
-**Autora:** Nágyla Silva
-
 **Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*
 
 **Descrição:** Projeto desenvolvido como parte do desafio **“Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM”**, utilizando o NotebookLM como ferramenta de aprendizagem ativa para investigar Gestão Financeira Pessoal, com foco em curadoria de fontes, engenharia de prompts, análise crítica de respostas de IA, organização do conhecimento e documentação do processo de aprendizagem.
