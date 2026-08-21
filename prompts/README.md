@@ -65,12 +65,29 @@ verificação e análise
 - [`../evidencias/`](../evidencias/) — registros do processo.
 - [`../analises/`](../analises/) — comparação e avaliação das informações.
 - [`../glossario/`](../glossario/) — conceitos utilizados no projeto.
+- [`../video/`](../video/) — síntese audiovisual da experiência.
 
 Os resultados analíticos consolidados estão em `analises/`; não existe mais uma pasta separada de `resultados/`.
 
+## Histórico e refinamento
+
+Os arquivos documentam os prompts utilizados e também registram refinamentos realizados durante a experiência. Quando uma versão foi revisada, a revisão é tratada como parte do processo de engenharia de prompts e **não deve ser confundida com o texto original utilizado em uma etapa anterior**.
+
+Essa distinção preserva a rastreabilidade histórica:
+
+```text
+versão original
+      ↓
+experimentação
+      ↓
+refinamento
+      ↓
+versão documentada/revisada
+```
+
 ## Padronização
 
-Os cinco arquivos de prompt seguem o mesmo padrão de apresentação no Markdown. O conteúdo dos prompts foi preservado; a padronização tem como objetivo melhorar a leitura, a comparação e a documentação.
+Os cinco arquivos de prompt seguem o mesmo padrão de apresentação no Markdown. A padronização tem como objetivo melhorar a leitura, a comparação e a documentação sem apagar o histórico de refinamentos registrado nos próprios arquivos.
 
 ## Resultado profissional demonstrado
 
