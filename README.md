@@ -300,7 +300,6 @@ As definições foram organizadas para apoiar a compreensão e a documentação 
 
 ---
 
-**DIO - Treinando uma IA de Aprendizagem**  
 **Projeto:** Gestão Financeira Pessoal com NotebookLM  
 **Autora:** Nágyla Silva
 
