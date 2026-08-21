@@ -82,9 +82,6 @@ A matriz está organizada em:
 - [`../fontes/`](../fontes/) — 25 fontes utilizadas no projeto.
 - [`../prompts/`](../prompts/) — prompts utilizados e documentados.
 - [`../evidencias/`](../evidencias/) — registros do processo no NotebookLM.
-- [`../resultados/`](../resultados/) — cópias originais das respostas preservadas temporariamente durante a consolidação desta pasta.
-
-> **Estado da consolidação:** as respostas 01 e 02 já possuem versões consolidadas em `analises/`. Os arquivos correspondentes em `resultados/` ainda não foram apagados nesta etapa, para preservar o conteúdo original até a auditoria final.
 
 ## Resultado
 
