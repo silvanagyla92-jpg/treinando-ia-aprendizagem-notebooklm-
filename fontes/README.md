@@ -16,25 +16,25 @@ O objetivo é manter as referências organizadas por natureza, facilitar a naveg
 
 ## Navegação
 
-### 📚 Acadêmicas — 7
+### Acadêmicas - 7
 
 [`Abrir pasta`](./academicas/)
 
 Reúne referências sobre alfabetização financeira, decisões econômicas, preparação para aposentadoria, vieses e importância econômica da educação financeira.
 
-### 📰 Artigos e portais — 15
+### Artigos e portais - 15
 
 [`Abrir pasta`](./artigos-e-portais/)
 
 Reúne materiais de divulgação, educação financeira, economia comportamental, vieses, Nudge, organização financeira e investimentos.
 
-### 🏛️ Institucionais — 1
+### Institucionais - 1
 
 [`Abrir pasta`](./institucionais/)
 
 Reúne a publicação institucional do Banco Central do Brasil utilizada no projeto.
 
-### 📝 Internas — 2
+### Internas - 2
 
 [`Abrir pasta`](./internas/)
 
@@ -85,6 +85,7 @@ Esta é a contagem oficial utilizada na documentação do projeto.
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem**  
-**Projeto:** *Gestão Financeira Pessoal com NotebookLM*  
+**Projeto:** Gestão Financeira Pessoal com NotebookLM  
 **Autora:** Nágyla Silva
+
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em engenharia de prompts, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
