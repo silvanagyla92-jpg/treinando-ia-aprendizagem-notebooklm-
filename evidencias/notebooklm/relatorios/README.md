@@ -38,10 +38,10 @@ Não se deve reconstruir um relatório ausente nem atribuir ao arquivo conteúdo
 - [`../../../fontes/`](../../../fontes/) — inventário das 25 fontes.
 - [`../../../prompts/`](../../../prompts/) — prompts documentados.
 - [`../../../analises/`](../../../analises/) — análises produzidas.
-- [`../../../resultados/`](../../../resultados/) — resultados textuais selecionados.
+- [`../../../evidencias/`](../../../evidencias/) — demais registros e evidências do processo.
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
+**DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
 **Autora:** Nágyla Silva  
 **Projeto:** *Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM*
