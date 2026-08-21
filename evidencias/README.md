@@ -28,7 +28,7 @@ As subpastas são mantidas porque representam diferentes tipos de registro do pr
 | `notebooklm/perguntas/` | README de documentação | Explica as perguntas estratégicas utilizadas. |
 | `notebooklm/prompts/` | README de documentação | Explica o registro dos prompts utilizados. |
 | `notebooklm/respostas/` | README de documentação | Documenta a relação entre perguntas, prompts e respostas. |
-| `notebooklm/relatorios/` | README de documentação | Registra a finalidade dos relatórios e uma inconsistência de contagem observada. |
+| `notebooklm/relatorios/` | README de documentação | Registra a finalidade dos relatórios preservados. |
 | `notebooklm/imagens/` | **Imagens de evidência disponíveis** | Preserva registros visuais do processo no NotebookLM. |
 
 Essa distinção é importante: **a existência de uma subpasta não significa que existam arquivos de evidência originais dentro dela**.
@@ -50,7 +50,7 @@ A antiga pasta `resultados/` foi removida após a consolidação do conteúdo em
 ```text
 25 fontes
     ↓
-perguntas estratégicas
+5 perguntas estratégicas
     ↓
 5 prompts
     ↓
@@ -79,10 +79,6 @@ O inventário oficial do projeto contém **25 fontes**:
 **Total: 25 fontes.**
 
 A relação completa está em [`../fontes/`](../fontes/).
-
-### Observação sobre a contagem
-
-Um relatório citado no material do projeto apresenta **26 fontes**, enquanto o inventário final organizado no repositório contém **25**. A diferença é mantida documentada como uma inconsistência histórica do processo e não é tratada como uma 26ª fonte sem confirmação independente.
 
 ## O que as evidências demonstram
 
@@ -129,6 +125,7 @@ A ausência de um arquivo não prova que uma etapa não ocorreu; significa apena
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem**  
-**Projeto:** *Gestão Financeira Pessoal com NotebookLM*  
+**Projeto:** Gestão Financeira Pessoal com NotebookLM  
 **Autora:** Nágyla Silva
+
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em engenharia de prompts, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
