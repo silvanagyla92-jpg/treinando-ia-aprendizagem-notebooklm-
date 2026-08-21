@@ -60,7 +60,7 @@ A matriz serve para tornar explícita a origem das categorias utilizadas nos qua
 - [`verificacao-afirmacoes.md`](./verificacao-afirmacoes.md) — estabelece o procedimento para conferir afirmações contra as fontes.
 - [`sintese-final.md`](./sintese-final.md) — integra os achados e aponta para esta matriz como índice das 25 referências.
 
-## 6. Critério acadêmico de rastreabilidade
+## 6. Critérios de rastreabilidade
 
 Uma citação documental não significa que a fonte sustente qualquer afirmação sobre o tema. A correspondência deve ser avaliada pelo conteúdo específico da publicação.
 
@@ -83,6 +83,7 @@ A matriz foi criada para que nenhuma das 25 referências fique sem identificaç�
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem**  
 **Projeto:** Gestão Financeira Pessoal com NotebookLM  
 **Autora:** Nágyla Silva
+
+*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em engenharia de prompts, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
