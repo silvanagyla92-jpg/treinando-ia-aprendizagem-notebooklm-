@@ -316,7 +316,13 @@ As definições foram organizadas para apoiar a compreensão e a documentação 
 
 ## 12. Contato
 
-**Autora:** Nágyla Silva
+**Autora:** Nágyla Silva  
+**Projeto:** Gestão Financeira Pessoal com NotebookLM  
+**Desafio:** DIO - Treinando uma IA de Aprendizagem
+
+**GitHub:** [`silvanagyla92-jpg`](https://github.com/silvanagyla92-jpg)
+
+**LinkedIn:** [`Nágyla Silva`](https://www.linkedin.com/in/n%C3%A1gyla-silva-215aba35/)
 
 ---
 
