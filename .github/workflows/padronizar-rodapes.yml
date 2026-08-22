@@ -1,0 +1,53 @@
+name: Padronizar rodapes do projeto
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  padronizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Padronizar rodapes de todos os README
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          footer = """---
+
+**Projeto:** Gestão Financeira Pessoal com NotebookLM  
+**Autora:** Nágyla Silva
+
+Projeto integrante do portfólio prático em Inteligência Artificial, desenvolvido para demonstrar competências em treinamento e avaliação de sistemas de IA, análise crítica de respostas e anotação de dados, aplicadas às funções de AI Trainer, AI Response Evaluator e Data Annotator, com base em experiência em QA e Auditoria.
+"""
+
+          for path in Path('.').rglob('README.md'):
+              if '.git' in path.parts:
+                  continue
+              text = path.read_text(encoding='utf-8')
+              normalized = text.replace('\r\n', '\n').rstrip()
+              normalized = re.sub(r'\n---\n\n\*\*Projeto:\*\*.*\Z', '', normalized, flags=re.S)
+              normalized = re.sub(r'\n\*\*Projeto:\*\*.*\Z', '', normalized, flags=re.S)
+              path.write_text(normalized.rstrip() + '\n\n' + footer + '\n', encoding='utf-8')
+
+      - name: Remover workflow temporario
+        run: rm -f .github/workflows/padronizar-rodapes.yml
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md '**/README.md' .github/workflows/padronizar-rodapes.yml
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração necessária."
+            exit 0
+          fi
+          git commit -m "padroniza rodapes de todos os README"
+          git push
