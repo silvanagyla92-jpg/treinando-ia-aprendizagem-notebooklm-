@@ -1,0 +1,69 @@
+name: Padronizar rodapes dos README
+
+on:
+  pull_request:
+    types: [opened]
+
+permissions:
+  contents: write
+
+jobs:
+  padronizar:
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout da branch da PR
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+
+      - name: Padronizar todos os README.md
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          footer = """---
+
+          **Projeto:** Gestão Financeira Pessoal com NotebookLM
+
+          **Autora:** Nágyla Silva
+
+          Projeto integrante do portfólio prático em Inteligência Artificial, desenvolvido para demonstrar competências em treinamento e avaliação de sistemas de IA, análise crítica de respostas e anotação de dados, aplicadas às funções de AI Trainer, AI Response Evaluator e Data Annotator, com base em experiência em QA e Auditoria.
+          """.strip()
+
+          for path in Path('.').rglob('README.md'):
+              if '.git' in path.parts:
+                  continue
+
+              text = path.read_text(encoding='utf-8').replace('\r\n', '\n').rstrip()
+
+              # Remove rodapés institucionais anteriores, sem alterar o conteúdo principal.
+              text = re.sub(
+                  r'\n---\n\n\*\*Projeto:\*\*.*\Z',
+                  '', text, flags=re.S
+              )
+              text = re.sub(
+                  r'\n\*\*Projeto:\*\*.*\Z',
+                  '', text, flags=re.S
+              )
+
+              updated = text.rstrip() + '\n\n' + footer + '\n'
+              path.write_text(updated, encoding='utf-8')
+
+      - name: Remover workflow temporario
+        run: rm -f .github/workflows/padronizar-rodapes-pr.yml
+
+      - name: Commit e push das padronizacoes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- README.md '**/README.md' .github/workflows/padronizar-rodapes-pr.yml
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração necessária."
+            exit 0
+          fi
+          git commit -m "docs: padronizar rodapes dos README"
+          git push origin HEAD:${{ github.event.pull_request.head.ref }}
