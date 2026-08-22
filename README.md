@@ -148,7 +148,7 @@ As informações produzidas pela IA não são tratadas automaticamente como fato
 
 ## 4. Fontes utilizadas
 
-O projeto utiliza **25 fontes**, distribuídas em quatro categorias:
+O acervo documental do projeto reúne **25 fontes**, sendo **23 referências externas e 2 documentos internos**, distribuídas em quatro categorias:
 
 | Categoria | Quantidade |
 |---|---:|
@@ -330,4 +330,4 @@ As definições foram organizadas para apoiar a compreensão e a documentação 
 
 **Autora:** Nágyla Silva
 
-Projeto integrante do portfólio prático em Inteligência Artificial, desenvolvido para demonstrar competências em treinamento e avaliação de sistemas de IA, análise crítica de respostas e anotação de dados, aplicadas às funções de AI Trainer, AI Response Evaluator e Data Annotator, com base em experiência em QA e Auditoria.
+Projeto integrante do portfólio prático em Inteligência Artificial, desenvolvido para demonstração de competências em treinamento e avaliação de sistemas de IA, análise crítica de respostas e anotação de dados, aplicado às funções de AI Trainer, AI Response Evaluator e Data Annotator, com base em experiência em QA e Auditoria.
