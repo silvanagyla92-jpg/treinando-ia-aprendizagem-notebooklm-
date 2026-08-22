@@ -153,6 +153,8 @@ O vídeo é um material complementar à documentação do projeto. Para compreen
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem**  
-**Projeto:** Gestão Financeira Pessoal com NotebookLM  
+**Projeto:** Gestão Financeira Pessoal com NotebookLM
+
 **Autora:** Nágyla Silva
+
+Projeto integrante do portfólio prático em Inteligência Artificial, desenvolvido para demonstrar competências em treinamento e avaliação de sistemas de IA, análise crítica de respostas e anotação de dados, aplicadas às funções de AI Trainer, AI Response Evaluator e Data Annotator, com base em experiência em QA e Auditoria.
