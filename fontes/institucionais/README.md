@@ -61,11 +61,6 @@ Seu valor no projeto está tanto no conteúdo quanto na possibilidade de compara
 
 ---
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem** · **NotebookLM**  
-**Autora:** Nágyla Silva
-
----
-
 **Projeto:** Gestão Financeira Pessoal com NotebookLM
 
 **Autora:** Nágyla Silva
