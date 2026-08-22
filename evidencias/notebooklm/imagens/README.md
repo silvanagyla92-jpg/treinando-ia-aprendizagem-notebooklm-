@@ -236,9 +236,8 @@ Cada arquivo possui uma finalidade documental própria e está vinculado acima p
 
 ---
 
-**Projeto:** Gestão Financeira Pessoal com NotebookLM  
+**Projeto:** Gestão Financeira Pessoal com NotebookLM
+
 **Autora:** Nágyla Silva
 
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem**
-
-*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em engenharia de prompts, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
+Projeto integrante do portfólio prático em Inteligência Artificial, desenvolvido para demonstrar competências em treinamento e avaliação de sistemas de IA, análise crítica de respostas e anotação de dados, aplicadas às funções de AI Trainer, AI Response Evaluator e Data Annotator, com base em experiência em QA e Auditoria.

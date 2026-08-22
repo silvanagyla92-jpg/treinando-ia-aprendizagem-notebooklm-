@@ -132,27 +132,10 @@ O arquivo publicado é a versão otimizada do vídeo original, preservado localm
 
 **Repositório:** [Treinando uma IA de Aprendizagem — Gestão Financeira Pessoal com NotebookLM](https://github.com/silvanagyla92-jpg/treinando-ia-aprendizagem-notebooklm-/)
 
-**Projeto:** Treinando uma IA de Aprendizagem  
-**Tema:** Gestão Financeira Pessoal com NotebookLM  
-**Autora:** Nágyla Silva
-
-### Navegação do projeto
-
-- [README principal](../README.md)
-- [Fontes](../fontes/README.md)
-- [Catalogação](../catalogacao/README.md)
-- [Prompts](../prompts/README.md)
-- [Análises](../analises/README.md)
-- [Evidências](../evidencias/README.md)
-
 ---
 
-## 📌 Observação
+**Projeto:** Gestão Financeira Pessoal com NotebookLM
 
-O vídeo é um material complementar à documentação do projeto. Para compreender integralmente a metodologia, as fontes utilizadas, os prompts, as análises e as evidências, recomenda-se consultar também as demais pastas do repositório.
-
----
-
-**CI&T – Do Prompt ao Agente** · **DIO — Treinando uma IA de Aprendizagem**  
-**Projeto:** Gestão Financeira Pessoal com NotebookLM  
 **Autora:** Nágyla Silva
+
+Projeto integrante do portfólio prático em Inteligência Artificial, desenvolvido para demonstrar competências em treinamento e avaliação de sistemas de IA, análise crítica de respostas e anotação de dados, aplicadas às funções de AI Trainer, AI Response Evaluator e Data Annotator, com base em experiência em QA e Auditoria.

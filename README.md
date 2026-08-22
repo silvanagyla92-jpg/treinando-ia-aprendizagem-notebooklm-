@@ -316,17 +316,12 @@ As definições foram organizadas para apoiar a compreensão e a documentação 
 
 ## 12. Contato
 
-**Autora:** Nágyla Silva  
-**Projeto:** Gestão Financeira Pessoal com NotebookLM  
-**Desafio:** DIO - Treinando uma IA de Aprendizagem
-
-**GitHub:** [`silvanagyla92-jpg`](https://github.com/silvanagyla92-jpg)
-
-**LinkedIn:** [`Nágyla Silva`](https://www.linkedin.com/in/n%C3%A1gyla-silva-215aba35/)
+**Autora:** Nágyla Silva
 
 ---
 
-**Projeto:** Gestão Financeira Pessoal com NotebookLM  
+**Projeto:** Gestão Financeira Pessoal com NotebookLM
+
 **Autora:** Nágyla Silva
 
-*Projeto integrante do portfólio prático de estudos em Inteligência Artificial, com foco em engenharia de prompts, avaliação crítica de respostas de IA e desenvolvimento de competências para AI Trainer, AI Response Evaluator e Data Annotator.*
+Projeto integrante do portfólio prático em Inteligência Artificial, desenvolvido para demonstrar competências em treinamento e avaliação de sistemas de IA, análise crítica de respostas e anotação de dados, aplicadas às funções de AI Trainer, AI Response Evaluator e Data Annotator, com base em experiência em QA e Auditoria.
