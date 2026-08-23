@@ -327,13 +327,21 @@ As definições foram organizadas para apoiar a compreensão e a documentação 
 
 **LinkedIn:** [`Nágyla Silva`](https://www.linkedin.com/in/n%C3%A1gyla-silva-215aba35/)
 
+<br>
+
 ### 📄 Licença
 
-Os **materiais originais produzidos pela autora** neste projeto são disponibilizados sob a licença **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+**CC BY-NC-ND 4.0 — Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International**
 
-Conteúdos de terceiros, incluindo fontes, publicações, documentos, imagens, marcas, interfaces e demais materiais não produzidos pela autora, **não estão abrangidos por esta licença** e permanecem sujeitos aos respectivos direitos autorais, licenças, permissões e termos de uso.
+Os **materiais originais produzidos pela autora** neste projeto são disponibilizados sob esta licença.
 
-[Ver licença completa](./LICENSE)
+- **BY — Atribuição:** é necessário dar crédito à autora.
+- **NC — Não Comercial:** não é permitido uso comercial.
+- **ND — Sem Derivações:** não é permitida a distribuição de versões modificadas.
+
+> **Conteúdos de terceiros:** fontes, publicações, documentos, imagens, marcas, interfaces e demais materiais não produzidos pela autora não estão abrangidos por esta licença e permanecem sujeitos aos respectivos direitos autorais, licenças, permissões e termos de uso.
+
+[Ver o texto jurídico completo da licença](./LICENSE)
 
 ---
 
