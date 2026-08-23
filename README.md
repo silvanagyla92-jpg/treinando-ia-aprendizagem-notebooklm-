@@ -52,11 +52,14 @@ PROJETO
 |
 +-- EVIDENCIAS
 |   |
-|   +-- Registros do processo
-|
-+-- NOTEBOOKLM
-|   |
-|   +-- Exploração e interação
+|   +-- NOTEBOOKLM
+|       |
+|       +-- Fontes
+|       +-- Imagens
+|       +-- Perguntas
+|       +-- Prompts
+|       +-- Relatórios
+|       +-- Respostas
 |
 +-- ANALISES
 |   |
