@@ -67,7 +67,7 @@ verificação e análise
 - [`../glossario/`](../glossario/) — conceitos utilizados no projeto.
 - [`../video/`](../video/) — síntese audiovisual da experiência.
 
-Os resultados analíticos consolidados estão em `analises/`; não existe mais uma pasta separada de `resultados/`.
+Os documentos analíticos consolidados estão em [`../analises/`](../analises/).
 
 ## Histórico e refinamento
 
