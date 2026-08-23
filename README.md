@@ -327,6 +327,8 @@ As definições foram organizadas para apoiar a compreensão e a documentação 
 
 **LinkedIn:** [`Nágyla Silva`](https://www.linkedin.com/in/n%C3%A1gyla-silva-215aba35/)
 
+---
+
 ### 📄 Licença
 
 Os **materiais originais produzidos pela autora** neste projeto são disponibilizados sob a licença **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
