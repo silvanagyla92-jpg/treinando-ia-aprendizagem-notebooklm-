@@ -57,8 +57,6 @@ evidencias/
    ↓
 analises/
    ↓
-resultados da investigação
-   ↓
 video/
 ```
 
