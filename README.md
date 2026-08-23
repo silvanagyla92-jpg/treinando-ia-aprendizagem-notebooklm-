@@ -323,11 +323,3 @@ As definições foram organizadas para apoiar a compreensão e a documentação 
 **GitHub:** [`silvanagyla92-jpg`](https://github.com/silvanagyla92-jpg)
 
 **LinkedIn:** [`Nágyla Silva`](https://www.linkedin.com/in/n%C3%A1gyla-silva-215aba35/)
-
----
-
-**Projeto:** Gestão Financeira Pessoal com NotebookLM
-
-**Autora:** Nágyla Silva
-
-Projeto integrante do portfólio prático em Inteligência Artificial, desenvolvido para demonstração de competências em treinamento e avaliação de sistemas de IA, análise crítica de respostas e anotação de dados, aplicado às funções de AI Trainer, AI Response Evaluator e Data Annotator, com base em experiência em QA e Auditoria.
