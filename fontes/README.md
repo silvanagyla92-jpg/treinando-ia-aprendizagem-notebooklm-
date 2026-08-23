@@ -1,8 +1,8 @@
 # Fontes utilizadas no projeto
 
-Esta pasta reúne as **25 fontes** utilizadas no projeto **Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM**.
+Esta pasta reúne as **25 fontes** que compõem o acervo documental do projeto **Treinando uma IA de Aprendizagem: Gestão Financeira Pessoal com NotebookLM**.
 
-O objetivo é manter as referências organizadas por natureza, facilitar a navegação e permitir a rastreabilidade entre **fonte → prompt → resposta → análise → resultado**.
+O objetivo é manter as referências organizadas por natureza, facilitar a navegação e permitir a rastreabilidade entre **fonte → prompt → resposta → análise → síntese final**.
 
 ## Inventário
 
@@ -70,7 +70,7 @@ verificação
      ↓
 análise
      ↓
-resultado
+síntese final
 ```
 
 ## Observação sobre as fontes internas
