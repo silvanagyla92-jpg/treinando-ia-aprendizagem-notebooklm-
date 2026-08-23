@@ -184,7 +184,7 @@ A verificação bibliográfica não significa que todas as fontes possuam o mesm
 
 ## 5. Perguntas estratégicas
 
-O projeto utiliza **5 perguntas estratégicas**, cada uma vinculada diretamente a um dos **5 prompts documentados** e aos respectivos registros na pasta de evidências.
+O projeto utiliza **5 perguntas estratégicas**, cada uma vinculada diretamente a um dos **5 prompts documentados** e à documentação correspondente na pasta de evidências.
 
 ### Prompt 01 - Exploração e conceituação
 
@@ -206,7 +206,7 @@ O projeto utiliza **5 perguntas estratégicas**, cada uma vinculada diretamente 
 
 **Pergunta:** Como conhecimento financeiro, organização dos recursos, comportamento e hábitos influenciam conjuntamente as escolhas que as pessoas fazem em relação ao dinheiro?
 
-Os cinco registros estão em [`evidencias/notebooklm/perguntas/`](./evidencias/notebooklm/perguntas/).
+A documentação das cinco perguntas está em [`catalogacao/perguntas-estrategicas-fontes.md`](./catalogacao/perguntas-estrategicas-fontes.md) e é referenciada na documentação de [`evidencias/notebooklm/perguntas/`](./evidencias/notebooklm/perguntas/).
 
 ---
 
