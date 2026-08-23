@@ -54,7 +54,12 @@ PROJETO
 |   |
 |   +-- NOTEBOOKLM
 |       |
-|       +-- Exploração e interação
+|       +-- Fontes
+|       +-- Imagens
+|       +-- Perguntas
+|       +-- Prompts
+|       +-- Relatórios
+|       +-- Respostas
 |
 +-- ANALISES
 |   |
