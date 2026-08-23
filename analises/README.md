@@ -29,7 +29,7 @@ verificação das afirmações
        ↓
 síntese e organização do conhecimento
        ↓
-resultados para estudo e revisão
+aprendizados e materiais para estudo e revisão
 ```
 
 Assim, `analises/` não é apenas uma coleção de textos sobre finanças pessoais. Ela registra como o conteúdo obtido no processo foi **comparado, verificado, interpretado e sintetizado**.
@@ -48,7 +48,7 @@ Assim, `analises/` não é apenas uma coleção de textos sobre finanças pessoa
 
 ## Rastreabilidade das fontes
 
-O arquivo [`rastreabilidade-fontes.md`](./rastreabilidade-fontes.md) identifica individualmente as **25 referências** utilizadas no projeto e fornece links para suas fichas em `fontes/`.
+O arquivo [`rastreabilidade-fontes.md`](./rastreabilidade-fontes.md) identifica individualmente as **25 referências que compõem o acervo documental do projeto** e fornece links para suas fichas em `fontes/`.
 
 As respostas consolidadas também apresentam referências diretas nos eixos em que as fontes são utilizadas. A matriz funciona como índice geral de rastreabilidade; a publicação original continua sendo a referência necessária para confirmação científica de uma afirmação específica.
 
@@ -79,7 +79,7 @@ A matriz está organizada em:
 
 ## Relação com outras pastas
 
-- [`../fontes/`](../fontes/) — 25 fontes utilizadas no projeto.
+- [`../fontes/`](../fontes/) — 25 fontes que compõem o acervo documental do projeto.
 - [`../prompts/`](../prompts/) — prompts utilizados e documentados.
 - [`../evidencias/`](../evidencias/) — registros do processo no NotebookLM.
 
