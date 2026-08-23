@@ -18,7 +18,9 @@ O estudo aborda, entre outros temas, alfabetização financeira, planejamento, p
 
 ### 1.3 Resumo executivo
 
-Este projeto demonstra, de forma prática, como uma IA pode ser utilizada em um processo estruturado de investigação baseado em fontes.
+Este projeto documenta uma experiência prática de aprendizagem com Inteligência Artificial, utilizando o **NotebookLM** como ferramenta de apoio à investigação, organização e síntese do conhecimento.
+
+O trabalho foi estruturado a partir de fontes selecionadas, perguntas estratégicas, prompts documentados, respostas registradas, análise crítica e evidências do processo.
 
 | Elemento | Entrega |
 |---|---|
@@ -31,9 +33,9 @@ Este projeto demonstra, de forma prática, como uma IA pode ser utilizada em um 
 | Evidências do processo | Registros, imagens e vídeo preservados |
 | Glossário | Conceitos financeiros, comportamentais e de IA |
 
-As competências profissionais demonstradas estão detalhadas na seção 2.
+O projeto prioriza **rastreabilidade, organização documental e verificação das informações**, permitindo acompanhar a relação entre fontes, perguntas, prompts, respostas, análises e síntese final.
 
-### 1.4 Visão rápida do projeto
+### 1.4 Arquitetura do projeto
 
 ```text
 PROJETO
@@ -301,8 +303,6 @@ Os principais aprendizados foram:
 - comparar fontes ajuda a identificar convergências, diferenças e limitações;
 - a IA é mais útil quando atua como apoio à investigação, e não como substituta da avaliação humana.
 
-Profissionalmente, o projeto evidencia a aplicação prática de critérios de avaliação, organização de informação, análise crítica e documentação em atividades relacionadas à Inteligência Artificial. As competências específicas estão detalhadas na seção 2.
-
 ---
 
 ## 11. Glossário
@@ -329,7 +329,7 @@ As definições foram organizadas para apoiar a compreensão e a documentação 
 
 ---
 
-### 📄 Licença
+### Licença
 
 **CC BY-NC-ND 4.0 — Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International**
 
