@@ -327,7 +327,7 @@ As definições foram organizadas para apoiar a compreensão e a documentação 
 
 **LinkedIn:** [`Nágyla Silva`](https://www.linkedin.com/in/n%C3%A1gyla-silva-215aba35/)
 
-<br>
+---
 
 ### 📄 Licença
 
