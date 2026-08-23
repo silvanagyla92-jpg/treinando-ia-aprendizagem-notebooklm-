@@ -17,7 +17,7 @@ A correlação indica aderência temática entre pergunta e fonte. Ela não deve
 
 ## Pergunta 02 - Viés do Presente
 
-**Pergunta:** De que forma o Viés do Presente explica a dificuldade em poupar para objetivos de longo prazo?
+**Pergunta:** De que forma o “Viés do Presente” (ou desconto hiperbólico) explica a dificuldade sistemática dos indivíduos em poupar para objetivos de longo prazo?
 
 **Fontes com maior correlação temática:**
 
