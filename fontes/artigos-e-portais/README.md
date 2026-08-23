@@ -1,21 +1,21 @@
 # Artigos e portais especializados
 
-Esta pasta reúne **15 artigos, portais e materiais de divulgação especializada** utilizados no projeto para complementar a fundamentação acadêmica e institucional sobre Gestão Financeira Pessoal.
+Esta pasta reúne **15 artigos, portais e materiais de divulgação especializada** que compõem o acervo documental do projeto para complementar a fundamentação acadêmica e institucional sobre Gestão Financeira Pessoal.
 
 Essas referências cumprem uma função de **contextualização, aplicação prática e educação financeira**, especialmente nos temas de vieses comportamentais, psicologia financeira, Nudge, organização financeira e educação financeira.
 
-> **Critério importante:** a presença de um artigo nesta pasta significa que ele foi utilizado como fonte do projeto. Isso não significa que todas as suas afirmações tenham o mesmo nível de evidência das pesquisas acadêmicas ou das publicações institucionais.
+> **Critério importante:** a presença de um artigo nesta pasta significa que ele integra o acervo documental do projeto. Isso não significa que todas as suas afirmações tenham o mesmo nível de evidência das pesquisas acadêmicas ou das publicações institucionais, nem que cada referência tenha sido necessariamente utilizada em todas as perguntas, prompts ou análises.
 
 ## 1. Função no projeto
 
-Os artigos e portais foram utilizados principalmente para:
+Os artigos e portais foram selecionados principalmente para:
 
 - contextualizar conceitos financeiros em linguagem acessível;
 - apresentar exemplos de vieses e comportamentos;
 - explorar aplicações da economia comportamental;
 - complementar a discussão sobre organização financeira;
 - comparar diferentes formas de explicar um mesmo fenômeno;
-- apoiar a análise crítica das respostas produzidas pelo NotebookLM.
+- apoiar a análise crítica das respostas produzidas pelo NotebookLM, quando pertinente.
 
 ## 2. Eixos temáticos
 
@@ -80,7 +80,7 @@ Essa estrutura foi útil para formular perguntas comparativas e analisar converg
 
 ## 6. Relação com o NotebookLM
 
-As referências foram utilizadas no caderno temático como material de consulta para perguntas e prompts relacionados a:
+As referências compõem o conjunto documental disponível para consulta e comparação em temas relacionados a:
 
 - educação financeira;
 - vieses cognitivos;
@@ -90,6 +90,8 @@ As referências foram utilizadas no caderno temático como material de consulta 
 - organização financeira;
 - planejamento de longo prazo;
 - tomada de decisão econômica.
+
+Quando pertinentes às perguntas e prompts, essas referências podem apoiar a contextualização, a comparação e a avaliação crítica das respostas produzidas pelo NotebookLM. A documentação de evidências específicas deve ser considerada para confirmar a utilização de uma fonte em uma etapa determinada.
 
 O fluxo metodológico adotado foi:
 
@@ -154,7 +156,7 @@ fontes/artigos-e-portais/
 
 Esta categoria demonstra que a investigação não dependeu de uma única perspectiva. O conjunto reúne materiais especializados sobre comportamento, psicologia financeira, Nudge e organização prática das finanças.
 
-Essa diversidade foi utilizada para desenvolver **aprendizagem ativa, curadoria de fontes, engenharia de prompts, comparação de evidências e avaliação crítica das respostas da IA**.
+Essa diversidade contribuiu para **aprendizagem ativa, curadoria de fontes, engenharia de prompts, comparação de evidências e avaliação crítica das respostas da IA**, quando pertinente às etapas documentadas do projeto.
 
 ---
 
